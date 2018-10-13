@@ -1,5 +1,6 @@
 {
   "app.disclaimer.de": "{warframeMarket} is a fan site not associated with {digitalExtremes}",
+  "app.general.description": "On the Warframe Market you can sell and buy: Parts, Mods, Blueprints, Relics and other stuff | Riven mods trading and auctions - soon.",
 
   "app.form.field_required": "Fält obligatoriskt",
   "app.form.can_not_be_null": "Kan ej vara null",
@@ -79,6 +80,7 @@
   "app.menu.search": "Sök",
   "app.menu.info": "Information",
   "app.menu.items": "Föremål",
+  "app.menu.auctions": "Auctions",
   "app.menu.statistics": "Statistik",
   "app.menu.tools": "Tools",
   "app.menu.tools.ducats": "Ducanator",
@@ -147,7 +149,7 @@
   "app.sort.quantity": "Kvantitet",
   "app.sort.mod_rank": "Rank",
 
-  "app.mostRecent.title": "Senast placerade annonser",
+  "app.mostRecent.title": "Senast placerade annonser {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
   "app.mostRecent.header": "Senast placerade annonser",
   "app.mostRecent.wtb": "Vill köpa",
   "app.mostRecent.wts": "Vill sälja",
@@ -155,12 +157,12 @@
   "app.mostRecent.showMore": "Visa mer",
   "app.mostRecent.showLess": "Visa mindre",
 
-  "app.itemPage.orders.title": "Annonser",
-  "app.itemPage.statistics.title": "Statistik",
-  "app.itemPage.orders.meta.description": "Köp och sälj annonser för {itemName}",
-  "app.itemPage.orders.meta.keywords": "Köp,Sälj,Annonser,Pris,Handla,Såld,Köpt,wts,wtb,Platinum,Warframe,Marknad,{itemName}",
-  "app.itemPage.statistics.meta.description": "Prisgraf och statistik för {itemName}",
-  "app.itemPage.statistics.meta.keywords": "Statistik,Köp,Sälj,Sma,Pris,Graf,Volym,Diagram,Platinum,Warframe,Marknad,{itemName}",
+  "app.itemPage.orders.title": "{itemName} - Annonser {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
+  "app.itemPage.orders.meta.description": "Köp och sälj annonser för \"{itemName}\"",
+  "app.itemPage.orders.meta.description.volume": "Trading Volume:",
+  "app.itemPage.orders.meta.description.medianPrice": "Price:",
+  "app.itemPage.statistics.title": "{itemName} - Statistik {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
+  "app.itemPage.statistics.meta.description": "Prisgraf och statistik för \"{itemName}\"",
   "app.itemPage.filters.header": "Användare",
   "app.itemPage.notFound": "Annonser kunde ej hittas",
   "app.itemPage.description": "Beskrivning",
@@ -173,6 +175,8 @@
   "app.itemPage.tabs.orders": "Annonser",
   "app.itemPage.tabs.statistics": "Statistik",
 
+  "app.tools.ducanator.title": "Ducanator - Ducat to platinum pricing ratios {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
+  "app.tools.ducanator.meta.description": "Best Ducats/platinum ratio across all items, find the best offer, buy the best items. Ducanator providing hourly and daily data.",
   "app.tools.ducanator.header": "Ducanator",
   "app.tools.ducanator.dayAgo": "Day",
   "app.tools.ducanator.hourAgo": "Hour",

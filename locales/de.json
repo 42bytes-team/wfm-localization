@@ -1,5 +1,6 @@
 {
   "app.disclaimer.de": "{warframeMarket} ist eine Fanseite und nicht assoziiert mit {digitalExtremes}",
+  "app.general.description": "On the Warframe Market you can sell and buy: Parts, Mods, Blueprints, Relics and other stuff | Riven mods trading and auctions - soon.",
 
   "app.form.field_required": "Feld erfordert Eingabe",
   "app.form.can_not_be_null": "Darf nicht null sein",
@@ -79,6 +80,7 @@
   "app.menu.search": "Suche",
   "app.menu.info": "Information",
   "app.menu.items": "Gegenstände",
+  "app.menu.auctions": "Auctions",
   "app.menu.statistics": "Statistiken",
   "app.menu.tools": "Tools",
   "app.menu.tools.ducats": "Ducanator",
@@ -156,11 +158,11 @@
   "app.mostRecent.showLess": "Weniger anzeigen",
 
   "app.itemPage.orders.title": "{itemName} - Angebote {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
+  "app.itemPage.orders.meta.description": "Kaufen und verkaufen orders for \"{itemName}\"",
+  "app.itemPage.orders.meta.description.volume": "Trading Volume:",
+  "app.itemPage.orders.meta.description.medianPrice": "Price:",
   "app.itemPage.statistics.title": "{itemName} - Statistiken {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
-  "app.itemPage.orders.meta.description": "Kaufen und verkaufen orders for {itemName}",
-  "app.itemPage.orders.meta.keywords": "'Kaufen,Verkaufen,Angebote,Preise,Handel,Verkauft,Gekauft,wts,wtb,Platinum,Warframe,Markt,{itemName}",
-  "app.itemPage.statistics.meta.description": "Preisdiagramm und Statistik für {itemName}",
-  "app.itemPage.statistics.meta.keywords": "Statistiken,Kaufen,Verkaufen,GLD,Preis,Diagramm,Menge,Grafik,Platinum,Warframe,Markt,{itemName}",
+  "app.itemPage.statistics.meta.description": "Preisdiagramm und Statistik für \"{itemName}\"",
   "app.itemPage.filters.header": "Nutzer",
   "app.itemPage.notFound": "Angebote nicht gefunden",
   "app.itemPage.description": "Beschreibung",
@@ -173,6 +175,8 @@
   "app.itemPage.tabs.orders": "Angebote",
   "app.itemPage.tabs.statistics": "Statistiken",
 
+  "app.tools.ducanator.title": "Ducanator - Ducat to platinum pricing ratios {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
+  "app.tools.ducanator.meta.description": "Best Ducats/platinum ratio across all items, find the best offer, buy the best items. Ducanator providing hourly and daily data.",
   "app.tools.ducanator.header": "Ducanator",
   "app.tools.ducanator.dayAgo": "Day",
   "app.tools.ducanator.hourAgo": "Hour",

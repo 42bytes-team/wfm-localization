@@ -1,5 +1,6 @@
 {
   "app.disclaimer.de": "{warframeMarket} это фан-сайт не связанный с {digitalExtremes}",
+  "app.general.description": "На Варфрейм маркете вы можете купить и продать: Моды, Чертежи, Праймы, Реликвии и многое другое | Скоро: Торговля модами разлома.",
 
   "app.form.field_required": "Поле не может быть пустым",
   "app.form.can_not_be_null": "Поле не может быть null",
@@ -79,6 +80,7 @@
   "app.menu.search": "Поиск",
   "app.menu.info": "Информация",
   "app.menu.items": "Предметы",
+  "app.menu.auctions": "Аукционы",
   "app.menu.statistics": "Статистика",
   "app.menu.tools": "Инструментарий",
   "app.menu.tools.ducats": "Дуканатор",
@@ -147,7 +149,7 @@
   "app.sort.quantity": "Кол-во",
   "app.sort.mod_rank": "Ранг",
 
-  "app.mostRecent.title": "Недавние заказы {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
+  "app.mostRecent.title": "Недавние заказы на Покупку и Продажу {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
   "app.mostRecent.header": "Недавние заказы",
   "app.mostRecent.wtb": "Хочу купить",
   "app.mostRecent.wts": "Хочу продать",
@@ -155,12 +157,12 @@
   "app.mostRecent.showMore": "Показать больше",
   "app.mostRecent.showLess": "Показать меньше",
 
-  "app.itemPage.orders.title": "{itemName} - Заказы {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
-  "app.itemPage.statistics.title": "{itemName} - Статистика {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
-  "app.itemPage.orders.meta.description": "Предложения покупки и продажи для {itemName}",
-  "app.itemPage.orders.meta.keywords": "Покупка,Продажа,Заказы,Цена,Торговля,Продать,купить,wts,wtb,Платина,Маркет,Warframe,Market,{itemName}",
-  "app.itemPage.statistics.meta.description": "Price graph and some statistics for {itemName}",
-  "app.itemPage.statistics.meta.keywords": "Статистика,Покупка,Продажа,Sma,Цена,График,Объем,Платина,Маркет,Warframe,Market,{itemName}",
+  "app.itemPage.orders.title": "{itemName} - Купить / Продать {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
+  "app.itemPage.orders.meta.description": "Все предложения покупки и продажи \"{itemName}\"",
+  "app.itemPage.orders.meta.description.volume": "Объем торгов:",
+  "app.itemPage.orders.meta.description.medianPrice": "Цена:",
+  "app.itemPage.statistics.title": "{itemName} - Статистика торгов {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
+  "app.itemPage.statistics.meta.description": "График цен и объем торгов \"{itemName}\"",
   "app.itemPage.filters.header": "Пользователь",
   "app.itemPage.notFound": "Заказы не найдены",
   "app.itemPage.description": "Описание",
@@ -173,6 +175,8 @@
   "app.itemPage.tabs.orders": "Заказы",
   "app.itemPage.tabs.statistics": "Статистика",
 
+  "app.tools.ducanator.title": "Дуканатор - Соотношение дукатов к платине {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
+  "app.tools.ducanator.meta.description": "Ищет лучшее соотношение Дукаты/Платина среди всех предметов. Дуканатор предоставляет ежедневную и ежечасную статистику.",
   "app.tools.ducanator.header": "Дуканатор",
   "app.tools.ducanator.dayAgo": "За день",
   "app.tools.ducanator.hourAgo": "За час",
