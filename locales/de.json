@@ -1,6 +1,6 @@
 {
   "app.disclaimer.de": "{warframeMarket} ist eine Fanseite und nicht assoziiert mit {digitalExtremes}",
-  "app.general.description": "On the Warframe Market you can sell and buy: Parts, Mods, Blueprints, Relics and other stuff | Riven mods trading and auctions - soon.",
+  "app.general.description": "Auf Warframe Market kannst du folgendes verkaufen und kaufen: Teile, Mods, Blaupausen, Relikte und andere Dinge | Riven Mod Handel und Auktionen erscheinen bald.",
 
   "app.form.field_required": "Feld erfordert Eingabe",
   "app.form.can_not_be_null": "Darf nicht null sein",
@@ -157,12 +157,12 @@
   "app.mostRecent.showMore": "Mehr anzeigen",
   "app.mostRecent.showLess": "Weniger anzeigen",
 
-  "app.itemPage.orders.title": "{itemName} - Angebote {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
-  "app.itemPage.orders.meta.description": "Kaufen und verkaufen orders for \"{itemName}\"",
-  "app.itemPage.orders.meta.description.volume": "Trading Volume:",
-  "app.itemPage.orders.meta.description.medianPrice": "Price:",
-  "app.itemPage.statistics.title": "{itemName} - Statistiken {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
-  "app.itemPage.statistics.meta.description": "Preisdiagramm und Statistik für \"{itemName}\"",
+  "app.itemPage.orders.title": "{itemName} - Kauf- und Verkaufaufträge {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
+  "app.itemPage.orders.meta.description": "Alle Handelsangebote und Preise für \"{itemName}\"",
+  "app.itemPage.orders.meta.description.volume": "Handelsvolumen:",
+  "app.itemPage.orders.meta.description.medianPrice": "Preis:",
+  "app.itemPage.statistics.title": "{itemName} - Handelsstatistiken {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
+  "app.itemPage.statistics.meta.description": "Preisgraph und einige Statistiken für \"{itemName}\"",
   "app.itemPage.filters.header": "Nutzer",
   "app.itemPage.notFound": "Angebote nicht gefunden",
   "app.itemPage.description": "Beschreibung",
@@ -175,8 +175,8 @@
   "app.itemPage.tabs.orders": "Angebote",
   "app.itemPage.tabs.statistics": "Statistiken",
 
-  "app.tools.ducanator.title": "Ducanator - Ducat to platinum pricing ratios {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
-  "app.tools.ducanator.meta.description": "Best Ducats/platinum ratio across all items, find the best offer, buy the best items. Ducanator providing hourly and daily data.",
+  "app.tools.ducanator.title": "Ducanator - Dukaten zu Platinum Preisrate {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
+  "app.tools.ducanator.meta.description": "Die beste Dukaten/Platinum Rate aller Gegenstände, finde das beste Angebot, kaufe die besten Gegenstände. Der Ducanator bietet stündlich und täglich Daten.",
   "app.tools.ducanator.header": "Ducanator",
   "app.tools.ducanator.dayAgo": "Day",
   "app.tools.ducanator.hourAgo": "Hour",
