@@ -55,7 +55,7 @@
   "app.buttons.send_message": "메시지 전송",
   "app.buttons.paginator.first": "처음",
   "app.buttons.paginator.last": "마지막",
-  "app.button.understand": "네,확인했습니다",
+  "app.button.understand": "확인",
   "app.button.googleAlt": "Google Play에서 다운로드",
 
   "app.platforms.xbox": "Xbox",
