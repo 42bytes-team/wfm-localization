@@ -364,7 +364,7 @@
   "app.im.chats.button.send": "傳送",
   "app.im.chats.button.ignore": "黑名單此用戶",
   "app.im.chats.button.leave": "離開對話",
-  "app.chats.ignore_success": "Ignored",
+  "app.im.chats.ignore_success": "Ignored",
   "app.im.ignore.title": "黑名單",
   "app.im.ignore.noEntries": "目前沒有人被黑名單",
   "app.im.ignore.lastSeen": "上次上線:",

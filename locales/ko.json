@@ -61,6 +61,7 @@
   "app.platforms.xbox": "Xbox",
   "app.platforms.pc": "Pc",
   "app.platforms.ps4": "Ps4",
+  "app.platforms.switch": "Switch",
 
   "app.user.status.ingame": "온라인(게임)",
   "app.user.status.online": "온라인",
@@ -149,7 +150,7 @@
   "app.sort.quantity": "수량",
   "app.sort.mod_rank": "랭크",
 
-  "app.mostRecent.title": "가장 최근 주문 {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
+  "app.mostRecent.title": "가장 최근 주문 {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4} switch {| Switch}}",
   "app.mostRecent.header": "가장 최근 주문",
   "app.mostRecent.wtb": "구매",
   "app.mostRecent.wts": "판매",
@@ -157,11 +158,11 @@
   "app.mostRecent.showMore": "더보기",
   "app.mostRecent.showLess": "줄이기",
 
-  "app.itemPage.orders.title": "{itemName} - 주문 {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
+  "app.itemPage.orders.title": "{itemName} - 주문 {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4} switch {| Switch}}",
   "app.itemPage.orders.meta.description": "{itemName} 구매 및 판매",
   "app.itemPage.orders.meta.description.volume": "거래량:",
   "app.itemPage.orders.meta.description.medianPrice": "가격:",
-  "app.itemPage.statistics.title": "{itemName} - 통계 {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4}}",
+  "app.itemPage.statistics.title": "{itemName} - 통계 {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4} switch {| Switch}}",
   "app.itemPage.statistics.meta.description": "{itemName}의 가격 그래프 및 통계 자료",
   "app.itemPage.filters.header": "사용자",
   "app.itemPage.notFound": "주문을 찾을 수 없음",
@@ -363,6 +364,7 @@
   "app.im.chats.button.send": "전송",
   "app.im.chats.button.ignore": "사용자 차단",
   "app.im.chats.button.leave": "채팅 나가기",
+  "app.im.chats.ignore_success": "Ignored",
   "app.im.ignore.title": "차단 목록",
   "app.im.ignore.noEntries": "아무도 차단하지 않았습니다, 아직까지는요.",
   "app.im.ignore.lastSeen": "최근 접속:",

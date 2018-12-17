@@ -364,7 +364,7 @@
   "app.im.chats.button.send": "Skicka",
   "app.im.chats.button.ignore": "Ignorera användare",
   "app.im.chats.button.leave": "Lämna chatten",
-  "app.chats.ignore_success": "Ignored",
+  "app.im.chats.ignore_success": "Ignored",
   "app.im.ignore.title": "Ignoreringslista",
   "app.im.ignore.noEntries": "Inga ignoreras för tillfället.",
   "app.im.ignore.lastSeen": "Senast inloggad:",

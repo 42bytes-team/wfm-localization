@@ -364,7 +364,7 @@
   "app.im.chats.button.send": "Senden",
   "app.im.chats.button.ignore": "Nutzer ignorieren",
   "app.im.chats.button.leave": "Unterhaltungen verlassen",
-  "app.chats.ignore_success": "Ignored",
+  "app.im.chats.ignore_success": "Ignored",
   "app.im.ignore.title": "Liste ignorierter Nutzer",
   "app.im.ignore.noEntries": "Niemand wird ignoriert, bis jetzt.",
   "app.im.ignore.lastSeen": "Zuletzt gesehen:",
