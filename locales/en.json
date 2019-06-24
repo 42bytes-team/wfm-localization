@@ -43,9 +43,10 @@
   "app.post_order.item_not_exist": "Item does not exist.",
   "app.post_order.limit_exceeded": "Only patrons can have more than 100 orders at once.",
   "app.post_order.more_than_5_of_the_same_item": "You can't create more than 3 orders for the same item.",
-  "app.post_order.already_created_no_duplicates": "This order already exists.",
+  "app.post_order.already_created_no_duplicates": "The order you're trying to create already exists.",
   "app.edit_order.order_not_exist": "Order does not exist.",
   "app.edit_order.item_not_exist": "Item does not exist.",
+  "app.edit_order.already_existing_no_duplicates": "The order you're trying to create already exists.",
   "app.delete_order.order_not_exist": "Order does not exist.",
   "app.close_order.order_not_exist": "Order does not exist.",
 

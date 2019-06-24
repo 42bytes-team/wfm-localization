@@ -41,6 +41,7 @@
     "app.post_order.already_created_no_duplicates": "This order already exists.",
     "app.edit_order.order_not_exist": "Angebot existiert nicht.",
     "app.edit_order.item_not_exist": "Gegenstand existiert nicht..",
+    "app.edit_order.already_existing_no_duplicates": "The order you're trying to create already exists.",
     "app.delete_order.order_not_exist": "Angebot existiert nicht.",
     "app.close_order.order_not_exist": "Angebot existiert nicht.",
     "app.button.edit": "Bearbeiten",

@@ -41,6 +41,7 @@
     "app.post_order.already_created_no_duplicates": "Заказ уже существует.",
     "app.edit_order.order_not_exist": "Заказ не существует.",
     "app.edit_order.item_not_exist": "Предмет не существует.",
+    "app.edit_order.already_existing_no_duplicates": "The order you're trying to create already exists.",
     "app.delete_order.order_not_exist": "Заказ не существует.",
     "app.close_order.order_not_exist": "Заказ не существует.",
     "app.button.edit": "Редактировать",
