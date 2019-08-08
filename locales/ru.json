@@ -126,7 +126,7 @@
     "app.filters.status_online": "На сайте",
     "app.filters.status_ingame": "В игре",
     "app.filters.status_all": "Все",
-    "app.filters.mod_rank": "Ранк Мода",
+    "app.filters.mod_rank": "Ранг Мода",
     "app.filters.mod_all": "Все",
     "app.filters.mod_maxed": "Максимальный",
     "app.filters.region": "Регион",
