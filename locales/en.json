@@ -12,6 +12,7 @@
   "app.form.not_a_number": "Not a number",
   "app.form.not_an_int": "Not an integer",
   "app.form.not_a_bool": "Should be True\\False (Bool)",
+  "app.form.too_many_requests": "You have made too many login\\registration attempts. Try again in 1 minute.",
 
   "app.review.error_same_user": "Can't write review about yourself.",
   "app.review.already_exist": "Review already exists.",
@@ -121,6 +122,7 @@
   "app.footer.faq": "F.A.Q.",
   "app.footer.terms": "Terms of Use",
   "app.footer.privacy": "Privacy",
+  "app.footer.contribute": "Contribute",
   "app.footer.contacts": "Contact Us",
   "app.footer.social": "Social Networks",
   "app.footer.changeLang": "Change Language",
