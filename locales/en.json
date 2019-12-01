@@ -14,6 +14,9 @@
   "app.form.not_a_bool": "Should be True\\False (Bool)",
   "app.form.too_many_requests": "You have made too many login\\registration attempts. Try again in 1 minute.",
 
+  "app.theme.light": "Fresh light",
+  "app.theme.dark": "Deep dark",
+
   "app.review.error_same_user": "Can't write review about yourself.",
   "app.review.already_exist": "Review already exists.",
   "app.review.not_exist": "Review does not exist.",
@@ -94,8 +97,10 @@
 
   "app.order.marker.wts": "wts",
   "app.order.marker.sold": "Sold",
+  "app.order.marker.wts.long": "Want to Sell",
   "app.order.marker.wtb": "wtb",
   "app.order.marker.bought": "Bought",
+  "app.order.marker.wtb.long": "Want to Buy",
 
   "app.menu.menu": "Menu",
   "app.menu.browse_patforms": "Browse",
@@ -126,6 +131,7 @@
   "app.footer.contacts": "Contact Us",
   "app.footer.follow": "Follow us on",
   "app.footer.changeLang": "Change Language",
+  "app.footer.changeTheme": "Change Theme",
   "app.footer.disclaimer": "Disclaimer",
   "app.footer.online.total": "Total Online",
   "app.footer.online.traders": "Traders Online",
@@ -178,8 +184,6 @@
 
   "app.mostRecent.title": "Warframe Market | Most recent Buy and Sell orders {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4} switch {| Switch} other {}}",
   "app.mostRecent.header": "Most Recent Orders",
-  "app.mostRecent.wtb": "Want to Buy",
-  "app.mostRecent.wts": "Want to Sell",
   "app.mostRecent.notFound": "Orders not found",
   "app.mostRecent.showMore": "Show more",
   "app.mostRecent.showLess": "Show less",
@@ -469,8 +473,6 @@
   "app.profile.edit_profile": "Edit Profile",
   "app.profile.edit_done": "Done",
   "app.profile.sortBy": "Sort By",
-  "app.profile.wtb": "Want to buy",
-  "app.profile.wts": "Want to sell",
   "app.profile.order.notFound": "Orders Not Found",
   "app.profile.activateAll": "Activate All",
   "app.profile.deactivateAll": "Deactivate All",
@@ -629,6 +631,7 @@
   "app.im.chats.button.send": "Send",
   "app.im.chats.button.ignore": "Ignore user",
   "app.im.chats.button.leave": "Leave chat",
+  "app.im.chats.button.more": "More",
   "app.im.chats.ignore_success": "Ignored",
   "app.im.chats.with.title": "Chat with {chatName}",
   "app.im.ignore.title": "Ignore list",
@@ -737,6 +740,8 @@
   "app.order.platinum": "{platCount, plural, one {# Platinum} other {# Platinum}} each",
   "app.order.platinum.row": "{platCount, plural, one {Platinum} other {Platinum}}",
   "app.order.modRank": "Rank",
+  "app.order.quantity": "in Stock",
+  "app.order.ducats": "Ducats",
   "app.order.clipboard.buy.en": "buy",
   "app.order.clipboard.sell.en": "sell",
   "app.order.clipboard.template.en": "/w {ingameName} Hi! I want to {action}: {itemName} for {price} platinum. (warframe.market)",
@@ -774,8 +779,6 @@
   "app.placeOrder.send": "Post",
   "app.placeOrder.close": "Close",
   "app.placeOrder.success": "Order Placed:",
-  "app.placeOrder.wts": "Want to Sell",
-  "app.placeOrder.wtb": "Want to Buy",
 
   "app.editOrder.header": "Edit order",
   "app.editOrder.top.sell": "Top 5 sell orders",
