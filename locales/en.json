@@ -133,6 +133,7 @@
   "app.footer.changeLang": "Change Language",
   "app.footer.changeTheme": "Change Theme",
   "app.footer.disclaimer": "Disclaimer",
+  "app.footer.lookingFor": "Looking for developer",
   "app.footer.online.total": "Total Online",
   "app.footer.online.traders": "Traders Online",
 
@@ -678,6 +679,9 @@
   "app.contacts.onSite": "On Site",
   "app.contacts.betterCallKycKyc": "Better write KycKyc",
 
+  "app.lookingFor.title": "Looking for | Warframe Market",
+  "app.lookingFor.header": "Looking for",
+
   "app.tos.title": "Terms of use | Warframe Market",
   "app.tos.header": "Terms of use",
   "app.tos.fewRules": "Few rules",
@@ -720,10 +724,10 @@
   "app.faq.enable_notifications": "How to enable desktop notifications?",
   "app.faq.enable_notifications.description": "If your browser blocks notifications and you want to enable them, you can do so very easily.",
   "app.faq.enable_notifications.chrome.title": "For chrome browser:",
-  "app.faq.enable_notifications.chrome.description": "1. On the top left corner of your browser, right before the address bar, click on the information icon -> 🛈{br}2. Switch Notifications to `Allow`",
+  "app.faq.enable_notifications.chrome.description": "1. On the top left corner of your browser, right before the address bar, click on the information icon -> {infoIcon}{br}2. Switch Notifications to `Allow`",
   "app.faq.enable_notifications.chrome.example": "Example:",
   "app.faq.enable_notifications.firefox.title": "For firefox browser:",
-  "app.faq.enable_notifications.firefox.description": "1. On the top left corner of your browser, right before the address bar, click on the information icon -> 🛈{br}2. Click `Preferences`{br}3. Click Notifications settings{br}4. Find warframe.market{br}5. Switch status to `Allow`",
+  "app.faq.enable_notifications.firefox.description": "1. On the top left corner of your browser, right before the address bar, click on the information icon -> {infoIcon}{br}2. Click `Preferences`{br}3. Click Notifications settings{br}4. Find warframe.market{br}5. Switch status to `Allow`",
 
   "app.privacy.title": "Privacy | Warframe Market",
   "app.privacy.header": "Privacy",
