@@ -112,6 +112,8 @@
     "app.footer.faq": "F.A.Q.",
     "app.footer.terms": "Nutzungsbedingungen",
     "app.footer.privacy": "Datenschutz",
+    "app.footer.privacy.policy": "Policy",
+    "app.footer.privacy.gdpr": "GDPR preferences",
     "app.footer.contribute": "Contribute",
     "app.footer.contacts": "Kontakt",
     "app.footer.follow": "Follow us on",

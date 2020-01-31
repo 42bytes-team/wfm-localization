@@ -112,6 +112,8 @@
     "app.footer.faq": "F.A.Q.",
     "app.footer.terms": "使用者條款",
     "app.footer.privacy": "隱私",
+    "app.footer.privacy.policy": "Policy",
+    "app.footer.privacy.gdpr": "GDPR preferences",
     "app.footer.contribute": "Contribute",
     "app.footer.contacts": "聯繫我們",
     "app.footer.follow": "Follow us on",

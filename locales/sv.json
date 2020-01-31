@@ -112,6 +112,8 @@
     "app.footer.faq": "Vanliga frågor",
     "app.footer.terms": "Användarvillkor",
     "app.footer.privacy": "Integritetspolicy",
+    "app.footer.privacy.policy": "Policy",
+    "app.footer.privacy.gdpr": "GDPR preferences",
     "app.footer.contribute": "Contribute",
     "app.footer.contacts": "Kontakta oss",
     "app.footer.follow": "Follow us on",

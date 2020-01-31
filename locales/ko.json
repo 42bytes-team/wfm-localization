@@ -112,6 +112,8 @@
     "app.footer.faq": "자주묻는 질문",
     "app.footer.terms": "이용 약관",
     "app.footer.privacy": "개인정보 처리방침",
+    "app.footer.privacy.policy": "Policy",
+    "app.footer.privacy.gdpr": "GDPR preferences",
     "app.footer.contribute": "기여",
     "app.footer.contacts": "문의",
     "app.footer.follow": "팔로우",
