@@ -695,6 +695,8 @@
     "app.order.modRank": "Mod Rank",
     "app.order.quantity": "in Stock",
     "app.order.ducats": "Ducats",
+    "app.order.buy": "Buy",
+    "app.order.sell": "Sell",
     "app.order.clipboard.buy.en": "buy",
     "app.order.clipboard.sell.en": "sell",
     "app.order.clipboard.template.en": "/w {ingameName} Hi! I want to {action}: {itemName} for {price} platinum. (warframe.market)",

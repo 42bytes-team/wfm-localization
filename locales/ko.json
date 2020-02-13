@@ -695,6 +695,8 @@
     "app.order.modRank": "모드 랭크",
     "app.order.quantity": "수량",
     "app.order.ducats": "두캇",
+    "app.order.buy": "Buy",
+    "app.order.sell": "Sell",
     "app.order.clipboard.buy.en": "Buy",
     "app.order.clipboard.sell.en": "Sell",
     "app.order.clipboard.template.en": "/w {ingameName} Hi! i want to {action}: {itemName} for {price} platinum. (warframe.market)",
