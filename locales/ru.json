@@ -61,6 +61,7 @@
     "app.button.understand": "Окей, я понял",
     "app.button.googleAlt": "Доступно в Google Play",
     "app.button.iosAlt": "Download on App store",
+    "app.button.installPwa":"Cкачать приложение",
     "app.platforms.xbox": "xbox",
     "app.platforms.pc": "pc",
     "app.platforms.ps4": "ps4",

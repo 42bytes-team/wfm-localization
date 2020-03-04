@@ -68,6 +68,7 @@
     "app.button.understand": "OK, I got it",
     "app.button.googleAlt": "Get it on Google Play",
     "app.button.iosAlt": "Download on App store",
+    "app.button.installPwa":"Install App",
 
     "app.platforms.xbox": "Xbox",
     "app.platforms.pc": "Pc",
