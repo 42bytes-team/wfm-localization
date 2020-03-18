@@ -61,6 +61,7 @@
     "app.button.understand": "J'ai compris",
     "app.button.googleAlt": "Disponible sur Google Play",
     "app.button.iosAlt": "Disponible sur l'App store",
+    "app.button.installPwa": "Install App",
     "app.platforms.xbox": "Xbox",
     "app.platforms.pc": "Pc",
     "app.platforms.ps4": "Ps4",

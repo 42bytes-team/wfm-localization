@@ -61,6 +61,7 @@
     "app.button.understand": "확인",
     "app.button.googleAlt": "Google Play에서 다운로드",
     "app.button.iosAlt": "App Store에서 다운로드",
+    "app.button.installPwa": "Install App",
     "app.platforms.xbox": "Xbox",
     "app.platforms.pc": "PC",
     "app.platforms.ps4": "PS4",
