@@ -474,6 +474,7 @@
     "app.settings.tabs.account": "Conta",
     "app.settings.tabs.notifications": "Notificações",
     "app.settings.tabs.automation": "Automação",
+    "app.settings.verification.footNote": "Você pode copiar o código deste campo ⮝",
     "app.settings.verification.title": "Configurações | Verificação",
     "app.settings.verification.regionAndPlatforms": "Região e Plataforma",
     "app.settings.verification.selectRegion": "Escolha sua região:",

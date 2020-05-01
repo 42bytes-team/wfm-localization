@@ -473,6 +473,7 @@
     "app.settings.tabs.subscription": "Parrainage",
     "app.settings.tabs.account": "Compte",
     "app.settings.tabs.notifications": "Notifications",
+    "app.settings.verification.footNote": "Vous pouvez copier le code de ce champ ⮝",
     "app.settings.tabs.automation": "Automatisation",
     "app.settings.verification.title": "Paramètres | Vérification",
     "app.settings.verification.regionAndPlatforms": "Région et plateforme",

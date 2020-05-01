@@ -474,6 +474,7 @@
     "app.settings.tabs.account": "Konto",
     "app.settings.tabs.notifications": "Notifikationer",
     "app.settings.tabs.automation": "Automation",
+    "app.settings.verification.footNote": "Du kan kopiera koden från det här fältet ⮝",
     "app.settings.verification.title": "Inställningar | Verifikation",
     "app.settings.verification.regionAndPlatforms": "Land och plattform",
     "app.settings.verification.selectRegion": "Välj ditt land:",
