@@ -16,6 +16,7 @@
 
     "app.theme.light": "Fresh light",
     "app.theme.dark": "Deep dark",
+    "app.theme.system": "System preference",
 
     "app.review.error_same_user": "Can't write review about yourself.",
     "app.review.already_exist": "Review already exists.",
@@ -68,7 +69,7 @@
     "app.button.understand": "OK, I got it",
     "app.button.googleAlt": "Get it on Google Play",
     "app.button.iosAlt": "Download on App store",
-    "app.button.installPwa": "Install App",
+    "app.button.installPwa": "Install as App",
 
     "app.platforms.xbox": "Xbox",
     "app.platforms.pc": "Pc",
