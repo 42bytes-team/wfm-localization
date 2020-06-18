@@ -160,6 +160,9 @@
     "app.filters.region": "Region",
     "app.filters.tags": "Tags",
     "app.filters.search": "Search by name",
+    "app.filters.auction.type": "Type",
+    "app.filters.auction.state": "State",
+    "app.filters.auction.category": "Category",
 
     "app.regions.en": "International (EN)",
     "app.regions.ru": "Russia",
@@ -177,6 +180,8 @@
     "app.mods.peculiar": "Peculiar",
     "app.mods.riven": "Riven",
     "app.mods.lich": "Lich",
+
+    "app.quirk.notSet": "Not Set",
 
     "app.sort.label": "Sort By",
     "app.sort.itemName": "Name",
@@ -196,6 +201,7 @@
 
     "app.auctions.createAuction": "Create Auction",
     "app.auctions.category.title": "Category",
+    "app.auctions.category.all": "All",
     "app.auctions.category.unveiledRiven": "Unveiled Riven mod",
     "app.auctions.category.kuvaLich": "Kuva lich",
 
@@ -409,6 +415,8 @@
     "app.auctions.modal.lich.label.damage": "Damage",
     "app.auctions.modal.lich.label.ephemera": "Ephemera",
     "app.auctions.modal.lich.label.weapon": "Weapon",
+    "app.auctions.modal.lich.ephemera.yes": "Yes",
+    "app.auctions.modal.lich.ephemera.no": "No",
 
     "app.auctions.modal.riven.label.attribute": "Attribute",
     "app.auctions.modal.riven.label.effect": "Effect",
