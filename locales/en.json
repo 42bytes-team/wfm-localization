@@ -1,7 +1,7 @@
 {
     "app.disclaimer.de": "{warframeMarket} is a fan site not associated with {digitalExtremes}",
     "app.general.title": "Warframe Market",
-    "app.general.description": "On the Warframe Market you can sell and buy: Parts, Mods, Blueprints, Relics, Riven mods and other stuff | Now we have riven auctions !",
+    "app.general.description": "The leading Warframe trading platform for tenno, where you can buy and sell vaulted & unvaulted items along with  Waframe sets, Parts, Weapons, Mods, Relics, Blueprints, Captura scenes, Rivens and Kuva liches.",
     "app.general.meta.tags": "warframe,market,buy,sell,trade,mod,blueprint,syndicate,relic,order,auction,wts,wtb,sales,worth,platinum,price,checking",
 
     "app.form.field_required": "Field required",
@@ -223,12 +223,27 @@
     "app.auctions.tabs.participatedIn": "Participating In",
     "app.auctions.tabs.createdByMe": "Created by Me",
 
-    "app.auctions.search.title": "{itemName} Riven Mod | Auctions {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
-    "app.auctions.search.title.weaponLess": "Riven Mods with attribute: {attributeName} | Auctions {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
-    "app.auctions.search.meta.description": "Buy and Sell \"{itemName}\" Riven mods within our Riven Market platform | Min. price: {minPrice}, Max. price: {maxPrice} | Number of active auctions: {auctionsCount}",
-    "app.auctions.search.meta.description.noPrices": "Buy and Sell \"{itemName}\" Riven mods within our Riven Market platform, be the first, get only the best offers.",
-    "app.auctions.search.meta.description.weaponLess": "Buy and Sell riven mods that have the \"{attributeName}\" attribute, trade with ease within our Riven Market platform.",
-    "app.auctions.search.meta.tags": "riven,auctions",
+    "app.auctions.search.riven.title": "{itemName} Riven Mods - Trading {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
+    "app.auctions.search.riven.title.attributeOnly": "Riven Mods with attribute: {attributeName} - Trading {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
+    "app.auctions.search.riven.meta.description": "Buy and Sell {itemName} Riven mods on our auction platform | How much do they cost ? -> Min. price: {minPrice} platinum ⬌ Max. price: {maxPrice} platinum | Number of active auctions: {auctionsCount}",
+    "app.auctions.search.riven.meta.description.noPrices": "Buy and Sell {itemName} Riven mods on our auction platform. Be the first to list this Riven and get the best value.",
+    "app.auctions.search.riven.meta.description.attributeOnly": "Buy and Sell riven mods that have the {attributeName} attribute, trade with ease on our auction platform.",
+    "app.auctions.search.riven.meta.tags": "riven,auctions",
+
+    "app.auctions.search.lich.title.ephemeraAndWeapon": "{weaponName} Kuva liches, with ephemera: {ephemeraName} - Trading {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
+    "app.auctions.search.lich.title.weaponOnly": "{weaponName} Kuva liches - Trading {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
+    "app.auctions.search.lich.meta.description.weaponOnly": "Buy and Sell {weaponName} Liches on our auction platform | How much do they cost ? -> Min. price: {minPrice} platinum ⬌ Max. price: {maxPrice} platinum | Number of active auctions: {auctionsCount}",
+    "app.auctions.search.lich.meta.description.weaponOnly.noPrices": "Buy and Sell {weaponName} Liches on our auction platform, be the first, get only the best offers.",
+
+    "app.auctions.search.lich.title.ephemeraOnly": "Kuva liches with ephemera: {ephemeraName} - Trading {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
+    "app.auctions.search.lich.meta.description.ephemeraOnly": "Buy and Sell liches that have the {ephemeraName} ephemera | How much do they cost ? -> Min. price: {minPrice} platinum ⬌ Max. price: {maxPrice} platinum | Number of active auctions: {auctionsCount}.",
+    "app.auctions.search.lich.meta.description.ephemeraOnly.noPrices": "Buy and Sell liches that have the {ephemeraName} ephemera, be the first, get only the best offers.",
+
+    "app.auctions.search.lich.title.elementOnly": "Kuva liches with element: {elementName} - Trading {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
+    "app.auctions.search.lich.meta.description.elementOnly": "Buy and Sell liches that have the {elementName} element | How much do they cost ? -> Min. price: {minPrice} platinum ⬌ Max. price: {maxPrice} platinum | Number of active auctions: {auctionsCount}",
+    "app.auctions.search.lich.meta.description.elementOnly.noPrices": "Buy and Sell liches that have the {elementName} element, be the first, get only the best offers.",
+
+    "app.auctions.search.lich.meta.tags": "lich,auctions",
 
     "app.auctions.search.label.category": "Category",
     "app.auctions.search.label.buyoutType": "Type",
@@ -279,15 +294,15 @@
     "app.auctions.search.resetSearch": "Reset",
     "app.auctions.search.nothingFound": "Nothing found, try more broad query.",
 
-    "app.auctions.mostRecent.title": "Riven Market | Most recent auctions {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
-    "app.auctions.mostRecent.meta.description": "Buy and sell riven mods, trade with ease and don't bother yourself with in-game chat.",
+    "app.auctions.mostRecent.title": "Riven and Lich Market | Most recent auctions {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
+    "app.auctions.mostRecent.meta.description": "Buy and sell Riven mods and Kuva Liches. Get information about prices and Trade with ease, without the pain of in-game chat. ",
     "app.auctions.mostRecent.meta.tags": "riven,auctions",
     "app.auctions.mostRecent.nothingFound": "No auctions was created yet.",
     "app.auctions.mostRecent.button.showMore": "Show More",
     "app.auctions.mostRecent.button.showLess": "Show Less",
 
-    "app.auctions.mostPopular.title": "Riven Market | Most popular auctions {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
-    "app.auctions.mostPopular.meta.description": "Looking for sell or buy offers? Here's a list of the most popular riven mod auctions within the last four hours.",
+    "app.auctions.mostPopular.title": "Riven and Lich Market | Most popular auctions {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
+    "app.auctions.mostPopular.meta.description": "Looking for sell or buy offers? Here's a list of the most popular Riven mods and Lich auctions for the last four hours.",
     "app.auctions.mostPopular.meta.tags": "riven,auctions,popular",
 
     "app.auctions.participatedIn.title": "Participated in | Auctions",
@@ -336,10 +351,15 @@
     "app.auctions.entry.riven.reRolls": "Re-rolls",
     "app.auctions.entry.riven.polarity": "Polarity",
 
-    "app.auction.title.riven": "{itemName} | Riven Mod Auction {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
-    "app.auction.title.lich": "{weaponName} ({ephemera}) | Kuva lich Auction {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
-    "app.auction.meta.description": "Mod attributes: {attributes}",
-    "app.auction.meta.tags": "riven,auctions",
+    "app.auction.riven.title": "Auction - {itemName} Riven Mod | {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
+    "app.auction.riven.meta.description": "Mod attributes: {attributes}",
+    "app.auction.riven.meta.tags": "riven,auctions",
+
+    "app.auction.lich.title": "Auction - {weaponName} Kuva lich, with ephemera: {ephemeraName} | {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
+    "app.auction.lich.title.weaponOnly": "Auction - {weaponName} Kuva lich | {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
+    "app.auction.lich.meta.description": "Element: {elementName}, | Having ephemera : {havingEphemera, select, true {Yes} false {No}} | Damage: {damage}",
+    "app.auction.lich.meta.tags": "lich,auctions,kuva",
+
     "app.auction.tabs.bids": "Bids",
     "app.auction.tabs.bans": "Bans",
     "app.auction.removeConfirmation": "Are you sure ?",
@@ -468,9 +488,8 @@
     "app.auctions.errors.cant_edit_paused_auction": "You can't edit a paused auction",
 
     "app.itemPage.orders.title": "{itemName} - Buy and Sell orders {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
-    "app.itemPage.orders.meta.description": "Trading offers and prices for \"{itemName}\"",
-    "app.itemPage.orders.meta.description.volume": "Trading Volume:",
-    "app.itemPage.orders.meta.description.medianPrice": "Price:",
+    "app.itemPage.orders.meta.description": "Price: {price} platinum | Trading Volume: {volume} | Get the best trading offers and prices for {itemName}",
+    "app.itemPage.orders.meta.description.price.notKnown": "¯\\_(ツ)_/¯",
     "app.itemPage.statistics.title": "{itemName} - Trade Statistics {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.itemPage.statistics.meta.description": "Price graph and statistics for \"{itemName}\"",
     "app.itemPage.filters.header": "User",
@@ -509,6 +528,7 @@
     "app.profile.statistics.title": "Profile - {username} | Transactions",
     "app.profile.achievements.title": "Profile - {username} | Achievements",
     "app.profile.reputation.title": "Profile - {username} | Reputation",
+    "app.profile.auctions.title": "Profile - {username} | Auctions",
     "app.profile.stats.platinum": "Platinum",
     "app.profile.stats.orders": "Orders",
     "app.profile.stats.reputation": "/reputation",
