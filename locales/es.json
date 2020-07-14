@@ -224,10 +224,10 @@
     "app.auctions.tabs.createdByMe":"Creado por mi",
 
     "app.auctions.search.riven.title": "{itemName} Mod Agrietado | Intercambio {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
-    "app.auctions.search.riven.title.weaponLess": "Mods agrietados con atributo: {attributeName} | Intercambio {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
-    "app.auctions.search.riven.meta.description": "Compra y Vende \"{itemName}\" mods agrietados en nuestra plataforma Riven Market | Precio Min: {minPrice}, Precio Max: {maxPrice} | Numero de subastas activas: {auctionsCount}",
-    "app.auctions.search.riven.meta.description.noPrices": "Compra y Vende \"{itemName}\"  mods agrietados en nuestra plataforma, se el primero, consigue las mejores ofertas.",
-    "app.auctions.search.riven.meta.description.weaponLess": "Compra y Vende mods agrietados que tengan el atributo \"{attributeName}\", comercia con facilidad en nuestra plataforma Riven Market.",
+    "app.auctions.search.riven.title.attributeOnly": "Mods agrietados con atributo: {attributeName} - Intercambio {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
+    "app.auctions.search.riven.meta.description": "Compra y Vende {itemName} mods agrietados en nuestra plataforma Riven Market | Cuanto cuestan? -> Precio Min: {minPrice} platino ⬌ Precio Max: {maxPrice} | Numero de subastas activas: {auctionsCount}",
+    "app.auctions.search.riven.meta.description.noPrices": "Compra y Vende {itemName} mods agrietados en nuestra plataforma, se el primero, consigue las mejores ofertas.",
+    "app.auctions.search.riven.meta.description.attributeOnly": "Compra y Vende mods agrietados que tengan el atributo {attributeName}, comercia con facilidad en nuestra plataforma Riven Market.",
     "app.auctions.search.riven.meta.tags": "riven,auctions",
 	
     "app.auctions.search.lich.title.ephemeraAndWeapon": "{weaponName} Kuva liches, con Efimero: {ephemeraName} - Intercambio {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
@@ -782,7 +782,6 @@
     "app.tos.api.dataUsage.1": "Coger datos y usar nuestra API está permitido a una escala razonablea.{br}El limite es 3 peticiones por segundo.{br}Nos reservamos el derecho a bloquear el acceso a cualquier app/servicio que intente usar nuestros datos.",
     "app.tos.note": "Nota: ",
     "app.tos.noteText": "Nosotros no recibimos los reportes enviados usando el sistema de reportes del juego dado que no tenemos ninguna relación con Digital Extremes según el descargo de responsabilidad del sitio.",
-
     "app.faq.title": "F.A.Q. | Warframe Market",
     "app.faq.header": "F.A.Q.",
     "app.faq.tableOfContents": "Tabla de contenido",
@@ -849,7 +848,6 @@
     "app.order.clipboard.template.ko": "/w {ingameName}님 안녕하세요! {itemName} {modRank, select, null {} other {(rank {modRank}) }}을 {price}에 {action}하고 싶습니다. (warframe.market)",
     "app.order.clipboard.buy.fr": "acheter",
     "app.order.clipboard.sell.fr": "vendre",
-
     "app.order.clipboard.template.fr": "/w {ingameName} Salut!je voudrais {action}: {itemName} {modRank, select, null {} other {(rank {modRank}) }}pour {price} platine. (warframe.market)",
     "app.order.clipboard.buy.sv": "köp",
     "app.order.clipboard.sell.sv": "sälj",
