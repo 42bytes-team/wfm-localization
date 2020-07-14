@@ -3,7 +3,6 @@
     "app.general.title": "Warframe Market",
     "app.general.description": "La pagina líder de Warframe para los tenno, donde puedes comprar y vender objetos vaulteados o no, puedes comprar y vender objetos como: Partes de Warframes, Armas, Mods, Planos, Reliquias, Escenas, mods agrietados y Kuva Liches.",
     "app.general.meta.tags": "warframe,market,buy,sell,trade,mod,blueprint,syndicate,relic,order,auction,wts,wtb,sales,worth,platinum,price,checking",
-
     "app.form.field_required": "Campo requerido",
     "app.form.can_not_be_null": "No puede ser nulo",
     "app.form.invalid": "Valor invalido",
@@ -13,23 +12,19 @@
     "app.form.not_an_int": "No es un valor entero",
     "app.form.not_a_bool": "Debe ser Verdadero\\Falso (Bool)",
     "app.form.too_many_requests": "Has intentado demasiados intentos de inicios de sesión\\registro. Vuelve a intentarlo en 1m.",
-
     "app.theme.light": "Luz fresca",
     "app.theme.dark": "Oscuro profundo",
     "app.theme.system": "Preferencia del sistema",
-
     "app.review.error_same_user": "No puedes hacerte una reseña a ti mismo.",
     "app.review.already_exist": "La reseña ya existe.",
     "app.review.not_exist": "La reseña no existe.",
     "app.review.limit_exceeded": "Has excedido el limite diario de reseñas (15\\día).",
-
     "app.account.passwords_mismatch": "La contraseña no coincide",
     "app.account.password_too_short": "La contraseña es muy corta",
     "app.account.password_invalid": "La contraseña no es valida.",
     "app.account.email_already_exist": "Este correo ya ha sido registrado.",
     "app.account.email_not_exist": "Este correo no ha sido registrado.",
     "app.account.recaptcha_missing_or_incorrect": "Falta Recaptcha o es invalida.",
-
     "app.errors.unauthorized": "Acceso no autorizado, por favor, inicie sesión",
     "app.errors.permission_denied": "Permiso denegado",
     "app.errors.not_verified": "Tu cuenta no esta verificada, por favor verifiquela.",
@@ -37,7 +32,6 @@
     "app.errors.user_not_found": "Usuario no encontrado",
     "app.errors.item_not_found": "Objeto no encontrado",
     "app.errors.last_service": "No se puede eliminar el último servicio. (por razones técnicas)",
-
     "app.chat.user_not_exist": "El usuario no existe.",
     "app.chat.ignores_you": "El usuario te esta ignorando.",
     "app.chat.ignored_by_you": "Usuario ignorado por ti.",
@@ -54,7 +48,6 @@
     "app.edit_order.already_existing_no_duplicates": "El pedido que intentas crear ya existe.",
     "app.delete_order.order_not_exist": "El pedido no existe.",
     "app.close_order.order_not_exist": "El pedido no existe.",
-
     "app.button.edit": "Editar",
     "app.button.remove": "Eliminar",
     "app.button.accept": "Aceptar",
@@ -70,18 +63,15 @@
     "app.button.googleAlt": "Consiguelo en Google Play",
     "app.button.iosAlt": "Descargalo en la App store",
     "app.button.installPwa": "Instalar como App",
-
     "app.platforms.xbox": "Xbox",
     "app.platforms.pc": "Pc",
     "app.platforms.ps4": "Ps4",
     "app.platforms.switch": "Switch",
-
     "app.polarity.madurai": "Madurai",
     "app.polarity.vazarin": "Vazarin",
     "app.polarity.naramon": "Naramon",
     "app.polarity.zenurik": "Zenurik",
     "app.polarity.any": "Cualquiera",
-
     "app.items.groups.primary": "Primaria",
     "app.items.groups.secondary": "Secundaria",
     "app.items.groups.melee": "Cuerpo a cuerpo",
@@ -89,21 +79,18 @@
     "app.items.groups.sentinel": "Centinela",
     "app.items.groups.kitgun": "Kitgun",
     "app.items.groups.archgun": "Archcañon",
-
     "app.user.status.ingame": "Conectado en el Juego",
     "app.user.status.online": "Conectado",
     "app.user.status.offline": "Desconectado",
     "app.user.status.invisible": "Invisible",
     "app.user.status.connecting": "Conectando...",
     "app.user.status.lastSeen": "Ultima vez visto: ",
-
     "app.order.marker.wts": "wts",
     "app.order.marker.sold": "Vendido",
     "app.order.marker.wts.long": "Quiero vender",
     "app.order.marker.wtb": "wtb",
     "app.order.marker.bought": "Comprado",
     "app.order.marker.wtb.long": "Quiero comprar",
-
     "app.menu.menu": "Menu",
     "app.menu.browse_patforms": "Buscar",
     "app.menu.trading": "Tradeando",
@@ -122,9 +109,7 @@
     "app.menu.settings": "Ajustes",
     "app.menu.signOut": "Cerrar Sesión",
     "app.menu.signIn": "Iniciar Sesión",
-
     "app.searchField.placeholder": "Buscar...",
-
     "app.footer.links": "Links",
     "app.footer.faq": "F.A.Q.",
     "app.footer.terms": "Términos de uso",
@@ -140,7 +125,6 @@
     "app.footer.lookingFor": "Buscando desarrollador",
     "app.footer.online.total": "Total Conectados",
     "app.footer.online.traders": "Vendedores Online",
-
     "app.filters.header": "Filtros",
     "app.filters.platinum": "Platino",
     "app.filters.orderType": "Tipo de pedido",
@@ -163,7 +147,6 @@
     "app.filters.auction.type": "Tipo",
     "app.filters.auction.state": "Estado",
     "app.filters.auction.category": "Categoria",
-
     "app.regions.en": "Internacional (EN)",
     "app.regions.ru": "Rusia",
     "app.regions.ko": "Korea",
@@ -172,7 +155,6 @@
     "app.regions.de": "Alemania",
     "app.regions.pl": "Polonia",
     "app.regions.zh": "China",
-
     "app.mods.common": "Común",
     "app.mods.uncommon": "Poco Común",
     "app.mods.rare": "Raro",
@@ -180,9 +162,7 @@
     "app.mods.peculiar": "Peculiar",
     "app.mods.riven": "Riven",
     "app.mods.lich": "Lich",
-	
     "app.quirk.notSet": "No establecido",
-
     "app.sort.label": "Ordenar por",
     "app.sort.itemName": "Nombre",
     "app.sort.createDate": "Fecha de creación",
@@ -192,19 +172,16 @@
     "app.sort.price": "Precio",
     "app.sort.quantity": "Cantidad",
     "app.sort.mod_rank": "Rango",
-
     "app.mostRecent.title": "Warframe Market | Pedidos mas recientes de Compra y Venta {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4} switch {| Switch} other {}}",
     "app.mostRecent.header": "Pedidos mas recientes",
     "app.mostRecent.notFound": "Pedido no encontrado",
     "app.mostRecent.showMore": "Mostrar mas",
     "app.mostRecent.showLess": "Mostrar menos",
-
     "app.auctions.createAuction": "Crear subasta",
     "app.auctions.category.title": "Categoría",
     "app.auctions.category.all": "Todo",
     "app.auctions.category.unveiledRiven": "Mod agrietado desvelado",
     "app.auctions.category.kuvaLich": "Kuva lich",
-
     "app.auctions.tips.sellOrder": "Precio de venta",
     "app.auctions.tips.participant": "Eres participante",
     "app.auctions.tips.own": "Tu propia subasta",
@@ -213,44 +190,35 @@
     "app.auctions.tips.auctionType.buyout": " - Subastas con precio de venta.",
     "app.auctions.tips.auctionType.sellOrder.title": "Precio de venta",
     "app.auctions.tips.auctionType.sellOrder": " - Solo precios de venta, sin subastas, sin ofertas.{br}Si, vender pedidos en la pestaña de subastas, es un poco raro, pero flexible.",
-
     "app.auctions.alert.reminder": "Se recomienda {reminderLink}, para estar siempre al día con sus subastas.",
     "app.auctions.alert.reminder.link": "activar notificaciones de escritorio",
-
     "app.auctions.tabs.mostPopular": "Popular",
     "app.auctions.tabs.mostRecent": "Mas reciente",
     "app.auctions.tabs.search": "Buscar",
     "app.auctions.tabs.participatedIn": "Participando en",
-    "app.auctions.tabs.createdByMe":"Creado por mi",
-
+    "app.auctions.tabs.createdByMe": "Creado por mi",
     "app.auctions.search.riven.title": "{itemName} Mod Agrietado | Intercambio {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.riven.title.attributeOnly": "Mods agrietados con atributo: {attributeName} - Intercambio {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.riven.meta.description": "Compra y Vende {itemName} mods agrietados en nuestra plataforma Riven Market | Cuanto cuestan? -> Precio Min: {minPrice} platino ⬌ Precio Max: {maxPrice} | Numero de subastas activas: {auctionsCount}",
     "app.auctions.search.riven.meta.description.noPrices": "Compra y Vende {itemName} mods agrietados en nuestra plataforma, se el primero, consigue las mejores ofertas.",
     "app.auctions.search.riven.meta.description.attributeOnly": "Compra y Vende mods agrietados que tengan el atributo {attributeName}, comercia con facilidad en nuestra plataforma Riven Market.",
     "app.auctions.search.riven.meta.tags": "riven,auctions",
-	
     "app.auctions.search.lich.title.ephemeraAndWeapon": "{weaponName} Kuva liches, con Efimero: {ephemeraName} - Intercambio {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.lich.title.weaponOnly": "{weaponName} Kuva liches - Intercambio {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.lich.meta.description.weaponOnly": "Compra y Vende {weaponName} Liches en nuestra plataforma de subastas | Cuanto cuestan? -> Precio Min: {minPrice} platino ⬌ Precio Max: {maxPrice} platino | Numero de subastas activas: {auctionsCount}",
     "app.auctions.search.lich.meta.description.weaponOnly.noPrices": "Compra y Vende {weaponName} Liches en nuestra plataforma de subastas, se el primero, consigue solo las mejores ofertas.",
-
     "app.auctions.search.lich.title.ephemeraOnly": "Kuva liches con efimero: {ephemeraName} - Intercambio {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.lich.meta.description.ephemeraOnly": "Compra y Vende liches que tienen el efimero {ephemeraName} | Cuanto cuestan? -> Precio Min.: {minPrice} platino ⬌ Precio Max: {maxPrice} platino | Numero de subastas activas: {auctionsCount}.",
     "app.auctions.search.lich.meta.description.ephemeraOnly.noPrices": "Compra y Vende liches que tienen el efimero {ephemeraName}, se el primero, consigue solo las mejores ofertas.",
-
     "app.auctions.search.lich.title.elementOnly": "Kuva liches con elemento: {elementName} - Intercambio {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.lich.meta.description.elementOnly": "Compra y Vende liches que tienen el elemento {elementName} | Cuanto cuestan? -> Precio Min: {minPrice} platino ⬌ Precio Max: {maxPrice} platino | Numero de subastas activas: {auctionsCount}",
     "app.auctions.search.lich.meta.description.elementOnly.noPrices": "Compra y Vende liches que tienen el elemento {elementName}, se el primero, consigue solo las mejores ofertas.",
-
     "app.auctions.search.lich.meta.tags": "lich,auctions",
-	
-    "app.auctions.search.lich.label.category": "Categoría",
+    "app.auctions.search.label.category": "Categoría",
     "app.auctions.search.label.buyoutType": "Tipo",
     "app.auctions.search.label.sortBy": "Ordenar por",
     "app.auctions.search.option.sort.priceAsc": "Precio (ascendente)",
     "app.auctions.search.option.sort.priceDesc": "Precio (descendente)",
-
     "app.auctions.search.lich.label.quirk": "Peculiaridad",
     "app.auctions.search.lich.placeholder.quirk": "Cualquiera",
     "app.auctions.search.lich.label.element": "Elemento",
@@ -265,7 +233,6 @@
     "app.auctions.search.lich.ephemera.no": "No",
     "app.auctions.search.lich.option.sort.damageDesc": "Daño (descendente)",
     "app.auctions.search.lich.option.sort.damageAsc": "Daño (ascendente)",
-	
     "app.auctions.search.riven.label.weaponName": "Nombre del arma",
     "app.auctions.search.riven.placeholder.weapon": "Cualquiera",
     "app.auctions.search.riven.label.positiveAttributes": "Atributos positivos",
@@ -278,7 +245,6 @@
     "app.auctions.search.riven.label.modRank": "Rango del Mod",
     "app.auctions.search.riven.option.sort.positiveAttrDesc": "Atributos Positivos (descendiendo)",
     "app.auctions.search.riven.option.sort.positiveAttrAsc": "Atributos Positivos (ascendiendo)",
-	
     "app.auctions.search.showAdvanced": "Mostrar filtros avanzados",
     "app.auctions.search.hideAdvanced": "Ocultar filtros avanzados",
     "app.auctions.search.all": "Todos",
@@ -293,28 +259,23 @@
     "app.auctions.search.lich.warn.selectWeapon": "Por favor selecciona un Arma/Efimero/Elemento",
     "app.auctions.search.resetSearch": "Reiniciar",
     "app.auctions.search.nothingFound": "No se encontró nada, prueba una consulta más amplia.",
-
     "app.auctions.mostRecent.title": "Riven y Lich Market | Subastas mas recientes {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.mostRecent.meta.description": "Compra y Vende Rivens y Kuva Liches. Consigue informacion sobre los precios y intercambia con facilidad, sin el dolor del chat en el juego.",
     "app.auctions.mostRecent.meta.tags": "riven,auctions",
     "app.auctions.mostRecent.nothingFound": "No hay subastas creadas aun.",
     "app.auctions.mostRecent.button.showMore": "Mostrar Mas",
     "app.auctions.mostRecent.button.showLess": "Mostrar Menos",
-
     "app.auctions.mostPopular.title": "Riven y Lich Market | Subastas mas populares {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.mostPopular.meta.description": "Buscando vender o comprar? Aquí tienes una lista de las subastas de Rivens y Liches mas populares en las ultimas 4 horas.",
     "app.auctions.mostPopular.meta.tags": "riven,auctions,popular",
-
     "app.auctions.participatedIn.title": "Participando en | Subastas",
     "app.auctions.participatedIn.meta.description": "Todas las subastas en las que participas.",
     "app.auctions.participatedIn.meta.tags": "riven,auctions",
     "app.auctions.participatedIn.nothingFound": "No se encontró nada.",
-
     "app.auctions.createdByMe.title": "Creadas por mi | Subastas",
     "app.auctions.createdByMe.meta.description": "Todas las subastas que creaste.",
     "app.auctions.createdByMe.meta.tags": "riven,auctions",
     "app.auctions.createdByMe.nothingFound": "No se encontró nada.",
-
     "app.auctions.entry.removeConfirmation": "Eliminar ?",
     "app.auctions.entry.state.archiving": "Archivado",
     "app.auctions.entry.state.private": "Privado",
@@ -341,7 +302,6 @@
     "app.auctions.entry.topBid": "Oferta mas grande",
     "app.auctions.entry.noBids": "No hay ofertas aun",
     "app.auctions.entry.yourBid": "Tu oferta",
-	
     "app.auctions.entry.lich.ephemera": "Efimero",
     "app.auctions.entry.lich.damage": "Daño",
     "app.auctions.entry.lich.element": "Elemento",
@@ -350,16 +310,13 @@
     "app.auctions.entry.riven.modRank": "Rangos",
     "app.auctions.entry.riven.reRolls": "Re-rolls",
     "app.auctions.entry.riven.polarity": "Polaridad",
-
     "app.auction.riven.title": "Subasta {itemName} Rivens | {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auction.riven.meta.description": "Atributos del mod: {attributes}",
     "app.auction.riven.meta.tags": "riven,auctions",
-	
     "app.auction.lich.title": "Subasta - {weaponName} Kuva lich, con efimero: {ephemeraName} | {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auction.lich.title.weaponOnly": "Subasta - {weaponName} Kuva lich | {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auction.lich.meta.description": "Elemento: {elementName}, | Tiene Efimero : {havingEphemera, select, true {Yes} false {No}} | Daño: {damage}",
     "app.auction.lich.meta.tags": "lich,auctions,kuva",
-	
     "app.auction.tabs.bids": "Ofertas",
     "app.auction.tabs.bans": "Baneos",
     "app.auction.removeConfirmation": "Estas seguro?",
@@ -408,7 +365,6 @@
     "app.auction.active": "La subasta esta activa.{br}Puedes elegir el ganador en cualquier momento, Esto pondra tu subasta en pausa (para procesar el comercio en el juego).{br}Podrás reconsiderar tu elección, y poder continuar la subasta cancelando el ganador anterior.",
     "app.auction.onPause": "Subasta en pausa.",
     "app.auction.onPause.considering": "Considerando como ganador a:",
-
     "app.auction.onPause.owner": "Póngase en contacto con el usuario en el juego y procese el intercambio. Si todo va bien, puedes marcar la subasta como \"completado\" (esquina superior derecha).{br}En caso de no completarla por estafa o otra razón, puedes continuar la subasta, puedes desmarcarlo o banear el ganador. También puedes intentar seleccionar otro ganador.",
     "app.auction.onPause.participant": "No se salga de la subasta, el dueño puede reconsiderar o cancel su elección de ganador (la subasta continuaría).",
     "app.auction.completed": "La subasta fue marcada como completada.",
@@ -417,19 +373,16 @@
     "app.auction.bans.empty": "Nadie esta baneado aun.",
     "app.auction.bans.button.removeBan": "Quitar Ban",
     "app.auction.clipboard.template": "/w {ingameName} Hi!",
-
     "app.auction.riven.modRank": "Rango del Mod",
     "app.auction.riven.mastery": "Maestria",
     "app.auction.riven.reRolls": "Re-rolls",
     "app.auction.riven.polarity": "Polaridad",
-
     "app.auctions.modal.title.create": "Crear subasta",
     "app.auctions.modal.title.edit": "Editar subasta",
     "app.auctions.modal.button.close": "Cerrar",
     "app.auctions.modal.stages.item": "Información del objeto",
     "app.auctions.modal.stages.auction": "Información de la subasta",
     "app.auctions.modal.stages.done": "Hecho",
-	
     "app.auctions.modal.lich.label.quirk": "Peculiaridad",
     "app.auctions.modal.lich.label.element": "Elemento",
     "app.auctions.modal.lich.label.damage": "Daño",
@@ -437,7 +390,6 @@
     "app.auctions.modal.lich.label.weapon": "Arma",
     "app.auctions.modal.lich.ephemera.yes": "Si",
     "app.auctions.modal.lich.ephemera.no": "No",
-	
     "app.auctions.modal.riven.label.attribute": "Atributo",
     "app.auctions.modal.riven.label.effect": "Efecto",
     "app.auctions.modal.riven.label.value": "Valor",
@@ -451,7 +403,6 @@
     "app.auctions.modal.riven.option.negative": "Negativo",
     "app.auctions.modal.riven.button.addAttribute": "+ Añadir",
     "app.auctions.modal.riven.button.removeAttribute": "X",
-
     "app.auctions.modal.success": "La subasta se creo correctamente!",
     "app.auctions.modal.button.next": "Siguiente",
     "app.auctions.modal.button.previous": "Atrás",
@@ -459,7 +410,6 @@
     "app.auctions.modal.button.createNew": "Crear una Nueva",
     "app.auctions.modal.button.openCreated": "Abrir subasta recién creada",
     "app.auctions.modal.button.update": "Actualizar",
-
     "app.auctions.modal.label.privacy.order": "Orden",
     "app.auctions.modal.label.privacy.auction": "Subasta",
     "app.auctions.modal.button.privacy.private": "Privado",
@@ -474,7 +424,6 @@
     "app.auctions.modal.button.policy.buyout": "Con subasta",
     "app.auctions.modal.button.policy.withoutBuyout": "sin subasta",
     "app.auctions.modal.button.policy.directSell": "Precio de venta",
-
     "app.ws.auctions.errors.its_your_own_auction": "No puedes participar en tu propia subasta.",
     "app.ws.auctions.errors.banned_from_auction": "Fuiste baneado de esta subasta.",
     "app.ws.auctions.errors.reputation_is_to_low": "Tu reputación es demasiado baja para entrar en esta subasta.",
@@ -486,7 +435,6 @@
     "app.auctions.errors.auctions_limit_exceeded": "Solo los Patreons pueden tener mas de 50 subastas",
     "app.auctions.errors.bids_limit_exceeded": "Solo los Patreons pueden tener mas de 50 ofertas",
     "app.auctions.errors.cant_edit_paused_auction": "No puedes editar una subasta pausada",
-
     "app.itemPage.orders.title": "{itemName} - Compra y vende pedidos {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.itemPage.orders.meta.description": "Precio: {price} platino | Cantidad a vender: {volume} | Consigue los mejores precios y ofertas para {itemName}",
     "app.itemPage.orders.meta.description.price.notKnown": "¯\\_(ツ)_/¯",
@@ -503,7 +451,6 @@
     "app.itemPage.ducats": "Ducados",
     "app.itemPage.tabs.orders": "Pedidos",
     "app.itemPage.tabs.statistics": "Estadísticas",
-
     "app.tools.ducanator.title": "Ducanator - Proporción de precios de Ducados a Platino {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.tools.ducanator.meta.description": "Mejor relación entre Ducados/Platino entre todos los objetos, encontrar la mejor oferta, comprar los mejores objetos. Ducanator proporciona horariamente y diariamente la información.",
     "app.tools.ducanator.header": "Ducanator",
@@ -523,7 +470,6 @@
     "app.tools.ducanator.sort.position_day": "Día",
     "app.tools.ducanator.sort.position_week": "Semana",
     "app.tools.ducanator.sort.position_month": "Mes",
-
     "app.profile.title": "Perfil - {username} | Pedidos",
     "app.profile.statistics.title": "Perfil - {username} | Transacciones",
     "app.profile.achievements.title": "Perfil - {username} | Logros",
@@ -570,7 +516,6 @@
     "app.reviews.hide": "Ocultar",
     "app.reviews.show": "Mostrar",
     "app.review.hidden": "Oculto",
-
     "app.settings.title": "Ajustes",
     "app.settings.header": "Ajustes",
     "app.settings.tabs.verification": "Verificación",
@@ -578,8 +523,8 @@
     "app.settings.tabs.account": "Cuenta",
     "app.settings.tabs.notifications": "Notificaciones",
     "app.settings.tabs.automation": "Automatización",
-    "app.settings.verification.title": "Ajustes | Verificación",
     "app.settings.verification.footNote": "Puedes copiar este codigo ⮝",
+    "app.settings.verification.title": "Ajustes | Verificación",
     "app.settings.verification.regionAndPlatforms": "Región y Plataforma",
     "app.settings.verification.selectRegion": "Selecciona tu región:",
     "app.settings.verification.selectRegion.hint": "*La región restringirá la accesibilidad de sus pedidos",
@@ -684,7 +629,6 @@
     "app.settings.automation.hour": "{itemCount, plural, one {# hour} other {# hours}}",
     "app.settings.automation.after": "después",
     "app.settings.automation.since": "desde el último cambio de estado.",
-
     "app.im.title": "Mensajes",
     "app.im.header": "Mensajes",
     "app.im.tabs.chats": "Chats",
@@ -704,9 +648,7 @@
     "app.im.ignore.noEntries": "Ningún ignorado, por ahora.",
     "app.im.ignore.lastSeen": "Ultima vez visto:",
     "app.im.ignore.button.remove": "Eliminar",
-
     "app.im.ignore.empty": "La lista de ignorados esta vaciá",
-
     "app.auth.title": "Autorización | Warframe Market",
     "app.auth.header": "Autorización",
     "app.auth.signIn.title": "Registrarse | Warframe Market",
@@ -735,7 +677,6 @@
     "app.auth.register.passwordConfirm": "Confirmar Contraseña",
     "app.auth.register.passwordConfirmPlaceholder": "Tu Contraseña",
     "app.auth.register.joinNow": "Unirse ahora",
-
     "app.contacts.title": "Contactanos | Warframe Market",
     "app.contacts.header": "Contactanos",
     "app.contacts.socialNetworks": "En redes sociales",
@@ -743,10 +684,8 @@
     "app.contacts.email": "por Correo",
     "app.contacts.onSite": "En la pagina",
     "app.contacts.betterCallKycKyc": "Mejor escribir a KycKyc",
-
     "app.lookingFor.title": "Buscando | Warframe Market",
     "app.lookingFor.header": "Buscando",
-
     "app.tos.title": "Términos de uso | Warframe Market",
     "app.tos.header": "Términos de uso",
     "app.tos.fewRules": "Pocas reglas",
@@ -817,13 +756,10 @@
     "app.faq.enable_notifications.chrome.example": "Ejemplo:",
     "app.faq.enable_notifications.firefox.title": "Para el navegador Firefox:",
     "app.faq.enable_notifications.firefox.description": "1. En la esquina superior izquierda de su navegador, justo antes de la barra de direcciones, haga clic en el icono de información -> {infoIcon}{br}2. Haga clic en `Preferencias`{br}3. Haga clic en Configuración de notificaciones{br}4. Encuentra warframe.market{br}5. Cambie el estado a `Permitir`",
-
     "app.privacy.title": "Privacidad | Warframe Market",
     "app.privacy.header": "Privacidad",
-
     "app.timeRange.48hours": "48 Horas",
     "app.timeRange.90days": "90 Días",
-
     "app.order.bought": "Compras",
     "app.order.sold": "Ventas",
     "app.order.edit": "Editar",
@@ -859,7 +795,6 @@
     "app.order.clipboard.sell.zh": "sell",
     "app.order.clipboard.template.zh": "/w {ingameName} Hi! I want to {action}: {itemName} {modRank, select, null {} other {(rank {modRank}) }}for {price} platinum. (warframe.market)",
     "app.order.clipboard.close": "Cerrar",
-
     "app.placeOrder.bigButton": "Realizar pedido",
     "app.placeOrder.header": "Realizar pedido",
     "app.placeOrder.orderType": "Tipo de pedido",
@@ -874,7 +809,6 @@
     "app.placeOrder.send": "Publicar",
     "app.placeOrder.close": "Cerrar",
     "app.placeOrder.success": "Pedido Creado:",
-	
     "app.elements.heat": "Calor",
     "app.elements.impact": "Impacto",
     "app.elements.electricity": "Electricidad",
@@ -882,7 +816,6 @@
     "app.elements.radiation": "Radiacion",
     "app.elements.toxin": "Toxina",
     "app.elements.cold": "Frío",
-
     "app.editOrder.header": "Editar pedido",
     "app.editOrder.top.sell": "Top 5 pedidos vendidos",
     "app.editOrder.top.sell.maxed": "Top 5 pedidos vendidos [Rango Maximo]",
@@ -901,7 +834,6 @@
     "app.editOrder.send": "Actualizar",
     "app.editOrder.close": "Cerrar",
     "app.editOrder.success": "Pedido actualizado:",
-
     "app.statistics.noData": "No hay información disponible",
     "app.statistics.priceChart": "Grafico de pedidos",
     "app.statistics.volume": "Volumen",
