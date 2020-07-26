@@ -80,7 +80,7 @@
     "app.items.groups.sentinel": "Centinela",
     "app.items.groups.kitgun": "Kitgun",
     "app.items.groups.archgun": "Archcañon",
-    "app.user.status.ingame": "Conectado en el Juego",
+    "app.user.status.ingame": "En el Juego",
     "app.user.status.online": "Conectado",
     "app.user.status.offline": "Desconectado",
     "app.user.status.invisible": "Invisible",
