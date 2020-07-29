@@ -260,7 +260,7 @@
     "app.auctions.search.lich.label.ephemera": "Ephemera",
     "app.auctions.search.lich.placeholder.ephemera.any": "Any",
     "app.auctions.search.lich.placeholder.ephemera.without": "Without",
-    "app.auctions.search.lich.label.havingEphemera": "Having Ephemera",
+    "app.auctions.search.lich.label.havingEphemera": "Has Ephemera",
     "app.auctions.search.lich.label.weaponName": "Weapon Name",
     "app.auctions.search.lich.placeholder.weaponName": "Any",
     "app.auctions.search.lich.ephemera.yes": "Yes",
@@ -359,7 +359,7 @@
 
     "app.auction.lich.title": "Auction - {weaponName} lich, ephemera: {ephemeraName} {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auction.lich.title.weaponOnly": "Auction - {weaponName} lich {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
-    "app.auction.lich.meta.description": "Element: {elementName} | Having ephemera : {havingEphemera, select, true {Yes} false {No} other {}} | Damage: {damage}",
+    "app.auction.lich.meta.description": "Element: {elementName} | Has ephemera : {havingEphemera, select, true {Yes} false {No} other {}} | Damage: {damage}",
     "app.auction.lich.meta.tags": "lich,auctions,kuva",
 
     "app.auction.tabs.bids": "Bids",
