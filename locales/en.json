@@ -887,6 +887,7 @@
     "app.placeOrder.send": "Post",
     "app.placeOrder.close": "Close",
     "app.placeOrder.success": "Order Placed:",
+    "app.placeOrder.visibility": "Initial visibility:",
 
     "app.elements.heat": "Heat",
     "app.elements.impact": "Impact",

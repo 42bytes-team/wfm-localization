@@ -822,6 +822,7 @@
     "app.placeOrder.send": "Publicera",
     "app.placeOrder.close": "Stäng",
     "app.placeOrder.success": "Annons placerad:",
+    "app.placeOrder.visibility": "Initial visibility:",
     "app.elements.heat": "Värme",
     "app.elements.impact": "Påverkan",
     "app.elements.electricity": "Elektricitet",

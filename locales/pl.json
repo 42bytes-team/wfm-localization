@@ -822,6 +822,7 @@
     "app.placeOrder.send": "Wstaw",
     "app.placeOrder.close": "Zamknij",
     "app.placeOrder.success": "Wstawiono zamówienie:",
+    "app.placeOrder.visibility": "Initial visibility:",
     "app.elements.heat": "Ogień",
     "app.elements.impact": "Miażdżenie",
     "app.elements.electricity": "Elektryczność",

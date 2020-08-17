@@ -822,6 +822,7 @@
     "app.placeOrder.send": "Разместить",
     "app.placeOrder.close": "Закрыть",
     "app.placeOrder.success": "Размещен заказ на:",
+    "app.placeOrder.visibility": "Initial visibility:",
     "app.elements.heat": "Тепло",
     "app.elements.impact": "Влияние",
     "app.elements.electricity": "Электричество",

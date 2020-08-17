@@ -822,6 +822,7 @@
     "app.placeOrder.send": "Publier",
     "app.placeOrder.close": "Fermer",
     "app.placeOrder.success": "Annonce passé:",
+    "app.placeOrder.visibility": "Initial visibility:",
     "app.elements.heat": "Chaleur",
     "app.elements.impact": "Impact",
     "app.elements.electricity": "Électricité",

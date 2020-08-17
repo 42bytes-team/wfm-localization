@@ -822,6 +822,7 @@
     "app.placeOrder.send": "Erstellen",
     "app.placeOrder.close": "Schließen",
     "app.placeOrder.success": "Angebot erstellt:",
+    "app.placeOrder.visibility": "Initial visibility:",
     "app.elements.heat": "Hitze",
     "app.elements.impact": "Auswirkung",
     "app.elements.electricity": "Elektrizität",

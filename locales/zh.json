@@ -822,6 +822,7 @@
     "app.placeOrder.send": "送出",
     "app.placeOrder.close": "關閉",
     "app.placeOrder.success": "訂單已送出:",
+    "app.placeOrder.visibility": "Initial visibility:",
     "app.elements.heat": "熱",
     "app.elements.impact": "影響力",
     "app.elements.electricity": "電力",

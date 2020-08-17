@@ -822,6 +822,7 @@
     "app.placeOrder.send": "등록",
     "app.placeOrder.close": "닫기",
     "app.placeOrder.success": "거래 등록 완료:",
+    "app.placeOrder.visibility": "Initial visibility:",
     "app.elements.heat": "열",
     "app.elements.impact": "타격",
     "app.elements.electricity": "전기",

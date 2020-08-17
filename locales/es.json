@@ -785,7 +785,6 @@
     "app.order.sell": "Vender",
     "app.order.clipboard.buy.en": "buy",
     "app.order.clipboard.sell.en": "sell",
-
     "app.order.clipboard.template.en": "/w {ingameName} Hi! I want to {action}: {itemName} {modRank, select, null {} other {(rank {modRank}) }}for {price} platinum. (warframe.market)",
     "app.order.clipboard.buy.ru": "купить",
     "app.order.clipboard.sell.ru": "продать",
@@ -823,6 +822,7 @@
     "app.placeOrder.send": "Publicar",
     "app.placeOrder.close": "Cerrar",
     "app.placeOrder.success": "Pedido Creado:",
+    "app.placeOrder.visibility": "Initial visibility:",
     "app.elements.heat": "Calor",
     "app.elements.impact": "Impacto",
     "app.elements.electricity": "Electricidad",
