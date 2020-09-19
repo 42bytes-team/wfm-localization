@@ -499,6 +499,8 @@
     "app.profile.tabs.statistics": "Estadísticas",
     "app.profile.tabs.transactions": "Transacciones",
     "app.profile.tabs.reviews": "Reputación",
+    "app.profile.tabs.auctions": "Auctions",
+    "app.profile.tabs.myBids": "My Bids",
     "app.profile.edit.placeholder": "Escribe algo sobre ti.",
     "app.profile.edit.saved": "Guardado",
     "app.profile.edit.chars": "Caracteres",

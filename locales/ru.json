@@ -499,6 +499,8 @@
     "app.profile.tabs.statistics": "Статистика",
     "app.profile.tabs.transactions": "Транзакции",
     "app.profile.tabs.reviews": "Репутация",
+    "app.profile.tabs.auctions": "Auctions",
+    "app.profile.tabs.myBids": "My Bids",
     "app.profile.edit.placeholder": "напишите что-нибудь о себе",
     "app.profile.edit.saved": "Сохранено",
     "app.profile.edit.chars": "Символов",
