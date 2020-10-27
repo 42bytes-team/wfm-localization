@@ -3,7 +3,6 @@
     "app.general.title": "Warframe Market",
     "app.general.description": "No Warframe Market você pode vender e comprar: Peças, Mods, Diagramas, Relíquias, mods Riven e outras coisas | Agora temos leilões de riven!",
     "app.general.meta.tags": "warframe,mercado,comprar,vender,trocar,mod,diagrama,sindicato,relíquia,pedido,leilão,wts,wtb,vendas,valor,platina,preço,conferir",
-
     "app.form.field_required": "Campo necessário",
     "app.form.can_not_be_null": "Valor não pode ser nulo",
     "app.form.invalid": "Valor inválido",
@@ -13,23 +12,19 @@
     "app.form.not_an_int": "Valor não é um inteiro",
     "app.form.not_a_bool": "Valor deve ser True\\False (Booleano)",
     "app.form.too_many_requests": "Você fez muitas tentativas de registro ou login. Tente novamente em 1 minuto.",
-
     "app.theme.light": "Claro",
     "app.theme.dark": "Escuro",
     "app.theme.system": "Mesmo do sistema",
-
     "app.review.error_same_user": "Não pode escrever uma avaliação sobre si mesmo.",
     "app.review.already_exist": "Já existe uma avaliação registrada.",
     "app.review.not_exist": "Não existe nenhuma avaliação.",
     "app.review.limit_exceeded": "Você excedeu seu limite de avaliações diárias (15\\dia).",
-
     "app.account.passwords_mismatch": "As senhas devem ser iguais.",
     "app.account.password_too_short": "A senha é muito curta.",
     "app.account.password_invalid": "Senha inválida.",
     "app.account.email_already_exist": "E-mail já utilizado.",
     "app.account.email_not_exist": "E-mail não registrado.",
     "app.account.recaptcha_missing_or_incorrect": "Recaptcha ausente ou inválido.",
-
     "app.errors.unauthorized": "Acesso não autorizado, por favor faça log-in.",
     "app.errors.permission_denied": "Permissão negada",
     "app.errors.not_verified": "Sua conta não está verificada, favor verificá-la.",
@@ -38,7 +33,6 @@
     "app.errors.item_not_found": "Item não encontrado",
     "app.errors.last_service": "Não se pode remover o último serviço. (por razões técnicas)",
     "app.errors.banned": "Sua conta foi suspensa (descubra a razão na sua página de perfil).",
-
     "app.chat.user_not_exist": "Usuário não existe",
     "app.chat.ignores_you": "O usuário está ignorando você.",
     "app.chat.ignored_by_you": "Usuário ignorado por você.",
@@ -55,7 +49,6 @@
     "app.edit_order.already_existing_no_duplicates": "O pedido que você está tentando criar já existe.",
     "app.delete_order.order_not_exist": "O pedido não existe.",
     "app.close_order.order_not_exist": "O pedido não existe.",
-
     "app.button.edit": "Editar",
     "app.button.remove": "Remover",
     "app.button.accept": "Aceitar",
@@ -71,18 +64,15 @@
     "app.button.googleAlt": "Baixe no Google Play",
     "app.button.iosAlt": "Baixe na App Store",
     "app.button.installPwa": "Install App",
-
     "app.platforms.xbox": "Xbox",
     "app.platforms.pc": "Pc",
     "app.platforms.ps4": "Ps4",
     "app.platforms.switch": "Switch",
-
     "app.polarity.madurai": "Madurai",
     "app.polarity.vazarin": "Vazarin",
     "app.polarity.naramon": "Naramon",
     "app.polarity.zenurik": "Zenurik",
     "app.polarity.any": "Qualquer",
-
     "app.items.groups.primary": "Primária",
     "app.items.groups.secondary": "Secundária",
     "app.items.groups.melee": "Arma branca",
@@ -90,21 +80,18 @@
     "app.items.groups.sentinel": "Sentinela",
     "app.items.groups.kitgun": "Kitgun",
     "app.items.groups.archgun": "Arch-Arma",
-
     "app.user.status.ingame": "Online no jogo",
     "app.user.status.online": "Online",
     "app.user.status.offline": "Offline",
     "app.user.status.invisible": "Invisível",
     "app.user.status.connecting": "Conectando...",
     "app.user.status.lastSeen": "Visto por último: ",
-
     "app.order.marker.wts": "wts",
     "app.order.marker.sold": "Vendido",
     "app.order.marker.wts.long": "Vendendo",
     "app.order.marker.wtb": "wtb",
     "app.order.marker.bought": "Comprado",
     "app.order.marker.wtb.long": "Comprando",
-
     "app.menu.menu": "Menu",
     "app.menu.browse_patforms": "Navegar",
     "app.menu.trading": "Comércio",
@@ -124,9 +111,7 @@
     "app.menu.settings": "Configurações",
     "app.menu.signOut": "Sair",
     "app.menu.signIn": "Entrar",
-
     "app.searchField.placeholder": "Pesquisar...",
-
     "app.footer.links": "Links",
     "app.footer.faq": "Perguntas frequentes",
     "app.footer.terms": "Termos de Uso",
@@ -142,7 +127,6 @@
     "app.footer.lookingFor": "Procurando um desenvolvedor",
     "app.footer.online.total": "Total Online",
     "app.footer.online.traders": "Comerciantes online",
-
     "app.filters.header": "Filtros",
     "app.filters.platinum": "Platina",
     "app.filters.orderType": "Tipo de Pedido",
@@ -165,7 +149,6 @@
     "app.filters.auction.type": "Tipo",
     "app.filters.auction.state": "Situação",
     "app.filters.auction.category": "Categoria",
-
     "app.regions.en": "Internacional (Inglês)",
     "app.regions.ru": "Rússia",
     "app.regions.ko": "Coreia",
@@ -174,7 +157,6 @@
     "app.regions.de": "Alemanha",
     "app.regions.pl": "Polônia",
     "app.regions.zh": "China",
-
     "app.mods.common": "Comum",
     "app.mods.uncommon": "Incomum",
     "app.mods.rare": "Raro",
@@ -182,9 +164,7 @@
     "app.mods.peculiar": "Peculiar",
     "app.mods.riven": "Riven",
     "app.mods.lich": "Lich",
-
     "app.quirk.notSet": "Não escolhido",
-
     "app.sort.label": "Classificar por",
     "app.sort.itemName": "Nome",
     "app.sort.createDate": "Data de criação",
@@ -194,19 +174,16 @@
     "app.sort.price": "Preço unitário",
     "app.sort.quantity": "Quantidade",
     "app.sort.mod_rank": "Nível",
-
     "app.mostRecent.title": "Warframe Market | Pedidos de Compra e Venda mais recentes {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4} switch {| Switch} other {}}",
     "app.mostRecent.header": "Pedidos Mais Recentes",
     "app.mostRecent.notFound": "Pedidos não encontrados",
     "app.mostRecent.showMore": "Mostrar mais",
     "app.mostRecent.showLess": "Mostrar menos",
-
     "app.auctions.createAuction": "Criar Leilão",
     "app.auctions.category.title": "Categoria",
     "app.auctions.category.all": "Todos",
     "app.auctions.category.unveiledRiven": "Mod Riven Revelado",
     "app.auctions.category.kuvaLich": "Kuva Lich",
-
     "app.auctions.tips.sellOrder": "Pedido de venda",
     "app.auctions.tips.participant": "Você é participante",
     "app.auctions.tips.own": "Seu próprio leilão",
@@ -215,44 +192,35 @@
     "app.auctions.tips.auctionType.buyout": " - Leilões que têm preço de compra imediata.",
     "app.auctions.tips.auctionType.sellOrder.title": "Pedido de venda",
     "app.auctions.tips.auctionType.sellOrder": " - Apenas um pedido de venda. Não é leilão, não tem lances.{br}Sim, pedidos de venda na aba de leilões. É um pouco estranho, mas é flexível.",
-
     "app.auctions.alert.reminder": "É recomendado {reminderLink}, a fim de estar sempre atualizado com seus leilões.",
     "app.auctions.alert.reminder.link": "ativar notificações de desktop",
-
     "app.auctions.tabs.mostPopular": "Populares",
     "app.auctions.tabs.mostRecent": "Mais recentes",
     "app.auctions.tabs.search": "Pesquisa",
     "app.auctions.tabs.participatedIn": "Estou participando",
     "app.auctions.tabs.createdByMe": "Criado por mim",
-
     "app.auctions.search.riven.title": "{itemName} Mods Riven - Comércio {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.riven.title.attributeOnly": "Mods Riven com o atributo: {attributeName} - Trading {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.riven.meta.description": "Comprar e vender mods Riven {itemName} na nossa plataforma de leilões | Quanto custam? -> Preço mín.: {minPrice} platina ⬌ Preço máx: {maxPrice} platina | Número de leilões ativos: {auctionsCount}",
     "app.auctions.search.riven.meta.description.noPrices": "Comprar e vender mods Riven {itemName} na nossa plataforma de leilões. Seja o primeiro a listar esse Riven e consiga o melhor preço.",
     "app.auctions.search.riven.meta.description.attributeOnly": "Buy and Sell riven mods that have the {attributeName} attribute, trade with ease on our auction platform.",
     "app.auctions.search.riven.meta.tags": "riven,leilões",
-
     "app.auctions.search.lich.title.ephemeraAndWeapon": "Liches de {weaponName}, com efêmera: {ephemeraName} - Comércio {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.lich.title.weaponOnly": "Liches de {weaponName} - Comércio {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.lich.meta.description.weaponOnly": "Comprar e vender Liches de {weaponName} na nossa plataforma de leilões | Quanto custam? -> Preço mín.: {minPrice} platina ⬌ Preço máx: {maxPrice} platina | Número de leilões ativos: {auctionsCount}",
     "app.auctions.search.lich.meta.description.weaponOnly.noPrices": "Comprar e vender Liches de {weaponName} na nossa plataforma de leilões, seja o primeiro, consiga as melhores ofertas.",
-
     "app.auctions.search.lich.title.ephemeraOnly": "Kuva liches com efêmera: {ephemeraName} - Comércio {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.lich.meta.description.ephemeraOnly": "Comprar e vender liches que têm o efêmera {ephemeraName} | Quanto custam? -> Preço mín.: {minPrice} platina ⬌ Preço máx: {maxPrice} platina | Número de leilões ativos: {auctionsCount}",
     "app.auctions.search.lich.meta.description.ephemeraOnly.noPrices": "Comprar e vender liches que têm o efêmera {ephemeraName} , seja o primeiro, consiga as melhores ofertas.",
-
     "app.auctions.search.lich.title.elementOnly": "Kuva liches com o elemento: {elementName} - Comércio {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.lich.meta.description.elementOnly": "Comprar e vender liches que têm o elemento {elementName} | Quanto custam? -> Preço mín.: {minPrice} platina ⬌ Preço máx: {maxPrice} platina | Número de leilões ativos: {auctionsCount}",
     "app.auctions.search.lich.meta.description.elementOnly.noPrices": "Comprar e vender liches que têm o elemento {elementName} , seja o primeiro, consiga as melhores ofertas.",
-
     "app.auctions.search.lich.meta.tags": "lich,leilões",
-
     "app.auctions.search.label.category": "Categoria",
     "app.auctions.search.label.buyoutType": "Tipo",
     "app.auctions.search.label.sortBy": "Ordenar por",
     "app.auctions.search.option.sort.priceAsc": "Preço (ascendente)",
     "app.auctions.search.option.sort.priceDesc": "Preço (descendente)",
-
     "app.auctions.search.lich.label.quirk": "Peculiaridade",
     "app.auctions.search.lich.placeholder.quirk": "Qualquer um",
     "app.auctions.search.lich.label.element": "Elemento",
@@ -267,7 +235,6 @@
     "app.auctions.search.lich.ephemera.no": "Não",
     "app.auctions.search.lich.option.sort.damageDesc": "Dano (descendente)",
     "app.auctions.search.lich.option.sort.damageAsc": "Dano (ascendente)",
-
     "app.auctions.search.riven.label.weaponName": "Nome da arma",
     "app.auctions.search.riven.placeholder.weapon": "Qualquer",
     "app.auctions.search.riven.label.positiveAttributes": "Atributos positivos",
@@ -280,7 +247,6 @@
     "app.auctions.search.riven.label.modRank": "Nível do Mod",
     "app.auctions.search.riven.option.sort.positiveAttrDesc": "Atributos positivos (decrescente)",
     "app.auctions.search.riven.option.sort.positiveAttrAsc": "Atributos positivos (crescente)",
-
     "app.auctions.search.showAdvanced": "Mostrar filtros avançados",
     "app.auctions.search.hideAdvanced": "Ocultar filtros avançados",
     "app.auctions.search.all": "Todos",
@@ -295,28 +261,23 @@
     "app.auctions.search.lich.warn.selectWeapon": "Please select a weapon/ephemera/element",
     "app.auctions.search.resetSearch": "Limpar",
     "app.auctions.search.nothingFound": "Nada encontrado, tente uma consulta mais ampla.",
-
     "app.auctions.mostRecent.title": "Riven Mods | Leilões mais recentes {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.mostRecent.meta.description": "Todos os leilões de mod riven criados nas últimas quatro horas.",
     "app.auctions.mostRecent.meta.tags": "riven,leilões",
     "app.auctions.mostRecent.nothingFound": "Nenhum leilão foi criado ainda.",
     "app.auctions.mostRecent.button.showMore": "Mostrar mais",
     "app.auctions.mostRecent.button.showLess": "Mostrar menos",
-
     "app.auctions.mostPopular.title": "Mods Riven | Leilões mais populares {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Mercado Warframe",
     "app.auctions.mostPopular.meta.description": "Os leilões mais populares de mod riven, criados nas últimas quatro horas.",
     "app.auctions.mostPopular.meta.tags": "riven,leilões,popular",
-
     "app.auctions.participatedIn.title": "Participou em | Leilões",
     "app.auctions.participatedIn.meta.description": "Todos os leilões que você participou.",
     "app.auctions.participatedIn.meta.tags": "riven,leilões",
     "app.auctions.participatedIn.nothingFound": "Nada encontrado.",
-
     "app.auctions.createdByMe.title": "Criados por mim | Leilões",
     "app.auctions.createdByMe.meta.description": "Todas os leilões que você criou.",
     "app.auctions.createdByMe.meta.tags": "riven,leilões",
     "app.auctions.createdByMe.nothingFound": "Nada encontrado.",
-
     "app.auctions.entry.removeConfirmation": "Remover?",
     "app.auctions.entry.state.archiving": "Arquivar",
     "app.auctions.entry.state.private": "Privado",
@@ -343,7 +304,6 @@
     "app.auctions.entry.topBid": "Melhor lance",
     "app.auctions.entry.noBids": "Sem lances até agora",
     "app.auctions.entry.yourBid": "Seu lance",
-
     "app.auctions.entry.lich.ephemera": "Efêmera",
     "app.auctions.entry.lich.damage": "Dano",
     "app.auctions.entry.lich.element": "Elemento",
@@ -352,16 +312,13 @@
     "app.auctions.entry.riven.modRank": "Níveis",
     "app.auctions.entry.riven.reRolls": "Número de ciclos",
     "app.auctions.entry.riven.polarity": "Polaridade",
-
     "app.auction.riven.title": "Leilão - Mod Riven {itemName} {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auction.riven.meta.description": "Atributos do mod: {attributes}",
     "app.auction.riven.meta.tags": "riven,leilões",
-
     "app.auction.lich.title": "Leilão - Lich {weaponName} , com efêmera: {ephemeraName} {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auction.lich.title.weaponOnly": "Leilão - Lich {weaponName} {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auction.lich.meta.description": "Elemento: {elementName} | Que tem efêmera: {havingEphemera, select, true {Yes} false {No} other {}} | Dano: {damage}",
     "app.auction.lich.meta.tags": "lich,leilões,kuva",
-
     "app.auction.tabs.bids": "Lances",
     "app.auction.tabs.bans": "Banimentos",
     "app.auction.removeConfirmation": "Você tem certeza?",
@@ -410,7 +367,6 @@
     "app.auction.active": "O leilão está ativo.{br}Você pode escolher como vencedor qualquer um a qualquer momento, isto colocará o leilão em pausa (para processar a transação em jogo).{br}Você ainda poderá reconsiderar a sua escolha, e poderá continuar o leilão cancelando a escolha do vencedor.",
     "app.auction.onPause": "O leilão está em pausa.",
     "app.auction.onPause.considering": "Considerando como vencedor:",
-
     "app.auction.onPause.owner": "Por favor, entre em contato com o usuário no jogo e processe a transação. Se tudo correr bem, você pode marcar o leilão como \"concluído\" (canto superior direito).{br}Em caso de transação fracassada/scam/trolagem, para continuar o seu leilão, você pode desmarcar ou banir o vencedor. Você também pode tentar escolher outro vencedor.",
     "app.auction.onPause.participant": "Não saia do leilão, o proprietário pode reconsiderar ou cancelar a escolha do vencedor (ou seja, o leilão pode continuar).",
     "app.auction.completed": "O leilão foi marcado como concluído.",
@@ -419,19 +375,16 @@
     "app.auction.bans.empty": "Ninguém foi banido, ainda.",
     "app.auction.bans.button.removeBan": "Desfazer banimento",
     "app.auction.clipboard.template": "/w Oi, {ingameName}!",
-
     "app.auction.riven.modRank": "Nível do Mod",
     "app.auction.riven.mastery": "Maestria",
     "app.auction.riven.reRolls": "Número de ciclos",
     "app.auction.riven.polarity": "Polaridade",
-
     "app.auctions.modal.title.create": "Criação do Leilão",
     "app.auctions.modal.title.edit": "Edição do leilão",
     "app.auctions.modal.button.close": "Fechar",
     "app.auctions.modal.stages.item": "Info do item",
     "app.auctions.modal.stages.auction": "Info do Leilão",
     "app.auctions.modal.stages.done": "Pronto",
-
     "app.auctions.modal.lich.label.quirk": "Peculiaridade",
     "app.auctions.modal.lich.label.element": "Elemento",
     "app.auctions.modal.lich.label.damage": "Dano",
@@ -439,7 +392,6 @@
     "app.auctions.modal.lich.label.weapon": "Arma",
     "app.auctions.modal.lich.ephemera.yes": "Sim",
     "app.auctions.modal.lich.ephemera.no": "Não",
-
     "app.auctions.modal.riven.label.attribute": "Atributo",
     "app.auctions.modal.riven.label.effect": "Efeito",
     "app.auctions.modal.riven.label.value": "Valor",
@@ -453,7 +405,6 @@
     "app.auctions.modal.riven.option.negative": "Negativo",
     "app.auctions.modal.riven.button.addAttribute": "+ Adicionar",
     "app.auctions.modal.riven.button.removeAttribute": "X",
-
     "app.auctions.modal.success": "O leilão foi criado com sucesso!",
     "app.auctions.modal.button.next": "Próximo",
     "app.auctions.modal.button.previous": "Voltar",
@@ -461,7 +412,6 @@
     "app.auctions.modal.button.createNew": "Criar novo",
     "app.auctions.modal.button.openCreated": "Abrir leilão recém-criado",
     "app.auctions.modal.button.update": "Atualizar",
-
     "app.auctions.modal.label.privacy.order": "O pedido é",
     "app.auctions.modal.label.privacy.auction": "O leilão é",
     "app.auctions.modal.button.privacy.private": "Privado",
@@ -476,7 +426,6 @@
     "app.auctions.modal.button.policy.buyout": "Com compra imediata",
     "app.auctions.modal.button.policy.withoutBuyout": "Sem compra imediata",
     "app.auctions.modal.button.policy.directSell": "Pedido de venda",
-
     "app.ws.auctions.errors.its_your_own_auction": "Você não pode participar do seu próprio leilão.",
     "app.ws.auctions.errors.banned_from_auction": "Você foi banido deste leilão.",
     "app.ws.auctions.errors.reputation_is_to_low": "Sua reputação é muito baixa para participar deste leilão.",
@@ -493,7 +442,6 @@
     "app.auctions.errors.cant_convert_to_order_bids_exists": "Não é possível converter este leilão em um pedido de venda, porque esse leilão tem lances",
     "app.auctions.errors.top_bid_is_greater_than_buyout": "O valor do maior lance é maior do que o preço de compra imediata",
     "app.auctions.errors.starting_higher_than_lowet_bid": "O preço inicial não pode ser maior do que o menor lance do leilão",
-
     "app.itemPage.orders.title": "{itemName} - Pedidos de Compra e Venda {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.itemPage.orders.meta.description": "Todas as ofertas de negociação e preços para \"{itemName}\"",
     "app.itemPage.orders.meta.description.price.notKnown": "¯\\_(ツ)_/¯",
@@ -510,7 +458,6 @@
     "app.itemPage.ducats": "Ducats",
     "app.itemPage.tabs.orders": "Pedidos",
     "app.itemPage.tabs.statistics": "Estatísticas",
-
     "app.tools.ducanator.title": "Ducanator - Conversão de ducats para platina {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.tools.ducanator.meta.description": "Melhor proporção de Ducats/platina em todos os itens, encontre a melhor oferta, compre os melhores itens. Ducanator fornecendo dados por hora e por dia.",
     "app.tools.ducanator.header": "Ducanator",
@@ -530,7 +477,6 @@
     "app.tools.ducanator.sort.position_day": "Dia",
     "app.tools.ducanator.sort.position_week": "Semana",
     "app.tools.ducanator.sort.position_month": "Mês",
-
     "app.profile.title": "Perfil - {username} | Pedidos",
     "app.profile.statistics.title": "Perfil - {username} | Transações",
     "app.profile.achievements.title": "Perfil - {username} | Conquistas",
@@ -580,7 +526,6 @@
     "app.reviews.hide": "Ocultar",
     "app.reviews.show": "Mostrar",
     "app.review.hidden": "Oculto",
-
     "app.settings.title": "Configurações",
     "app.settings.header": "Configurações",
     "app.settings.tabs.verification": "Verificação",
@@ -694,7 +639,6 @@
     "app.settings.automation.hour": "{itemCount, plural, one {# hora} other {# horas}}",
     "app.settings.automation.after": "depois de",
     "app.settings.automation.since": "desde a última alteração de status.",
-
     "app.im.title": "Mensagens",
     "app.im.header": "Mensagens",
     "app.im.tabs.chats": "Conversas",
@@ -714,9 +658,7 @@
     "app.im.ignore.noEntries": "Ninguém foi ignorado, por enquanto.",
     "app.im.ignore.lastSeen": "Visto por último:",
     "app.im.ignore.button.remove": "Remover",
-
     "app.im.ignore.empty": "A lista de ignorados está vazia",
-
     "app.auth.title": "Autorização | Warframe Market",
     "app.auth.header": "Autorização",
     "app.auth.signIn.title": "Entrar | Warframe Market",
@@ -745,7 +687,6 @@
     "app.auth.register.passwordConfirm": "Confirmar Senha",
     "app.auth.register.passwordConfirmPlaceholder": "Sua senha",
     "app.auth.register.joinNow": "Junte-se a nós",
-
     "app.contacts.title": "Contacte-nos | Warframe Market",
     "app.contacts.header": "Entre em contato",
     "app.contacts.socialNetworks": "Nas redes sociais",
@@ -756,13 +697,13 @@
     "app.contacts.IronHair": "IronHair",
     "app.contacts.MachetesAndSauce": "MachetesAndSauce",
     "app.contacts.KycKyc": "KycKyc",
-
+    "app.contacts.Zikkie": "Starlight",
+    "app.contacts.Sui": "--TL--Sui",
     "app.lookingFor.title": "Procurando por | Warframe Market",
     "app.lookingFor.header": "Procurando por",
     "app.tos.title": "Terms of Service | Warframe Market",
     "app.tos.header": "Terms of Service",
-    "app.tos.fewRules": "Few rules",
-    "app.tos.trading": "I Trading",
+    "app.tos.trading": "Trading",
     "app.tos.trading.listings": "Listings",
     "app.tos.trading.listings.fakeOrders": "Fake orders are not allowed.",
     "app.tos.trading.listings.activityStatus": "Activity Status",
@@ -770,19 +711,18 @@
     "app.tos.trading.listings.activityStatus.online": "“Online” means you might not be in-game or readily available to trade, but you are able to respond to website messages. If you receive a website message for a listing that currently has the best price, you should respond within 1 hour. Multiple reports regarding no responses to messages within this time may lead to an account suspension.",
     "app.tos.trading.listings.activityStatus.invisible": "“Invisible” means you are unable to respond to messages (such as being in a long mission), out of daily trades, or otherwise unavailable. ",
     "app.tos.trading.listings.activityStatus.moderation": "The warframe.market moderation team may change your activity status irrespective of your current activity status.",
-    "app.tos.trading.listings.activityStatus.doNotReply": "If you do not reply within the stated time frame (depends on status, see above), you can be suspended from 3-30 days, based on player reports or in case the warframe.market moderation team believes your listing is not genuine. This can lead to a permanent suspension in case of frequent infractions.{br}You can contact support on the warframe.market Discord server for more details.",
-    "app.tos.trading.listings.activityStatus.changeByWebsite": "The warframe.market website will not, and cannot, automatically change activity status based on in-game actions, including logging in or out of Warframe.",
+    "app.tos.trading.listings.activityStatus.doNotReply": "If you do not reply within the stated time frame (depends on status, see above), you can be suspended for 1-30 days, based on player reports or in case the warframe.market moderation team believes your listing is not genuine. This can lead to a permanent suspension in case of frequent infractions.{br}You can contact support on the warframe.market {discordLink} server for more details.",
+    "app.tos.trading.listings.activityStatus.changeByWebsite": "The warframe.market website does not automatically change activity status on the website, based on your game state or logging in / out of warframe.",
     "app.tos.trading.listings.logIn": "If you don’t log into warframe.market within 7 days, your listings are automatically deactivated.{br}Your listings will remain safe in your account, where you can activate them again by turning them “visible”.",
     "app.tos.trading.listings.listingQuantities": "You are able to create up to 3 visible listings of the same item at different prices.{br}Listing Quantities",
     "app.tos.trading.listings.listingQuantities.wts": "For wts (want to sell) listings, the quantity only indicates how many you are willing to sell. You cannot refuse to sell any amount at or lower than your listed quantity.",
     "app.tos.trading.listings.listingQuantities.wtb": "For wtb (want to buy) listings, the quantity indicates that you would prefer to buy up to the amount specified. You cannot refuse to buy any amount at or lower than your listed quantity.{br}Refer to the trading process for more details.",
-    "app.tos.trading.listings.listingQuantities.fullTrades": "A listing with a quantity of more than 5 indicates you want to do full trades. Offers with quantities of less than 6 can be refused. In such a case, your listed price cannot be more than the prices of other “online in-game” listings.",
     "app.tos.trading.listings.trashDucat": "Trash ducat items{br}This section refers to Ducat Trading, which is not fully supported on the website (yet).",
     "app.tos.trading.listings.trashDucat.primeParts": "Trash ducats refer to unvaulted prime parts from the current rotation. Refer to pin in #feedback-and-suggestions to-do list for discussions and added features to be added relating to buying trash ducats.",
     "app.tos.trading.listings.trashDucat.buyOrders": "In the interim, buy orders in bulk can be refused only in case the listed price is lower than other “online in game” buy orders or lower than trade chat rates of  6:12p.",
     "app.tos.trading.listings.duplicatedAuctions": "Duplicate auctions for the same item are not allowed.",
-    "app.tos.trading.listings.trade": "You must be the person doing the trade. Creating listings for items that you do not have is not allowed",
-    "app.tos.trading.listings.limitOrders": "There is a limit of 100 orders for free accounts, which can be extended by becoming a Patreon user. More details on https://www.patreon.com/42Bytes.",
+    "app.tos.trading.listings.trade": "You must be the person doing the trade. Creating listings for items that you do not have is not allowed.",
+    "app.tos.trading.listings.limitOrders": "There is a limit of 100 orders for free accounts, which can be extended by becoming a Patreon user. More details on {supportUs}.",
     "app.tos.trading.process": "Trading Process",
     "app.tos.trading.process.priceChanges": "Price Changes",
     "app.tos.trading.process.priceChanges.copyPaste": "Do not change the standard copy-paste message from warframe.market. If you are interested in bartering with the other person, do so in a second message.",
@@ -795,34 +735,32 @@
     "app.tos.trading.reporting": "Reporting",
     "app.tos.trading.reporting.fakeListings": "In case of fake listings or inappropriate actions on warframe.market:",
     "app.tos.trading.reporting.fakeListings.tool": "You can report the user using the reputation tool on the website.",
-    "app.tos.trading.reporting.fakeListings.discord": "You can contact a warframe.market moderator on the Discord server. Please have complete chat screenshots with timestamps visible (which can be activated in the in game settings).",
+    "app.tos.trading.reporting.fakeListings.discord": "You can contact a warframe.market moderator on the {discordLink} server. Please have complete chat screenshots with timestamps visible (which can be activated in the in game settings).",
     "app.tos.trading.reporting.fakeListings.directLinks": "When reporting auctions, please include direct links to all targeted auctions.",
     "app.tos.trading.reporting.fakeListings.include": "Fake listings include, but aren’t limited to, listings marked “online in game” but offline in game, afk listings, or “just sold” but not removed from warframe.market (can take up to 5 mins to update on the site).{br}Inappropriate actions include, but aren’t limited to, uncivil behavior and harassment via warframe.market inbox messages.",
     "app.tos.trading.noteText": "We will not receive reports submitted using the in-game reporting system because we have no affiliation with Digital Extremes (as mentioned on the site disclaimer as well).",
-    "app.tos.trading.behavior": "Uncivil Behavior.",
-    "app.tos.trading.behavior.calling": "Calling the other user names is not allowed. Rude behavior is not allowed. Do not escalate, instigate or goad the other party into a fight.{br}In any such case, refer to the reporting section for how to report the other user.",
-    "app.tos.trading.statistics": "Deceiving Statistics.",
+    "app.tos.trading.behavior": "Uncivil Behavior",
+    "app.tos.trading.behavior.calling": "Calling the other user names is not allowed. Rude behavior is not allowed. Do not escalate, instigate or goad the other party into an argument.{br}In any such case, refer to the reporting section for how to report the other user.",
+    "app.tos.trading.statistics": "Deceiving Statistics",
     "app.tos.trading.statistics.fakeOrders": "Attempts to deceive the statistics page data by closing fake orders (aka “sold” Akbronco Prime for 10k platinum) will lead to a permanent account suspension.",
-    "app.tos.trading.requirements": "Trading Requirements.",
+    "app.tos.trading.requirements": "Trading Requirements",
     "app.tos.trading.requirements.contacting": "Before contacting someone for a listed item, please check the trading requirements of the item + your own trading eligibility. You have to be:",
-    "app.tos.trading.requirements.mr2": "MR2 or higher AND have Two-Factor Authentication (2FA) activated on {warframeLink}, ",
+    "app.tos.trading.requirements.mr2": "MR2 or higher and have Two-Factor Authentication (2FA) activated on {warframeLink}, ",
     "app.tos.trading.requirements.2fa": "the appropriate Mastery Rank for the item, have enough trading tax for the item, and have enough tradable Platinum.",
     "app.tos.trading.requirements.masteryRank": "Note that starting / gifted / coupon Platinum is not tradable.",
-    "app.tos.account": "II Account",
-    "app.tos.account.avatarsAndBack": "Avatars and Backgrounds.",
+    "app.tos.account": "Account",
+    "app.tos.account.avatarsAndBack": "Avatars and Backgrounds",
     "app.tos.account.avatarsAndBack.notAllowed": "Obscene or indecent avatars and backgrounds are not allowed.",
-    "app.tos.account.userName": "Username.",
-    "app.tos.account.userName.notExist": "Using a username that does not exist in the game is not allowed. The /profile chat command can be used to determine if a username exists or if the user has ever logged in.{br}If you have changed your in-game name, you must reverify yourself on warframe.market. Contact a warframe.market Moderator on Discord or via the Contact us page in case you are having problems with this. {br}If your forum name has not updated after a name change, and you have tried logging out of the forums and logging in again, please contact DE’s support here {supportUs}.",
-    "app.tos.api": "III API",
+    "app.tos.account.userName": "Username",
+    "app.tos.account.userName.notExist": "Using a username that does not exist in the game is not allowed. The /profile chat command can be used to determine if a username exists or if the user has ever logged in.{br}If you have changed your in-game name, you must reverify yourself on warframe.market. Contact a warframe.market Moderator on {discordLink} or via the {contactUs} page in case you are having problems with this. {br}If your forum name has not updated after a name change, and you have tried logging out of the forums and logging in again, please contact DE’s support: {deSupport}.",
+    "app.tos.api": "API",
     "app.tos.api.dataUsage": "Data usage",
     "app.tos.api.dataUsage.scrapingData": "Scraping data and using our API is allowed at a reasonable scale. {br}The limit is 3 requests per second.{br}We reserve the right to block access for any app/service that attempts to use our data.",
     "app.tos.note": "Note: ",
-    "app.tos.api.note.moreInfo": "For more information, join other third-party developers on our Discord server.",
-    "app.tos.pwaMobileApp": "IV PWA/Mobile App",
-    "app.tos.pwaMobileApp.pwa": "PWA refers to Progressive Web Application, which is a mobile friendly way to access all the features of the website.{br}PWA is enabled for warframe.market. You can check pinned messages in our #android-ios-apps channel in the warframe.market Discord server on how to add warframe.market PWA access to your phone.{br}This will give you access to your notifications (Android devices only), all your listings and speedy access to the market on your mobile screen.",
+    "app.tos.api.note.moreInfo": "For more information, join other third-party developers on our {discordLink} server.",
+    "app.tos.pwaMobileApp": "PWA/Mobile App",
+    "app.tos.pwaMobileApp.pwa": "PWA refers to Progressive Web Application, which is a mobile friendly way to access all the features of the website.{br}PWA is enabled for warframe.market. You can check pinned messages in our #android-ios-apps channel in the warframe.market {discordLink} server on how to add warframe.market PWA access to your phone.{br}This will give you access to your notifications (Android devices only), all your listings and speedy access to the market on your mobile screen.",
     "app.tos.pwaMobileApp.mobile": "There is no official mobile app for warframe.market. Any payments made to any third-party application or ads shown on any app are not connected with warframe.market. The warframe.market moderation team does not provide support for any third-party apps.",
-    "app.tos.supportUs": "V Support Us",
-    "app.tos.supportUs.adFree": "You can show your support and help us continue developing additional features for the site by becoming a Patreon member on {supportUs}.{br}Supporting us also enables ad-free viewing on the website, gives you the ability to add unlimited orders PLUS additional perks and benefits.",
     "app.faq.title": "Perguntas | Warframe Market",
     "app.faq.header": "Perguntas",
     "app.faq.tableOfContents": "Índice",
@@ -858,13 +796,10 @@
     "app.faq.enable_notifications.chrome.example": "Exemplo:",
     "app.faq.enable_notifications.firefox.title": "Para o navegador Firefox:",
     "app.faq.enable_notifications.firefox.description": "1. No canto superior esquerdo do seu navegador, logo antes da barra de endereços, clique no ícone de informação-> {infoIcon}{br}2. Clique em `Preferências`{br}3. Clique em Configuração de Notificações{br}4. Encontre warframe.market{br}5. Altere para `Permitir`",
-
     "app.privacy.title": "Privacidade | Warframe Market",
     "app.privacy.header": "Privacidade",
-
     "app.timeRange.48hours": "48 Horas",
     "app.timeRange.90days": "90 Dias",
-
     "app.order.bought": "Comprados",
     "app.order.sold": "Vendidos",
     "app.order.edit": "Editar",
@@ -903,7 +838,6 @@
     "app.order.clipboard.buy.pl": "kup",
     "app.order.clipboard.sell.pl": "sprzedaj",
     "app.order.clipboard.template.pl": "/w {ingameName} Hej! Chce {action}: {itemName} {modRank, select, null {} other {(rank {modRank}) }}za {price} platyny. (warframe.market)",
-
     "app.placeOrder.bigButton": "Adicionar pedido",
     "app.placeOrder.header": "Adicionar pedido",
     "app.placeOrder.orderType": "Tipo de Pedido",
@@ -919,7 +853,6 @@
     "app.placeOrder.close": "Fechar",
     "app.placeOrder.success": "Pedido adicionado:",
     "app.placeOrder.visibility": "Visibility inicial:",
-
     "app.elements.heat": "Ígneo",
     "app.elements.impact": "Colisivo",
     "app.elements.electricity": "Elétrico",
@@ -927,7 +860,6 @@
     "app.elements.radiation": "Radioativo",
     "app.elements.toxin": "Tóxico",
     "app.elements.cold": "Glacial",
-
     "app.editOrder.header": "Editar pedido",
     "app.editOrder.top.sell": "Os 5 melhores pedidos de venda",
     "app.editOrder.top.sell.maxed": "Os 5 melhores pedidos de venda [nível máximo]",
@@ -946,7 +878,6 @@
     "app.editOrder.send": "Atualizar",
     "app.editOrder.close": "Fechar",
     "app.editOrder.success": "Pedido atualizado:",
-
     "app.statistics.noData": "Não há dados disponíveis",
     "app.statistics.priceChart": "Gráfico de preços",
     "app.statistics.volume": "Volume",
