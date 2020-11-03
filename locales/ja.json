@@ -1,16 +1,16 @@
 {
-    "app.disclaimer.de": "{warframeMarket} is a fan site not associated with {digitalExtremes}",
+    "app.disclaimer.de": "{warframeMarket} はファンサイト、そして {digitalExtremes} と付属ません。",
     "app.general.title": "Warframe Market",
     "app.general.description": "The leading Warframe trading platform for tenno, where you can buy and sell vaulted & unvaulted items along with  Waframe sets, Parts, Weapons, Mods, Relics, Blueprints, Captura scenes, Rivens and Kuva liches.",
     "app.general.meta.tags": "warframe,market,buy,sell,trade,mod,blueprint,syndicate,relic,order,auction,wts,wtb,sales,worth,platinum,price,checking",
 
-    "app.form.field_required": "Field required",
-    "app.form.can_not_be_null": "Can't be null",
-    "app.form.invalid": "Invalid value",
-    "app.form.not_exist": "Does not exist",
+    "app.form.field_required": "入力してください",
+    "app.form.can_not_be_null": "空白不可",
+    "app.form.invalid": "不当な入力",
+    "app.form.not_exist": "存在していない",
     "app.form.too_long": "Value is too long",
-    "app.form.not_a_number": "Not a number",
-    "app.form.not_an_int": "Not an integer",
+    "app.form.not_a_number": "数じゃない",
+    "app.form.not_an_int": "整数じゃない",
     "app.form.not_a_bool": "Should be True\\False (Bool)",
     "app.form.too_many_requests": "You have made too many login\\registration attempts. Try again in 1 minute.",
 
