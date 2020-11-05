@@ -56,8 +56,8 @@
     "app.delete_order.order_not_exist": "Order does not exist.",
     "app.close_order.order_not_exist": "Order does not exist.",
 
-    "app.button.edit": "Edit",
-    "app.button.remove": "Remove",
+    "app.button.edit": "編集",
+    "app.button.remove": "外す",
     "app.button.accept": "Accept",
     "app.button.send": "Send",
     "app.button.save": "Save",
