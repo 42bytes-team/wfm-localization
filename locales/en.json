@@ -791,7 +791,7 @@
     "app.tos.trading.process.refusing": "Refusing your own offers is not allowed.",
     "app.tos.trading.process.ignoring": "Ignoring or refusing to communicate with either party without explanation may lead to an account suspension.",
     "app.tos.trading.process.fakeBids": "Making fake bids on auctions is not allowed and will lead to a permanent account suspension.",
-    "app.tos.trading.process.auctionMade": "Any auction bid made that stays on the site for more than 30 mins needs to stay valid for a period of 24 hours. You cannot use the auction process to start bidding wars, or to bait the seller of the item.",
+    "app.tos.trading.process.auctionMade": "You cannot use the auction process to start bidding wars, or to bait the seller of the item.",
     "app.tos.trading.process.valid": "Auction offers stay valid for 7 days, after which you have to renew your bid. You are allowed to refuse bids you have made that are older than 7 days.",
     "app.tos.trading.reporting": "Reporting",
     "app.tos.trading.reporting.fakeListings": "In case of fake listings or inappropriate actions on warframe.market:",

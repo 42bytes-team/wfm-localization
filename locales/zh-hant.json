@@ -730,7 +730,7 @@
     "app.tos.trading.process.refusing": "禁止拒絕您開出的價格。",
     "app.tos.trading.process.ignoring": "無理由的無視或拒絕與對方溝通可能導致您的賬號被封禁。",
     "app.tos.trading.process.fakeBids": "拍賣中禁止作出虛假競標,這有可能導致您的賬號被永久封禁。",
-    "app.tos.trading.process.auctionMade": "任何在網站上創建了超過30分鐘拍賣競標有效期最短為24小時。禁止利用拍賣功能進行投標戰。",
+    "app.tos.trading.process.auctionMade": "禁止利用拍賣功能進行投標戰。",
     "app.tos.trading.process.valid": "拍賣的有效期為7天,之後您必須重新出價。您可以拒絕超過7天的出價。",
     "app.tos.trading.reporting": "舉報",
     "app.tos.trading.reporting.fakeListings": "假如您在warframe.market上遇到了虛假訂單或不當行為:",

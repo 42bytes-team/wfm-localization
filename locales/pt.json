@@ -730,7 +730,7 @@
     "app.tos.trading.process.refusing": "Recusar cumprir seus próprios pedidos não é permitido.",
     "app.tos.trading.process.ignoring": "Ignorar ou se recusar a se comunicar com qualquer um dos envolvidos numa transação de comércio pode levar a uma suspensão da conta.",
     "app.tos.trading.process.fakeBids": "Fazer lances falsos num leilão não é permitido e vai resultar em suspensão permanente da conta.",
-    "app.tos.trading.process.auctionMade": "Qualquer lance de leilão que fique no site por mais de 30 minutos deve continuar válido por um período de 24 horas. Você não pode usar o processo de leilão para iniciar guerras de lances, ou para levar o vendedor do item a ser enganado com uma “isca”.",
+    "app.tos.trading.process.auctionMade": "Você não pode usar o processo de leilão para iniciar guerras de lances, ou para levar o vendedor do item a ser enganado com uma “isca”.",
     "app.tos.trading.process.valid": "Ofertas de leilão continuam válidas por 7 dias, e depois disso você precisaria renovar seu lance. É permitido que você se recuse a cumprir lances que fez há mais de 7 dias.",
     "app.tos.trading.reporting": "Reporting",
     "app.tos.trading.reporting.fakeListings": "No caso de pedidos falsos ou ações inapropriadas no warframe.market:",
