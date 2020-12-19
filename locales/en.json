@@ -156,6 +156,9 @@
     "app.filters.status_online": "On Site",
     "app.filters.status_ingame": "In Game",
     "app.filters.status_all": "All",
+    "app.filters.arcane_rank": "Arcane Rank",
+    "app.filters.fish_type": "Fish Type",
+    "app.filters.relic_type": "Relic Type",
     "app.filters.mod_rank": "Mod Rank",
     "app.filters.mod_all": "All",
     "app.filters.mod_maxed": "Maxed",
@@ -163,7 +166,7 @@
     "app.filters.tags": "Tags",
     "app.filters.search": "Search by name",
     "app.filters.auction.type": "Type",
-    "app.filters.auction.state": "State",
+    "app.filters.auction.state": "Auction state",
     "app.filters.auction.category": "Category",
 
     "app.regions.en": "International (EN)",
@@ -222,8 +225,8 @@
     "app.auctions.tabs.mostPopular": "Popular",
     "app.auctions.tabs.mostRecent": "Most recent",
     "app.auctions.tabs.search": "Search",
-    "app.auctions.tabs.participatedIn": "Participating In",
-    "app.auctions.tabs.createdByMe": "Created by Me",
+    "app.auctions.tabs.participatedIn": "My bids",
+    "app.auctions.tabs.createdByMe": "My auctions",
 
     "app.auctions.search.riven.title": "{itemName} Riven Mods - Trading {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.riven.title.attributeOnly": "Riven Mods with attribute: {attributeName} - Trading {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
@@ -307,12 +310,12 @@
     "app.auctions.mostPopular.meta.description": "Looking for sell or buy offers? Here's a list of the most popular Riven mods and Lich auctions for the last four hours.",
     "app.auctions.mostPopular.meta.tags": "riven,auctions,popular",
 
-    "app.auctions.participatedIn.title": "Participated in | Auctions",
+    "app.auctions.participatedIn.title": "My bids | Auctions",
     "app.auctions.participatedIn.meta.description": "All the auctions you participate in.",
     "app.auctions.participatedIn.meta.tags": "riven,auctions",
     "app.auctions.participatedIn.nothingFound": "Nothing found.",
 
-    "app.auctions.createdByMe.title": "Created by me | Auctions",
+    "app.auctions.createdByMe.title": "My auctions | Auctions",
     "app.auctions.createdByMe.meta.description": "All the auctions you've created.",
     "app.auctions.createdByMe.meta.tags": "riven,auctions",
     "app.auctions.createdByMe.nothingFound": "Nothing found.",
@@ -536,7 +539,7 @@
     "app.profile.achievements.title": "Profile - {username} | Achievements",
     "app.profile.reputation.title": "Profile - {username} | Reputation",
     "app.profile.auctions.title": "Profile - {username} | Auctions",
-    "app.profile.myBids.title": "Profile - {username} | Bids",
+    "app.profile.bids.title": "Profile - {username} | Bids",
     "app.profile.stats.platinum": "Platinum",
     "app.profile.stats.orders": "Orders",
     "app.profile.stats.reputation": "/reputation",
@@ -555,7 +558,7 @@
     "app.profile.tabs.transactions": "Transactions",
     "app.profile.tabs.reviews": "Reputation",
     "app.profile.tabs.auctions": "Auctions",
-    "app.profile.tabs.myBids": "My Bids",
+    "app.profile.tabs.bids": "Bids",
     "app.profile.edit.placeholder": "Write something about yourself",
     "app.profile.edit.saved": "Saved",
     "app.profile.edit.chars": "Chars",
@@ -961,5 +964,19 @@
     "app.statistics.legend.OpenClose": "Open-Close",
     "app.statistics.legend.medianPrice": "Median",
     "app.statistics.legend.smaPrice": "SMA",
-    "app.statistics.legend.averagePrice": "Average"
+    "app.statistics.legend.averagePrice": "Average",
+
+    "app.relic.any": "Any",
+    "app.relic.radiant": "Radiant",
+    "app.relic.intact": "Intact",
+    "app.relic.flawless": "Flawless",
+    "app.relic.exceptional": "Exceptional",
+
+    "app.fish.any": "Any",
+    "app.fish.small": "Small",
+    "app.fish.medium": "Medium",
+    "app.fish.large": "Large",
+    "app.fish.basic": "Basic",
+    "app.fish.adorned": "Adorned",
+    "app.fish.magnificent": "Magnificent"
 }
