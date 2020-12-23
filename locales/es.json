@@ -672,7 +672,7 @@
     "app.auth.signIn.emailPlaceholder": "Tu correo",
     "app.auth.signIn.password": "Contraseña",
     "app.auth.signIn.passwordPlaceholder": "Tu contraseña",
-    "app.auth.signIn.button.signIn": "Registrarse",
+    "app.auth.signIn.button.signIn": "Iniciar sesión",
     "app.auth.signIn.link.forgot": "¿Contraseña olvidada?",
     "app.auth.signIn.link.register": "O registrarse",
     "app.auth.restore.title": "Restaurar contraseña | Warframe Market",
