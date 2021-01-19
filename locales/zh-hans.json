@@ -251,7 +251,7 @@
     "app.auctions.search.riven.option.sort.positiveAttrDesc": "正面词条（倒序）",
     "app.auctions.search.riven.option.sort.positiveAttrAsc": "正面词条（正序）",
     "app.auctions.search.riven.option.negativeAttribute.none": "No Negative",
-    "app.auctions.search.riven.option.negativeAttribute.atLeastOne": "Has Negative",
+    "app.auctions.search.riven.option.negativeAttribute.has": "Has Negative",
     "app.auctions.search.showAdvanced": "显示进阶筛选",
     "app.auctions.search.hideAdvanced": "隐藏进阶筛选",
     "app.auctions.search.all": "全部",

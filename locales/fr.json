@@ -251,7 +251,7 @@
     "app.auctions.search.riven.option.sort.positiveAttrDesc": "Attributs positifs (décroissant)",
     "app.auctions.search.riven.option.sort.positiveAttrAsc": "Attributs positifs (croissant)",
     "app.auctions.search.riven.option.negativeAttribute.none": "No Negative",
-    "app.auctions.search.riven.option.negativeAttribute.atLeastOne": "Has Negative",
+    "app.auctions.search.riven.option.negativeAttribute.has": "Has Negative",
     "app.auctions.search.showAdvanced": "Montrer les filtres avancés",
     "app.auctions.search.hideAdvanced": "Cacher les filtres avancés",
     "app.auctions.search.all": "Tous",

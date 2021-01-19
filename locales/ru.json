@@ -251,7 +251,7 @@
     "app.auctions.search.riven.option.sort.positiveAttrDesc": "Положительные хар-ки (убывание)",
     "app.auctions.search.riven.option.sort.positiveAttrAsc": "Положительные хар-ки (возраст.)",
     "app.auctions.search.riven.option.negativeAttribute.none": "Нету",
-    "app.auctions.search.riven.option.negativeAttribute.atLeastOne": "Имеется (любая)",
+    "app.auctions.search.riven.option.negativeAttribute.has": "Имеется (любая)",
     "app.auctions.search.showAdvanced": "Показать доп. фильтры",
     "app.auctions.search.hideAdvanced": "Скрыть доп. фильтры",
     "app.auctions.search.all": "Все",
