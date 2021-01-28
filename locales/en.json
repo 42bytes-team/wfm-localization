@@ -205,6 +205,7 @@
     "app.mostRecent.showLess": "Show less",
 
     "app.auctions.createAuction": "Create Auction",
+    "app.auctions.createAuction.attribute.seconds": "sec",
     "app.auctions.category.title": "Category",
     "app.auctions.category.all": "All",
     "app.auctions.category.unveiledRiven": "Unveiled Riven mod",
