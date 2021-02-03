@@ -135,6 +135,7 @@
     "app.footer.privacy.gdpr": "GDPR preferences",
     "app.footer.contribute": "Contribute",
     "app.footer.contacts": "Contact Us",
+    "app.footer.apiDocs": "Api documentation",
     "app.footer.follow": "Follow us on",
     "app.footer.changeLang": "Change Language",
     "app.footer.changeTheme": "Change Theme",
@@ -973,6 +974,9 @@
     "app.privacy.sharingInfo.nextCategories.thirdParties": "Third parties with whom we partner to offer products and services to you.",
     "app.privacy.sharingInfo.title": "Sharing Personal Information",
     "app.privacy.supportEmail": "support@warframe.market",
+
+    "app.apiDocs.title": "API Documentation | Warframe Market",
+    "app.apiDocs.header": "Documentation",
 
     "app.timeRange.48hours": "48 Hours",
     "app.timeRange.90days": "90 Days",
