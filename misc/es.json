@@ -63,7 +63,7 @@
     "templates": {
         "set": "Set de {item_name}",
         "blueprint": "Plano de {item_name}",
-        "imprint": "‘Impronta de {item_name}",
+        "imprint": "Impronta de {item_name}",
         "keys": "{item_name} (Key)",
         "veiled_riven": "{item_name} (Veiled)"
     }
