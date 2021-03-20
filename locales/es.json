@@ -928,6 +928,7 @@
     "app.order.sell": "Vender",
     "app.order.clipboard.buy.en": "buy",
     "app.order.clipboard.sell.en": "sell",
+
     "app.order.clipboard.template.en": "/w {ingameName} Hi! I want to {action}: {itemName} {modRank, select, null {} other {(rank {modRank}) }}for {price} platinum. (warframe.market)",
     "app.order.clipboard.buy.ru": "купить",
     "app.order.clipboard.sell.ru": "продать",
