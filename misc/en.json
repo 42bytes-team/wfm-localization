@@ -19,7 +19,7 @@
         "WeaponImpactDamageMod": "Impact",
         "WeaponMeleeComboInitialBonusMod": "Initial combo",
         "WeaponClipMaxMod": "Magazine Capacity",
-        "WeaponMeleeComboEfficiencyMod": "Melee Combo Efficiency",
+        "WeaponMeleeComboEfficiencyMod": "Heavy Attack Efficiency",
         "WeaponFireIterationsMod": "Multishot",
         "WeaponProjectileSpeedMod": "Projectile speed",
         "WeaponPunctureDepthMod": "Punch Through",

@@ -19,7 +19,7 @@
         "WeaponImpactDamageMod": "Ударный урон",
         "WeaponMeleeComboInitialBonusMod": "Начальное комбо",
         "WeaponClipMaxMod": "Размер магазина",
-        "WeaponMeleeComboEfficiencyMod": "Эффективность комбоударов",
+        "WeaponMeleeComboEfficiencyMod": "Heavy Attack Efficiency",
         "WeaponFireIterationsMod": "Мультивыстрел",
         "WeaponProjectileSpeedMod": "Скорость полёта",
         "WeaponPunctureDepthMod": "Пронзание Навылет",
