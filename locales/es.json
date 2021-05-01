@@ -178,7 +178,7 @@
     "app.sort.quantity": "Cantidad",
     "app.sort.mod_rank": "Rango",
     "app.sort.subtype": "Refinamiento",
-    "app.mostRecent.title": "Warframe Market | Pedidos mas recientes de compra y venta {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4} switch {| Switch} other {}}",
+    "app.mostRecent.title": "Warframe Market | Pedidos más recientes de compra y venta {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4} switch {| Switch} other {}}",
     "app.mostRecent.header": "Pedidos más recientes",
     "app.mostRecent.notFound": "Pedido no encontrado",
     "app.mostRecent.showMore": "Mostrar mas",
