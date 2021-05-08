@@ -1,0 +1,12 @@
+{
+  "app.menu.inventory": "Inventory",
+  "app.auth.restore.return": "Back to login",
+  "app.welcomescreen.reset": "Reset tutorial",
+  "app.welcomeScreen.welcomeParragraphFour": "This is the fourth welcome paragraph",
+  "app.welcomeScreen.welcomeParragraphThree": "Welcome screen number three",
+  "app.welcomeScreen.welcomeParragraphOne": "Welcome to Warframe market!",
+  "app.welcomeScreen.welcomeBanner": "Warframe market app",
+  "app.welcomeScreen.welcomeParragraphTwo": "The second paragraph",
+  "app.welcomeScreen.skip": "Skip the welcome screen for now",
+  "app.welcomeScreen.notAgain": "Don't show me this again"
+}
