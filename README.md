@@ -1,6 +1,17 @@
 # wfm-localization
 
-WFM translation files.
+- [wfm-localization](#wfm-localization)
+  - [How to contribute](#how-to-contribute)
+  - [Folders](#folders)
+    - [locales](#locales)
+    - [misc](#misc)
+
+WFM translation related files.
+
+> :warning: Do not touch content of `Overwolf` directory, it's not ready yet.  
+> :information_source: If you want to translate items \ riven \ riven attributes \ lich quirks, please visit [WFM items Repository](https://github.com/42bytes-team/wfm-items)
+
+## How to contribute
 
 For those who know how to work with the git:
 
@@ -53,8 +64,6 @@ If you want to explore this syntax further, you can check: [Format.js](https://f
 Most of the items are translated automaticaly, thanks to DE mobile API.  
 But, there is some exceptions:
 
-- lich quirks
-- riven attributes
 - item generation templates.
 - rarity. Used to indicate the drop chance of an item, like: `Neo S1 Relic (Common)`)
 
