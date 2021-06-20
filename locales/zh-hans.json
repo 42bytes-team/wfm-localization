@@ -574,7 +574,7 @@
     "app.settings.subscription.subscriptionBonuses.1": "沒有广告",
     "app.settings.subscription.subscriptionBonuses.2": "无订单上限（基础为 100）",
     "app.settings.subscription.subscriptionBonuses.3": "{discordLink} 奖励",
-    "app.settings.subscription.subscriptionBonuses.4": "特别 API 权限",
+    "app.settings.subscription.subscriptionBonuses.4": "无竞标与拍卖上限（基础为50个竞标与50个拍卖）",
     "app.settings.subscription.subscriptionGet": "成为赞助者",
     "app.settings.subscription.subscriptionGet.description": "为获得赞助者状态与奖励。{br}您必须绑定您的 {patreon} 帐号和 {market} 帐号。",
     "app.settings.subscription.linkAccounts": "绑定 Patreon 帐号",
