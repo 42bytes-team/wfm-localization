@@ -572,7 +572,7 @@
     "app.settings.subscription.subscriptionBonuses.1": "沒有廣告",
     "app.settings.subscription.subscriptionBonuses.2": "無訂單上限 (基礎為 100)",
     "app.settings.subscription.subscriptionBonuses.3": "{discordLink} 獎勵",
-    "app.settings.subscription.subscriptionBonuses.4": "特別 API 權限",
+    "app.settings.subscription.subscriptionBonuses.4": "無競標與拍賣上限（基礎為50競標與50拍賣）",
     "app.settings.subscription.subscriptionGet": "成為贊助者",
     "app.settings.subscription.subscriptionGet.description": "為獲得贊助者狀態與獎勵。{br}您必須連接您的 {patreon} 帳號和 {market} 帳號。",
     "app.settings.subscription.linkAccounts": "連接 Patreon 帳號",
