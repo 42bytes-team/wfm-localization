@@ -1,4 +1,5 @@
 {
+  "translation": {
     "app.disclaimer.de": "{warframeMarket} jest stroną stworzoną przez fanów niepowiązanych z {digitalExtremes}",
     "app.general.title": "Warframe Market",
     "app.general.description": "Prowadząca platforma handlowa Warframe dla tenno, gdzie możesz sprzedać i kupić Części, Bronie, Mody, Relikty, Blueprinty, Sceny fotobudki, Riveny i Licze Kuvy.",
@@ -605,7 +606,6 @@
     "app.settings.account.links.header": "Połączone konta",
     "app.settings.account.links.remove": "Usuń połączenie",
     "app.settings.account.links.add": "Połącz konto",
-    "app.settings.account.links.info": "You can't delete the last account that is used to log into WFM.",
     "app.settings.account.credentials.create.header": "Stwórz kwalifikacje",
     "app.settings.account.credentials.create.email": "Email",
     "app.settings.account.credentials.create.emailPlaceholder": "Twój Email",
@@ -623,12 +623,6 @@
     "app.settings.account.credentials.change.confirmPassword": "Potwierdz hasło",
     "app.settings.account.credentials.change.confirmPasswordPlaceholder": "Potwierdz nowe hasło",
     "app.settings.account.credentials.change.success": "Hasło zmienione",
-    "app.settings.account.email.change.header": "Change email",
-    "app.settings.account.email.change.newEmail": "New email",
-    "app.settings.account.email.change.newEmailPlaceholder": "Your new email",
-    "app.settings.account.email.change.password": "Current password",
-    "app.settings.account.email.change.passwordPlaceholder": "Your current password",
-    "app.settings.account.email.change.success": "Email changed",
     "app.settings.account.credentials.change.submit": "Zmień",
     "app.settings.notifications.title": "Ustawienia | Powiadomienia",
     "app.settings.notifications.desktop.header": "Powiadomienia na pulpicie",
@@ -1029,4 +1023,5 @@
     "app.subtype.basic": "Naga",
     "app.subtype.adorned": "Przystrojona",
     "app.subtype.magnificent": "Boska"
+  }
 }
