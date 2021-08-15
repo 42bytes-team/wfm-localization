@@ -388,7 +388,7 @@
     "app.auction.sister.title": "For sale: {weaponName}, {ephemeraName}, Sister of Parvos {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auction.sister.title.weaponOnly": "For sale: {weaponName}, Sister of Parvos {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auction.sister.meta.description": "Element: {elementName} | Has ephemera : {havingEphemera, select, true {Yes} false {No} other {}} | Damage: {damage}",
-    "app.auction.sister.meta.tags": "lich,auctions,kuva",
+    "app.auction.sister.meta.tags": "sister,auctions,tenet",
 
     "app.auction.tabs.bids": "Bids",
     "app.auction.tabs.bans": "Bans",
