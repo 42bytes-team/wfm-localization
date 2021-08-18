@@ -14,6 +14,8 @@
     "app.form.too_many_requests": "您嘗試登入\\註冊次數過多。請於一分鐘後再次嘗試。",
     "app.theme.light": "明亮",
     "app.theme.dark": "深黑",
+	"app.theme.contrast": "高對比",
+	"app.theme.water": "水藍",
     "app.theme.system": "跟隨系統",
     "app.review.error_same_user": "無法為自己撰寫評論。",
     "app.review.already_exist": "評論已存在。",
