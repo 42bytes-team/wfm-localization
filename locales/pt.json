@@ -788,7 +788,7 @@
     "app.tos.account": "Conta",
     "app.tos.account.avatarsAndBack": "Avatares e planos de fundo",
     "app.tos.account.avatarsAndBack.notAllowed": "Avatares e planos de fundo obscenos ou indecentes não são permitidos.",
-    "app.tos.account.userName": "Nome de uduário",
+    "app.tos.account.userName": "Nome de usuário",
     "app.tos.account.userName.notExist": "Usar um nome de usuário que não existe no jogo não é permitido. O comando de chat /profile pode ser usado para verificar se um nome de usuário existe ou se o usuário alguma vez já entrou no jogo.{br}Se você mudou seu nome no jogo, você precisa verificar novamente sua conta no site warframe.market. Contacte um moderador do warframe.market em {discordLink} ou através da página {contactUs}, caso tenha problemas com isso. {br}Se o seu nome no fórum não foi atualizado após uma mudança de nome, e você já tentou desconectar sua conta do fórum e depois conectar novamente (“log out” e depois “log in”), por favor entre em contato com o suporte da DE: {deSupport}.",
     "app.tos.api": "API",
     "app.tos.api.dataUsage": "Uso de dados",
