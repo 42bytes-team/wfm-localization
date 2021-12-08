@@ -16,6 +16,7 @@
     "app.theme.dark": "어두운 테마",
     "app.theme.high_contrast": "High Contrast",
     "app.theme.pure_water": "Pure Water",
+	"app.theme.new_war":"The New War",
     "app.theme.system": "시스템 설정과 같이",
     "app.review.error_same_user": "자신에게는 평가를 남길 수 없습니다.",
     "app.review.already_exist": "평가가 이미 존재합니다.",

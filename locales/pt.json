@@ -16,6 +16,7 @@
     "app.theme.dark": "Escuro",
     "app.theme.high_contrast": "High Contrast",
     "app.theme.pure_water": "Pure Water",
+	"app.theme.new_war":"The New War",
     "app.theme.system": "Mesmo do sistema",
     "app.review.error_same_user": "Não pode escrever uma avaliação sobre si mesmo.",
     "app.review.already_exist": "Já existe uma avaliação registrada.",

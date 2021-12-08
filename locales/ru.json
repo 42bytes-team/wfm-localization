@@ -16,6 +16,7 @@
     "app.theme.dark": "Темная",
     "app.theme.high_contrast": "High Contrast",
     "app.theme.pure_water": "Pure Water",
+	"app.theme.new_war":"The New War",
     "app.theme.system": "Вашей системы",
     "app.review.error_same_user": "Нельзя написать отзыв на самого себя.",
     "app.review.already_exist": "Отзыв уже существет",

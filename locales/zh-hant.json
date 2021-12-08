@@ -16,6 +16,7 @@
     "app.theme.dark": "深黑",
     "app.theme.high_contrast": "高對比",
     "app.theme.pure_water": "水藍",
+	"app.theme.new_war":"新世戰紀",
     "app.theme.system": "跟隨系統",
     "app.review.error_same_user": "無法為自己撰寫評論。",
     "app.review.already_exist": "評論已存在。",
