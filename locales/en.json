@@ -564,7 +564,7 @@
     "app.profile.statistics.title": "Profile - {username} | Transactions",
     "app.profile.achievements.title": "Profile - {username} | Achievements",
     "app.profile.reputation.title": "Profile - {username} | Reputation",
-    "app.profile.auctions.title": "Profile - {username} | Auctions",
+    "app.profile.auctions.title": "Profile - {username} | Contracts",
     "app.profile.bids.title": "Profile - {username} | Bids",
     "app.profile.stats.platinum": "Platinum",
     "app.profile.stats.orders": "Orders",

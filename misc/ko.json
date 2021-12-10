@@ -10,7 +10,7 @@
         "set": "{item_name} 세트",
         "blueprint": "{item_name} 설계도",
         "imprint": "{item_name} 임프린트",
-        "keys": "{item_name} (키)",
+        "key": "{item_name} (키)",
         "veiled_riven": "{item_name} (미해금)"
     }
 }
