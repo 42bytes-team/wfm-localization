@@ -395,7 +395,7 @@
     "app.auction.onPause.owner": "请在游戏内联系中标者并继续交易。 如一切顺利，您需要将拍卖标记为\"已完成\" (右上角)。{br}假如出现交易失败/欺诈/拖延，要继续拍卖，您可以取消标记或封禁中标者。您也可以尝试选出另一名中标者。",
     "app.auction.onPause.participant": "请勿离开拍卖，拥有者可能会重新考虑或取消他/她所选的中标者 (拍卖可能会继续)。",
     "app.auction.completed": "此拍卖标记为已完成。",
-    "app.auction.completed.winnerIs": "胜出者是：",
+    "app.auction.completed.winnerIs": "中标者为：",
     "app.auction.bans.hint": "封禁仅在次拍卖中生效。",
     "app.auction.bans.empty": "目前沒有人被封禁。",
     "app.auction.bans.button.removeBan": "解除封禁",
