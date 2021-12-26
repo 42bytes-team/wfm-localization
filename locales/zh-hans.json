@@ -508,7 +508,7 @@
 
     "app.ws.auctions.errors.its_your_own_auction": "您无法参与属于您自己的拍卖。",
     "app.ws.auctions.errors.banned_from_auction": "您被封禁于这一项拍卖。",
-    "app.ws.auctions.errors.reputation_is_to_low": "您的余声誉过低，不足以参与此项拍卖。",
+    "app.ws.auctions.errors.reputation_is_to_low": "您的声誉过低，不足以参与此项拍卖。",
     "app.ws.auctions.errors.cant_remove_bid_from_closed_auction": "此拍卖已关闭，您无法删除您的出价。",
     "app.ws.auctions.errors.cant_set_bid_in_closed_auction": "您无法与已关闭的拍卖中出价",
     "app.auctions.errors.cant_edit_closed_auction": "您无法编辑已关闭的拍卖",
