@@ -840,7 +840,7 @@
     "app.tos.trading.reporting.fakeListings.tool": "您可以使用网站的举报工具进行举报。",
     "app.tos.trading.reporting.fakeListings.discord": "您可以在{discordLink} 服务器上联系warframe.market的管理员。记得提供完整的聊天记录截图，并记得开启聊天时间戳（可在游戏设置中激活它）。",
     "app.tos.trading.reporting.fakeListings.directLinks": "当进行与拍卖相关的举报时，请附带与其相关的所有拍卖链接",
-    "app.tos.trading.reporting.fakeListings.include": "虚假信息包括但不限于，在wf.m中标记为“在线”但在游戏中离线或afk模式的玩家，或以“刚售出”为由拒绝交易但未在wf.m上移除商品（可能需要5分钟的时间更新网站上的信息）。{br}不当行为包括但不限于不文明行为或使用warframe.market的私信功能进行骚扰。",
+    "app.tos.trading.reporting.fakeListings.include": "虚假信息包括但不限于，在wf.m中标记为“游戏中”但在游戏中离线或afk模式的玩家，或以“刚售出”为由拒绝交易但未在wf.m上移除商品（可能需要5分钟的时间更新网站上的信息）。{br}不当行为包括但不限于不文明行为或使用warframe.market的私信功能进行骚扰。",
     "app.tos.trading.noteText": "注意：我们将不会收到以游戏内举报反馈系统提交的报告，因为正如我们的免责声明所写，我们与Digital Extremes没有关联。",
     "app.tos.trading.behavior": "不文明行为",
     "app.tos.trading.behavior.calling": "禁止直呼联系人的姓名。禁止粗鲁的举止。请勿煽动他人挑起争斗或加剧冲突。{br}如果发生这些状况，请参考“举报”一节以了解如何举报其它用户。",
