@@ -10,7 +10,7 @@
         "set": "{item_name}: Set",
         "blueprint": "{item_name}: Blaupause",
         "imprint": "{item_name}: Genetischer Abdruck",
-        "keys": "{item_name} (Key)",
+        "key": "{item_name} (Key)",
         "veiled_riven": "{item_name} (Veiled)"
     }
 }

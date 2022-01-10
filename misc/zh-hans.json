@@ -10,7 +10,7 @@
         "set": "{item_name} 一套",
         "blueprint": "{item_name} 蓝图",
         "imprint": "{item_name} 基因印记",
-        "keys": "{item_name} （钥匙）",
+        "key": "{item_name} （钥匙）",
         "veiled_riven": "{item_name} （尚未揭开）"
     }
 }

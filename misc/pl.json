@@ -10,7 +10,7 @@
         "set": "{item_name}: Zestaw",
         "blueprint": "{item_name}: Schemat",
         "imprint": "{item_name}: Genotyp",
-        "keys": "{item_name} (Klucz)",
+        "key": "{item_name} (Klucz)",
         "veiled_riven": "{item_name} (Ukryty)"
     }
 }
