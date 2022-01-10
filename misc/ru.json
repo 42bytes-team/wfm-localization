@@ -10,7 +10,7 @@
         "set": "{item_name}: Комплект",
         "blueprint": "{item_name}: Чертеж",
         "imprint": "{item_name}: Отпечаток",
-        "keys": "{item_name} (Ключ)",
+        "key": "{item_name} (Ключ)",
         "veiled_riven": "{item_name} (Скрытый)"
     }
 }

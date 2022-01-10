@@ -3,6 +3,7 @@
     "app.general.title": "Warframe Market",
     "app.general.description": "在Warframe Market您可以買賣一切出入庫的物品,包括戰甲套裝,部件,武器,Mods,虛空遺物,藍圖,Captura場景,裂罅Mod以及赤毒巫妖",
     "app.general.meta.tags": "warframe,market,buy,sell,trade,mod,blueprint,syndicate,relic,order,auction,wts,wtb,sales,worth,platinum,price,checking",
+
     "app.form.field_required": "此欄位必填",
     "app.form.can_not_be_null": "不能留空",
     "app.form.invalid": "無效數字",
@@ -12,21 +13,25 @@
     "app.form.not_an_int": "不是整數",
     "app.form.not_a_bool": "應該為 是\\否 (Bool)",
     "app.form.too_many_requests": "您嘗試登入\\註冊次數過多。請於一分鐘後再次嘗試。",
+
     "app.theme.light": "明亮",
     "app.theme.dark": "深黑",
     "app.theme.contrast": "高對比",
     "app.theme.water": "水藍",
     "app.theme.system": "跟隨系統",
+
     "app.review.error_same_user": "無法為自己撰寫評論。",
     "app.review.already_exist": "評論已存在。",
     "app.review.not_exist": "評論不存在。",
     "app.review.limit_exceeded": "您已超過今天的評論上限 (15\\天).",
+
     "app.account.passwords_mismatch": "密碼錯誤",
     "app.account.password_too_short": "密碼過短",
     "app.account.password_invalid": "無效密碼。",
     "app.account.email_already_exist": "電子郵件已註冊。",
     "app.account.email_not_exist": "電子郵件未註冊。",
     "app.account.recaptcha_missing_or_incorrect": "缺失或無效的Recaptcha認證。",
+
     "app.errors.unauthorized": "未授權的訪問，請先登入。",
     "app.errors.permission_denied": "沒有權限",
     "app.errors.not_verified": "您的帳號尚未驗證，請先驗證。",
@@ -35,6 +40,7 @@
     "app.errors.item_not_found": "物品不存在",
     "app.errors.last_service": "無法還原上一項。(因技術原因)",
     "app.errors.banned": "您的賬號已被停權(請到個人檔案頁面查看原因)",
+
     "app.chat.user_not_exist": "使用者不存在。",
     "app.chat.ignores_you": "使用者已將您加入黑名單。",
     "app.chat.ignored_by_you": "您已將使用者加入黑名單。",
@@ -52,6 +58,7 @@
     "app.edit_order.already_existing_no_duplicates": "此訂單已存在。",
     "app.delete_order.order_not_exist": "訂單不存在。",
     "app.close_order.order_not_exist": "訂單不存在。",
+
     "app.button.edit": "編輯",
     "app.button.remove": "移除",
     "app.button.accept": "接受",
@@ -67,15 +74,18 @@
     "app.button.googleAlt": "在Google Play上取得",
     "app.button.iosAlt": "在App store下載",
     "app.button.installPwa": "安裝App",
+
     "app.platforms.xbox": "Xbox",
     "app.platforms.pc": "PC",
     "app.platforms.ps4": "PS4",
     "app.platforms.switch": "Switch",
+
     "app.polarity.madurai": "Madurai",
     "app.polarity.vazarin": "Vazarin",
     "app.polarity.naramon": "Naramon",
     "app.polarity.zenurik": "Zenurik",
     "app.polarity.any": "任何",
+
     "app.items.groups.primary": "主要武器",
     "app.items.groups.secondary": "次要武器",
     "app.items.groups.melee": "近戰武器",
@@ -83,18 +93,21 @@
     "app.items.groups.sentinel": "守護",
     "app.items.groups.kitgun": "組合槍",
     "app.items.groups.archgun": "Archgun",
+
     "app.user.status.ingame": "遊戲中",
     "app.user.status.online": "在線",
     "app.user.status.offline": "離線",
     "app.user.status.invisible": "隱形",
     "app.user.status.connecting": "連線中...",
     "app.user.status.lastSeen": "上次在線時間: ",
+
     "app.order.marker.wts": "想要賣",
     "app.order.marker.sold": "已賣出",
     "app.order.marker.wts.long": "想要賣",
     "app.order.marker.wtb": "想要買",
     "app.order.marker.bought": "已購買",
     "app.order.marker.wtb.long": "想要買",
+
     "app.menu.menu": "菜單",
     "app.menu.browse_patforms": "瀏覽",
     "app.menu.trading": "市集",
@@ -103,7 +116,7 @@
     "app.menu.info": "資料",
     "app.menu.items": "物品",
     "app.menu.auctions": "拍賣",
-    "app.menu.auctions.subscript": "裂罅|巫妖",
+    "app.menu.auctions.subscript": "裂罅 | 巫妖 | 姐妹",
     "app.menu.statistics": "數據",
     "app.menu.tools": "工具",
     "app.menu.tools.ducats": "杜卡德計算器",
@@ -114,8 +127,10 @@
     "app.menu.settings": "設定",
     "app.menu.signOut": "登出",
     "app.menu.signIn": "登入",
+
     "app.searchField.placeholder": "搜尋...",
-    "app.footer.links": "連結",
+
+    "app.footer.links": "相關鏈接",
     "app.footer.faq": "F.A.Q.",
     "app.footer.terms": "服務條款",
     "app.footer.privacy": "隱私",
@@ -131,6 +146,7 @@
     "app.footer.lookingFor": "尋找開發者",
     "app.footer.online.total": "總上線人數",
     "app.footer.online.traders": "交易者上線人數",
+
     "app.filters.header": "篩選",
     "app.filters.platinum": "白金",
     "app.filters.orderType": "訂單種類",
@@ -154,6 +170,7 @@
     "app.filters.auction.type": "種類",
     "app.filters.auction.state": "狀態",
     "app.filters.auction.category": "類別",
+
     "app.regions.en": "國際 (英文)",
     "app.regions.ru": "俄羅斯",
     "app.regions.ko": "韓國",
@@ -162,13 +179,16 @@
     "app.regions.de": "德國",
     "app.regions.pl": "波蘭",
     "app.regions.zh": "中國",
+
     "app.mods.common": "常見",
     "app.mods.uncommon": "罕見",
     "app.mods.rare": "稀有",
     "app.mods.legendary": "傳說",
     "app.mods.peculiar": "怪奇",
     "app.mods.riven": "裂罅",
+
     "app.quirk.notSet": "未設置",
+
     "app.sort.label": "排序",
     "app.sort.itemName": "名稱",
     "app.sort.createDate": "創建日期",
@@ -179,11 +199,13 @@
     "app.sort.quantity": "數量",
     "app.sort.mod_rank": "等級",
     "app.sort.subtype": "類別",
+
     "app.mostRecent.title": "Warframe Market | 最近訂單 {platform, select, pc {} xbox {| Xbox} ps4 {| Ps4} switch {| Switch} other {}}",
     "app.mostRecent.header": "最近訂單",
     "app.mostRecent.notFound": "訂單未找到",
     "app.mostRecent.showMore": "顯示更多",
     "app.mostRecent.showLess": "顯示較少",
+
     "app.auctions.createAuction": "創建拍賣",
     "app.auctions.createAuction.attribute.seconds": "sec",
     "app.auctions.category.title": "類別",
@@ -191,6 +213,7 @@
     "app.auctions.category.unveiledRiven": "已開裂罅Mod",
     "app.auctions.category.kuvaLich": "赤毒巫妖",
     "app.auctions.category.sisterOfParvos": "Parvos的姊妹",
+
     "app.auctions.tips.sellOrder": "售賣",
     "app.auctions.tips.participant": "您是參與者",
     "app.auctions.tips.own": "您擁有此拍賣",
@@ -201,46 +224,59 @@
     "app.auctions.tips.auctionType.buyout": " - 可買斷的拍賣。",
     "app.auctions.tips.auctionType.sellOrder.title": "售賣",
     "app.auctions.tips.auctionType.sellOrder": " - 僅為售賣訂單,並非拍賣,無投標。{br}對的,售賣訂單在拍賣標籤分頁下,有點奇怪,但是一個彈性做法。",
+
     "app.auctions.alert.reminder": "建議{reminderLink},以確保獲得拍賣詳情的最新通知。",
     "app.auctions.alert.reminder.link": "允許桌面通知",
+
     "app.auctions.tabs.mostPopular": "熱門",
     "app.auctions.tabs.mostRecent": "最新",
     "app.auctions.tabs.search": "搜索",
     "app.auctions.tabs.participatedIn": "參與中",
     "app.auctions.tabs.createdByMe": "由我創建",
+
     "app.auctions.search.riven.title": "{itemName} 裂罅Mod - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.riven.title.attributeOnly": "擁有以下屬性的 裂罅Mod: {attributeName} - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.riven.meta.description": "在我們的拍賣平台上買賣 {itemName} 裂罅Mod | 它們的價格是多少?-> 最低價: {minPrice} 白金 ⬌ 最高價: {maxPrice} 白金 | 現有拍賣數: {auctionsCount}",
     "app.auctions.search.riven.meta.description.noPrices": "在我們的拍賣平台上買賣 {itemName} 裂罅Mod。 第一個報價並獲得最好的價格吧。",
     "app.auctions.search.riven.meta.description.attributeOnly": "買賣擁有 {attributeName} 屬性的裂罅Mod, 在我們的拍賣平台上輕鬆交易吧。",
     "app.auctions.search.riven.meta.tags": "裂罅,拍賣",
+
     "app.auctions.search.lich.title.ephemeraAndWeapon": "{weaponName} 巫妖, 帶有: {ephemeraName} - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.lich.title.weaponOnly": "{weaponName} 巫妖 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.lich.meta.description.weaponOnly": "在我們的拍賣平台上買賣 {weaponName} 巫妖 | 它們的價格是多少?-> 最低價: {minPrice} 白金 ⬌ 最高價: {maxPrice} 白金 | 現有拍賣數: {auctionsCount}",
     "app.auctions.search.lich.meta.description.weaponOnly.noPrices": "在我們的拍賣平台上買賣 {weaponName} 巫妖。 第一個報價並獲得最好的價格吧。",
+
     "app.auctions.search.lich.title.ephemeraOnly": "帶有 {ephemeraName} 的赤毒巫妖 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.lich.meta.description.ephemeraOnly": "買賣帶有 {ephemeraName} 的赤毒巫妖 | 它們的價格是多少?-> 最低價: {minPrice} 白金 ⬌ 最高價: {maxPrice} 白金 | 現有拍賣數: {auctionsCount}",
     "app.auctions.search.lich.meta.description.ephemeraOnly.noPrices": "買賣帶有 {ephemeraName} 的赤毒巫妖。第一個報價並獲得最好的價格吧。",
+
     "app.auctions.search.lich.title.elementOnly": "帶有 {elementName} 元素的赤毒巫妖 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.lich.meta.description.elementOnly": "買賣帶有 {elementName} 元素的赤毒巫妖 | 它們的價格是多少?-> 最低價: {minPrice} 白金 ⬌ 最高價: {maxPrice} 白金 | 現有拍賣數: {auctionsCount}",
     "app.auctions.search.lich.meta.description.elementOnly.noPrices": "買賣帶有 {elementName} 元素的赤毒巫妖。 第一個報價並獲得最好的價格吧",
+
     "app.auctions.search.lich.meta.tags": "巫妖,拍賣",
+
     "app.auctions.search.sister.title.ephemeraAndWeapon": "{weaponName}, {ephemeraName}, Parvos的姊妹 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.sister.title.weaponOnly": "{weaponName}, Parvos的姊妹 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.sister.meta.description.weaponOnly": "在我們的拍賣平台上買賣 {weaponName} | 它們的價格是多少?-> 最低價: {minPrice} 白金 ⬌ 最高價: {maxPrice} 白金 | 現有拍賣數: {auctionsCount}",
     "app.auctions.search.sister.meta.description.weaponOnly.noPrices": "在我們的拍賣平台上買賣 {weaponName} 。 第一個報價並獲得最好的價格吧",
+
     "app.auctions.search.sister.title.ephemeraOnly": "{ephemeraName}, Parvos的姊妹 - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.sister.meta.description.ephemeraOnly": "買賣 {ephemeraName} | 它們的價格是多少?-> 最低價: {minPrice} 白金 ⬌ 最高價: {maxPrice} 白金 | 現有拍賣數: {auctionsCount}",
     "app.auctions.search.sister.meta.description.ephemeraOnly.noPrices": "買賣 {ephemeraName}。 第一個報價並獲得最好的價格吧",
+
     "app.auctions.search.sister.title.elementOnly": "Parvos的姊妹, 元素: {elementName} - 交易 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.search.sister.meta.description.elementOnly": "買賣{elementName}元素的 `Parvos的姊妹` | 它們的價格是多少?-> 最低價: {minPrice} 白金 ⬌ 最高價: {maxPrice} 白金 | 現有拍賣數: {auctionsCount}",
     "app.auctions.search.sister.meta.description.elementOnly.noPrices": "買賣{elementName}元素的`Parvos的姊妹`。第一個報價並獲得最好的價格吧",
+
     "app.auctions.search.sister.meta.tags": "姊妹,拍賣,Parvos的姊妹",
+
     "app.auctions.search.label.category": "全部",
     "app.auctions.search.label.type": "類別",
     "app.auctions.search.label.sortBy": "排序方式",
     "app.auctions.search.option.sort.priceAsc": "價格 (順序)",
     "app.auctions.search.option.sort.priceDesc": "價格 (倒序)",
+
     "app.auctions.search.nemesis.label.quirk": "怪癖",
     "app.auctions.search.nemesis.placeholder.quirk": "任何",
     "app.auctions.search.nemesis.label.element": "元素",
@@ -255,6 +291,7 @@
     "app.auctions.search.nemesis.ephemera.no": "無",
     "app.auctions.search.nemesis.option.sort.damageDesc": "正面詞條 (倒序)",
     "app.auctions.search.nemesis.option.sort.damageAsc": "正面詞條 (順序)",
+
     "app.auctions.search.riven.label.weaponName": "武器名稱",
     "app.auctions.search.riven.placeholder.weapon": "任何",
     "app.auctions.search.riven.label.positiveAttributes": "正面詞條",
@@ -267,6 +304,7 @@
     "app.auctions.search.riven.label.modRank": "Mod 等級",
     "app.auctions.search.riven.option.sort.positiveAttrDesc": "正面詞條 (倒序)",
     "app.auctions.search.riven.option.sort.positiveAttrAsc": "正面詞條 (順序)",
+
     "app.auctions.search.showAdvanced": "顯示進階篩選",
     "app.auctions.search.hideAdvanced": "隱藏進階篩選",
     "app.auctions.search.all": "全部",
@@ -282,23 +320,28 @@
     "app.auctions.search.nemesis.warn.selectWeapon": "請選擇一個武器/幻紋/元素",
     "app.auctions.search.resetSearch": "重置",
     "app.auctions.search.nothingFound": "無查詢結果,請嘗試放寬搜索條件。",
+
     "app.auctions.mostRecent.title": "裂罅Mod | 最新的拍賣 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.mostRecent.meta.description": "最近四小時內創建的所有裂罅Mod拍賣。",
     "app.auctions.mostRecent.meta.tags": "裂罅,拍賣",
     "app.auctions.mostRecent.nothingFound": "尚無已創建的拍賣",
     "app.auctions.mostRecent.button.showMore": "顯示更多",
     "app.auctions.mostRecent.button.showLess": "顯示較少",
+
     "app.auctions.mostPopular.title": "裂罅Mod | 最熱門的拍賣 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auctions.mostPopular.meta.description": "最近四小時內創建的最熱門的裂罅Mod拍賣。",
     "app.auctions.mostPopular.meta.tags": "裂罅,拍賣,熱門",
+
     "app.auctions.participatedIn.title": "參與 | 拍賣",
     "app.auctions.participatedIn.meta.description": "您參與的所有拍賣。",
     "app.auctions.participatedIn.meta.tags": "裂罅,拍賣",
     "app.auctions.participatedIn.nothingFound": "無搜索結果。",
+
     "app.auctions.createdByMe.title": "我創建的 | 拍賣",
     "app.auctions.createdByMe.meta.description": "您創建的所有拍賣。",
     "app.auctions.createdByMe.meta.tags": "裂罅,拍賣",
     "app.auctions.createdByMe.nothingFound": "無搜索結果。",
+
     "app.auctions.entry.removeConfirmation": "移除?",
     "app.auctions.entry.state.archiving": "封存中",
     "app.auctions.entry.state.private": "私人",
@@ -325,6 +368,7 @@
     "app.auctions.entry.topBid": "最高競標價",
     "app.auctions.entry.noBids": "暫時尚無競標",
     "app.auctions.entry.yourBid": "您的出價",
+
     "app.auctions.entry.nemesis.ephemera": "幻紋",
     "app.auctions.entry.nemesis.damage": "傷害",
     "app.auctions.entry.nemesis.element": "元素",
@@ -333,17 +377,21 @@
     "app.auctions.entry.riven.modRank": "等級",
     "app.auctions.entry.riven.reRolls": "迴圈",
     "app.auctions.entry.riven.polarity": "極性",
+
     "app.auction.riven.title": "拍賣 - {itemName} 裂罅Mod {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auction.riven.meta.description": "Mod 詞條: {attributes}",
     "app.auction.riven.meta.tags": "裂罅,拍賣",
+
     "app.auction.lich.title": "拍賣 - {weaponName} 巫妖, 帶有幻紋: {ephemeraName} {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auction.lich.title.weaponOnly": "拍賣 - {weaponName} 巫妖 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auction.lich.meta.description": "元素: {elementName} | Having ephemera : {havingEphemera, select, true {Yes} false {No} other {}} | Damage: {damage}",
     "app.auction.lich.meta.tags": "巫妖,拍賣,赤毒",
+
     "app.auction.sister.title": "售賣: {weaponName}, {ephemeraName}, Parvos的姊妹 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auction.sister.title.weaponOnly": "售賣: {weaponName}, Parvos的姊妹 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.auction.sister.meta.description": "元素: {elementName} | 帶有幻紋 : {havingEphemera, select, true {Yes} false {No} other {}} | Damage: {damage}",
     "app.auction.sister.meta.tags": "姊妹,拍賣,教條",
+
     "app.auction.tabs.bids": "競價",
     "app.auction.tabs.bans": "封禁",
     "app.auction.removeConfirmation": "您確定嗎?",
@@ -376,7 +424,7 @@
     "app.auction.sorting.status": "在線狀態",
     "app.auction.sorting.bid": "投標",
     "app.auction.sorting.reputation": "聲譽",
-    "app.auction.row.button.winner": "標記為勝出者",
+    "app.auction.row.button.winner": "標記為中標者",
     "app.auction.row.button.unMarkWinner": "取消標記",
     "app.auction.row.button.banUser": "封禁",
     "app.auction.row.button.banUser.yes": "是",
@@ -389,27 +437,31 @@
     "app.auction.yourBid": "您的競標價:",
     "app.auction.wasRemoved": "此拍賣已被擁有者標記刪除,您將無法繼續參與,且此拍賣將會被永久移除。",
     "app.auction.reputationIsTooLow": "您無法參與此拍賣。{br}您在此網站上的聲譽低於需求。",
-    "app.auction.active": "此拍賣已激活。{br}您可以隨時選出一名勝出者, 這將會使拍賣暫停 (以在遊戲中處理交易).{br}您將依然可以考慮您的選擇,且可以取消勝出者以繼續拍賣。",
+    "app.auction.active": "此拍賣已激活。{br}您可以隨時選出一名中標者, 這將會使拍賣暫停 (以在遊戲中處理交易).{br}您將依然可以考慮您的選擇,且可以移除中標者以繼續拍賣。",
     "app.auction.onPause": "拍賣已暫停。",
     "app.auction.onPause.considering": "考慮中",
-    "app.auction.onPause.owner": "請於遊戲內聯繫勝出者並繼續交易。 如一切順利, 您可以將拍賣標記為\"已完成\" (右上角).{br}假如出現交易失敗/欺詐/拖延,要繼續拍賣,您可以取消標記或封禁勝出者。您也可以嘗試選出另一名勝出者。",
-    "app.auction.onPause.participant": "請勿離開拍賣,擁有者可能會重新考慮或取消他/她所選的勝出者 (拍賣可能會繼續)。",
+
+    "app.auction.onPause.owner": "請於遊戲內聯繫中標者並繼續交易。 如一切順利, 您可以將拍賣標記為\"已完成\" (右上角).{br}假如出現交易失敗/欺詐/拖延,要繼續拍賣,您可以取消標記或封禁中標者。您也可以嘗試選出另一名勝出者。",
+    "app.auction.onPause.participant": "請不要離開拍賣,擁有者可能會重新考慮或取消他/她所選的中標者 (拍賣可能會繼續)。",
     "app.auction.completed": "此拍賣標記為已完成。",
-    "app.auction.completed.winnerIs": "勝出者是: ",
+    "app.auction.completed.winnerIs": "中標者為: ",
     "app.auction.bans.hint": "封禁僅在次拍賣中生效。",
     "app.auction.bans.empty": "目前沒有人被封禁。",
     "app.auction.bans.button.removeBan": "解除封禁",
     "app.auction.clipboard.template": "/w {ingameName} Hi!",
+
     "app.auction.riven.modRank": "Mod 等級",
     "app.auction.riven.mastery": "精通段位",
     "app.auction.riven.reRolls": "迴圈次數",
     "app.auction.riven.polarity": "極性",
+
     "app.auctions.modal.title.create": "創建拍賣",
     "app.auctions.modal.title.edit": "編輯拍賣",
     "app.auctions.modal.button.close": "關閉",
     "app.auctions.modal.stages.item": "物品詳情",
     "app.auctions.modal.stages.auction": "拍賣詳情",
     "app.auctions.modal.stages.done": "完成",
+
     "app.auctions.modal.nemesis.label.quirk": "怪癖",
     "app.auctions.modal.nemesis.label.element": "元素",
     "app.auctions.modal.nemesis.label.damage": "傷害",
@@ -417,6 +469,7 @@
     "app.auctions.modal.nemesis.label.weapon": "武器",
     "app.auctions.modal.nemesis.ephemera.yes": "是",
     "app.auctions.modal.nemesis.ephemera.no": "否",
+
     "app.auctions.modal.riven.label.attribute": "詞條",
     "app.auctions.modal.riven.label.effect": "效果",
     "app.auctions.modal.riven.label.value": "數值",
@@ -430,6 +483,7 @@
     "app.auctions.modal.riven.option.negative": "負面",
     "app.auctions.modal.riven.button.addAttribute": "+ 增加",
     "app.auctions.modal.riven.button.removeAttribute": "X",
+
     "app.auctions.modal.success": "已成功創建拍賣!",
     "app.auctions.modal.button.next": "下一項",
     "app.auctions.modal.button.previous": "前一項",
@@ -437,6 +491,7 @@
     "app.auctions.modal.button.createNew": "創建新拍賣",
     "app.auctions.modal.button.openCreated": "開啟近期創建拍賣",
     "app.auctions.modal.button.update": "更新",
+
     "app.auctions.modal.label.privacy.order": "訂單為",
     "app.auctions.modal.label.privacy.auction": "拍賣為",
     "app.auctions.modal.button.privacy.private": "私人",
@@ -450,6 +505,7 @@
     "app.auctions.modal.label.policy": "輸入",
     "app.auctions.modal.button.policy.auction": "拍賣",
     "app.auctions.modal.button.policy.directSell": "售賣訂單",
+
     "app.ws.auctions.errors.its_your_own_auction": "您無法參與您擁有的拍賣。",
     "app.ws.auctions.errors.banned_from_auction": "您被封禁於這一項拍賣。",
     "app.ws.auctions.errors.reputation_is_to_low": "您的聲譽過低,不足以參與此項拍賣。",
@@ -466,6 +522,7 @@
     "app.auctions.errors.cant_convert_to_order_bids_exists": "無法將拍賣轉為訂單,此拍賣已有競標",
     "app.auctions.errors.top_bid_is_greater_than_buyout": "最高競標價大於指定買斷價",
     "app.auctions.errors.starting_higher_than_lowet_bid": "起標價無法低於此拍賣已有的最低出價",
+
     "app.itemPage.orders.title": "{itemName} - 買賣訂單 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.itemPage.orders.meta.description": "所有 \"{itemName}\" 的訂單和價格",
     "app.itemPage.orders.meta.description.price.notKnown": "¯\\_(ツ)_/¯",
@@ -482,6 +539,7 @@
     "app.itemPage.ducats": "杜卡德金幣",
     "app.itemPage.tabs.orders": "訂單",
     "app.itemPage.tabs.statistics": "數據",
+
     "app.tools.ducanator.title": "杜卡德計算器 - 杜卡德：白金比 {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.tools.ducanator.meta.description": "提供所有物品中最高的杜卡德：白金比，讓您找出最值的部件，買到最多杜卡德金幣。 杜卡德計算器提供每小時和每日的數據。",
     "app.tools.ducanator.header": "杜卡德計算器",
@@ -501,6 +559,7 @@
     "app.tools.ducanator.sort.position_day": "天",
     "app.tools.ducanator.sort.position_week": "週",
     "app.tools.ducanator.sort.position_month": "月",
+
     "app.profile.title": "個人檔案 - {username}",
     "app.profile.statistics.title": "個人檔案 - {username} | 交易",
     "app.profile.achievements.title": "個人檔案 - {username} | 成就",
@@ -550,6 +609,7 @@
     "app.reviews.hide": "隱藏",
     "app.reviews.show": "顯示",
     "app.review.hidden": "隱藏",
+
     "app.settings.title": "設定",
     "app.settings.header": "設定",
     "app.settings.tabs.verification": "驗證",
@@ -670,6 +730,7 @@
     "app.settings.automation.hour": "{itemCount, plural, one {# 小時} other {# 小時}}",
     "app.settings.automation.after": "之後",
     "app.settings.automation.since": "自上次狀態改變後",
+
     "app.im.title": "訊息",
     "app.im.header": "訊息",
     "app.im.tabs.chats": "對話",
@@ -689,7 +750,9 @@
     "app.im.ignore.noEntries": "目前沒有人被黑名單",
     "app.im.ignore.lastSeen": "上次上線:",
     "app.im.ignore.button.remove": "移除",
+
     "app.im.ignore.empty": "黑名單列表為空",
+
     "app.auth.title": "驗證 | Warframe Market",
     "app.auth.header": "驗證",
     "app.auth.signIn.title": "登入 | Warframe Market",
@@ -718,6 +781,7 @@
     "app.auth.register.passwordConfirm": "確認密碼",
     "app.auth.register.passwordConfirmPlaceholder": "您的密碼",
     "app.auth.register.joinNow": "馬上加入",
+
     "app.contacts.title": "聯繫我們 | Warframe Market",
     "app.contacts.header": "連繫我們",
     "app.contacts.socialNetworks": "透過社群網站",
@@ -736,8 +800,10 @@
     "app.contacts.jackalope33": "jackalope33",
     "app.contacts.milhail": "Milhail",
     "app.contacts.wisp": "--OTC--Wisp.VE",
+
     "app.lookingFor.title": "正在尋找 | Warframe Market",
     "app.lookingFor.header": "正在尋找",
+
     "app.tos.title": "服務條款 | Warframe Market",
     "app.tos.header": "服務條款",
     "app.tos.trading": "交易",
@@ -798,6 +864,7 @@
     "app.tos.pwaMobileApp": "PWA/流動應用程式",
     "app.tos.pwaMobileApp.pwa": "PWA指漸進式網絡應用程式,是一種對流動設備友善的方式可以訪問網站上所有的功能。{br}warframe.market上已經啟用了PWA。您可以檢查warframe.market{discordLink}伺服器 #android-ios-apps頻道的釘選訊息以了解如何使用你的流動設備訪問warframe.market的PWA。{br}這可以讓您在流動設備上接收通知(僅限Android設備),以及便捷的方式訪問網站上您所有的訂單。",
     "app.tos.pwaMobileApp.mobile": "warframe.market沒有任何官方流動應用程式。任何在第三方程式上進行的支付或者廣告與warframe.market並沒有任何關聯。warframe.market管理團隊並不會就第三方應用程式提供任何協助。",
+
     "app.faq.title": "F.A.Q. | Warframe Market",
     "app.faq.header": "F.A.Q.",
     "app.faq.tableOfContents": "目錄",
@@ -833,6 +900,7 @@
     "app.faq.enable_notifications.chrome.example": "例子:",
     "app.faq.enable_notifications.firefox.title": "Firefox 瀏覽器:",
     "app.faq.enable_notifications.firefox.description": "1. 1. 在您的瀏覽器左上角,網址欄的前面,點擊資訊圖標 -> {infoIcon}{br}2. 點擊 `偏好設定`{br}3. 點擊通知設定{br}4. 尋找 warframe.market{br}5. 將狀態設為`允許`",
+
     "app.privacy.title": "隱私 | Warframe Market",
     "app.privacy.header": "隱私",
     "app.privacy.accessInfo.content": "您有權要求本公司向您披露於過去12個月內收集和使用您個人資料的某些信息。一旦我們收到並確認您的可驗證消費者要求(如“行使存取權, 數據便攜性, 刪除權”章節中所描述), 我們將會向您披露:",
@@ -942,8 +1010,10 @@
     "app.privacy.sharingInfo.nextCategories.thirdParties": "與我們合作並向您提供商品和服務的第三方。",
     "app.privacy.sharingInfo.title": "共享個人信息",
     "app.privacy.supportEmail": "support@warframe.market",
+
     "app.apiDocs.title": "API 文檔 | Warframe Market",
     "app.apiDocs.header": "文檔",
+
     "app.timeRange.48hours": "48小時",
     "app.timeRange.90days": "90天",
     "app.order.bought": "已購買",
@@ -984,6 +1054,7 @@
     "app.order.clipboard.buy.pl": "kup",
     "app.order.clipboard.sell.pl": "sprzedaj",
     "app.order.clipboard.template.pl": "/w {ingameName} Hej! Chce {action}: {itemName} {modRank, select, null {} other {(rank {modRank}) }}za {price} platyny. (warframe.market)",
+
     "app.placeOrder.bigButton": "下訂單",
     "app.placeOrder.header": "下訂單",
     "app.placeOrder.orderType": "訂單種類",
@@ -1000,6 +1071,7 @@
     "app.placeOrder.close": "關閉",
     "app.placeOrder.success": "訂單已送出:",
     "app.placeOrder.visibility": "初始可見狀態:",
+
     "app.elements.heat": "火焰",
     "app.elements.impact": "衝擊",
     "app.elements.electricity": "電擊",
@@ -1008,6 +1080,7 @@
     "app.elements.toxin": "毒素",
     "app.elements.cold": "冰凍",
     "app.elements.any": "任何",
+
     "app.editOrder.header": "編輯訂單",
     "app.editOrder.top.sell": "前5筆售賣訂單",
     "app.editOrder.top.sell.maxed": "前5筆訂單 [maxed Rank]",
@@ -1027,6 +1100,7 @@
     "app.editOrder.send": "更新",
     "app.editOrder.close": "關閉",
     "app.editOrder.success": "訂單已更新:",
+
     "app.statistics.noData": "無數據",
     "app.statistics.priceChart": "價格圖表",
     "app.statistics.volume": "數量",
@@ -1045,6 +1119,7 @@
     "app.statistics.legend.medianPrice": "中間價",
     "app.statistics.legend.smaPrice": "簡單移動平均",
     "app.statistics.legend.averagePrice": "平均",
+
     "app.subtype.any": "任何",
     "app.subtype.radiant": "光輝",
     "app.subtype.intact": "完整",
