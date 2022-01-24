@@ -809,6 +809,7 @@
     "app.tos.pwaMobileApp": "PWA / мобильное приложение",
     "app.tos.pwaMobileApp.pwa": "PWA - это прогрессивное веб-приложение, которое представляет собой удобный для мобильных устройств способ доступа ко всем функциям веб-сайта. {br} PWA включен для warframe.market. Вы можете проверить закрепленные сообщения на нашем канале # android-ios-apps на сервере {discordLink} warframe.market о том, как добавить warframe.market PWA на свой телефон. {br} Это даст вам доступ к своим уведомлениям (только для устройств Android) , все ваши списки и быстрый доступ к рынку на экране вашего мобильного телефона.",
     "app.tos.pwaMobileApp.mobile": "Официального мобильного приложения для warframe.market нет. Любые платежи в сторонние приложения или реклама, показываемая в любом приложении, не связаны с warframe.market. Команда модераторов warframe.market не поддерживает сторонние приложения.",
+    "app.tos.disclaimer": "The moderation team reserves all the rights of final explanation.",
     "app.faq.title": "ЧаВО | Warframe Market",
     "app.faq.header": "ЧаВО",
     "app.faq.tableOfContents": "Содержание",

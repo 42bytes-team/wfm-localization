@@ -809,6 +809,7 @@
     "app.tos.pwaMobileApp": "PWA/流動應用程式",
     "app.tos.pwaMobileApp.pwa": "PWA指漸進式網絡應用程式,是一種對流動設備友善的方式可以訪問網站上所有的功能。{br}warframe.market上已經啟用了PWA。您可以檢查warframe.market{discordLink}伺服器 #android-ios-apps頻道的釘選訊息以了解如何使用你的流動設備訪問warframe.market的PWA。{br}這可以讓您在流動設備上接收通知(僅限Android設備),以及便捷的方式訪問網站上您所有的訂單。",
     "app.tos.pwaMobileApp.mobile": "warframe.market沒有任何官方流動應用程式。任何在第三方程式上進行的支付或者廣告與warframe.market並沒有任何關聯。warframe.market管理團隊並不會就第三方應用程式提供任何協助。",
+    "app.tos.disclaimer": "The moderation team reserves all the rights of final explanation.",
     "app.faq.title": "F.A.Q. | Warframe Market",
     "app.faq.header": "F.A.Q.",
     "app.faq.tableOfContents": "目錄",

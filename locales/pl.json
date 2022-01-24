@@ -809,6 +809,7 @@
     "app.tos.pwaMobileApp": "PWA/Aplikacja",
     "app.tos.pwaMobileApp.pwa": "PWA odnosi się do Progressive Web Application, która jest mobile friendly dostępem do wszystkich funkcji strony.{br}PWA jest aktywna dla warframe.market. Możesz zobaczyć wiadomości w pin'ach na kanale #android-ios-apps na serwerze discord warframe.market {discordLink} dotyczące jak dodać dostęp warframe.market PWA do swojego telefonu.{br}To da dostęp do twoich powiadomień (tylko Android), twoich zamówień i szybki dostęp do marketu na telefonie.",
     "app.tos.pwaMobileApp.mobile": "Nie ma oficjalnej aplikacji dla warframe.market. Każda płatność dla aplikacji third-party lub reklam pokazanych na aplikacji nie są styczne z warframe.market. Moderacja warframe.market nie wspiera z problemami na aplikacji third-party.",
+    "app.tos.disclaimer": "The moderation team reserves all the rights of final explanation.",
     "app.faq.title": "F.A.Q. | Warframe Market",
     "app.faq.header": "F.A.Q.",
     "app.faq.tableOfContents": "Spis treści",

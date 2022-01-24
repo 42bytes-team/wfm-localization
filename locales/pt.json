@@ -809,6 +809,7 @@
     "app.tos.pwaMobileApp": "PWA / Aplicativo para Celular",
     "app.tos.pwaMobileApp.pwa": "PWA quer dizer “Progressive Web Application”, que é uma forma de acessar todas as funcionalidades do site através do celular.{br}O PWA está ativado para o warframe.market. Você pode ler as mensagens “pin” sobre como adicionar acesso PWA ao warframe.market no seu telefone, no nosso canal #android-ios-apps no servidor {discordLink} do warframe.market.{br}Isso dará a você acesso a suas notificações (apenas para dispositivos Android), todos os seus pedidos e acesso rápido ao mercado na sua tela de celular.",
     "app.tos.pwaMobileApp.mobile": "Não existe um aplicativo oficial para o warframe.market. Quaisquer pagamentos feitos a aplicativos de terceiros ou propagandas mostradas em qualquer aplicativo não são conectados ao warframe.market. A equipe de moderadores do warframe.market não dá suporte a nenhum aplicativo de terceiros.",
+    "app.tos.disclaimer": "The moderation team reserves all the rights of final explanation.",
     "app.faq.title": "Perguntas | Warframe Market",
     "app.faq.header": "Perguntas",
     "app.faq.tableOfContents": "Índice",
