@@ -35,6 +35,10 @@ def sync_to_en():
     with open(os.path.join('locales', locales['en'])) as _file:
         en_locale = json.JSONDecoder(object_pairs_hook=OrderedDict).decode(_file.read())
 
+    with open(os.path.join('locales', locales['en']),'w',encoding="utf-8") as _file:
+        dump = json.JSONEncoder(indent=4,ensure_ascii=False,sort_keys=True).encode(en_locale)
+        _file.write(dump)
+
     for locale_file in locales['to_sync']:
         updated_locale_data = copy.deepcopy(en_locale)
         missing_keys = []
@@ -45,7 +49,7 @@ def sync_to_en():
                 else:
                     missing_keys.append(key)
 
-        locale_dump = json.JSONEncoder(indent=4, ensure_ascii=False).encode(updated_locale_data)
+        locale_dump = json.JSONEncoder(indent=4, ensure_ascii=False,sort_keys=True).encode(updated_locale_data)
         with open(os.path.join('locales', locale_file), 'w', encoding="utf-8") as _file:
             _file.write(locale_dump)
 
