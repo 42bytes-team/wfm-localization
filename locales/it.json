@@ -16,6 +16,7 @@
     "app.theme.dark": "Deep dark",
     "app.theme.contrast": "High Contrast",
     "app.theme.water": "Pure Water",
+    "app.theme.new_war": "The New War",
     "app.theme.system": "System preference",
     "app.review.error_same_user": "Can't write review about yourself.",
     "app.review.already_exist": "Review already exists.",
