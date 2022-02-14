@@ -806,7 +806,7 @@
   "app.tos.api.dataUsage.scrapingData": "允许在合理范围内收集数据和使用我们的API。{br}上限为每秒3个请求。{br}禁止使用我们的数据提供相同的服务。请在此基础上建立新的功能。（个人/教育用途则不在此限，但请在公开展示您的成品前联系我们以获得许可。）{br}我们保留禁止任何试图使用我们数据的应用程序/服务访问的权利。",
   "app.tos.api.note.moreInfo": "更多详情，请到{discordLink} 服务器上与开发者交流。",
   "app.tos.pwaMobileApp": "PWA / APP",
-  "app.tos.pwaMobileApp.pwa": "PWA，即渐进式网页应用，是一种能够改善移动端访问网站服务的功能{br}	warframe.market上已经启用了PWA功能。您可以访问warframe.market在{discordLink}服务器的#android-ios-apps 频道的钉选信息以了解如何在您的设备上添加和使用PWA功能。{br}这可以让您在移动设备上接收网站通知（仅限Android平台），以及在移动设备屏幕上更快捷的处理您的订单。",
+  "app.tos.pwaMobileApp.pwa": "PWA，即渐进式网页应用，是一种能够改善移动端访问网站服务的功能{br}warframe.market上已经启用了PWA功能。您可以访问warframe.market在{discordLink}服务器的#android-ios-apps 频道的钉选信息以了解如何在您的设备上添加和使用PWA功能。{br}这可以让您在移动设备上接收网站通知（仅限Android平台），以及在移动设备屏幕上更快捷的处理您的订单。",
   "app.tos.pwaMobileApp.mobile": "warframe.market没有任何官方的移动设备APP。任何在第三方程序上进行的支付或广告与warframe.market并没有任何关联。warframe.market管理团队并不会为第三方APP提供任何协助。",
   "app.tos.disclaimer": "管理团队保留此服务条款的最终解释权。",
   "app.faq.title": "常见问题 | Warframe Market",
