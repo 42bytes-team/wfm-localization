@@ -10,7 +10,7 @@
         "set": "{item_name}: Conjunto",
         "blueprint": "{item_name}: Diagrama",
         "imprint": "{item_name}: Código Genético",
-        "keys": "{item_name} (Chave)",
+        "key": "{item_name} (Chave)",
         "veiled_riven": "{item_name} (Oculto)"
     }
 }
