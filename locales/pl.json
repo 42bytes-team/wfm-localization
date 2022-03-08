@@ -810,6 +810,7 @@
   "app.tos.account.userName.notExist": "Używanie nazwy użytkownika która nie istnieje w grze jest niedozwolone. Komenda /profile może być użyta do wyznaczenia czy użytkownik istnieje lub czy kiedykolwiek się zalogował.{br}Jeżeli zmieniłeś nazwę w grze, musisz ponownie zweryfikować się na warframe.market. Skontaktuj się z moderacją warframe.market na {discordLink} lub przez stronę {contactUs} w razie problemów. {br}Jeżeli twoja nazwa na forum jest niezaaktualizowana po zmianie, i próbowałeś wylogowanie z forum i ponowne logowanie, proszę skontaktować się z supportem DE: {deSupport}.",
   "app.tos.account.limitations": "Limitacje",
   "app.tos.account.limitations.limitOrders": "Darmowe konta mają limit 100 zamówień, który może być rozszerzony poprzez zostanie Patronem. Więcej szczegółów na {supportUs}.",
+  "app.tos.account.banEvasion.title": "Suspension Evasion",
   "app.tos.account.banEvasion": "Nie możesz próbować ominąć zablokowania konta w żaden sposów. Robienie tego prowadzi do stałego zablokowania konta.",
   "app.tos.api": "API",
   "app.tos.api.dataUsage": "Użycie danych",
