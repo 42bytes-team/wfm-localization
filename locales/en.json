@@ -53,7 +53,7 @@
   "app.edit_order.already_existing_no_duplicates": "The order you're trying to create already exists.",
   "app.delete_order.order_not_exist": "Order does not exist.",
   "app.close_order.order_not_exist": "Order does not exist.",
-  "app.alert.account.removedIn": "You account will be removed {relativeTime}",
+  "app.alert.account.removedIn": "Your account will be removed {relativeTime}",
   "app.alert.account.openSettings": "Open Settings",
   "app.button.edit": "Edit",
   "app.button.remove": "Remove",
