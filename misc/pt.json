@@ -11,6 +11,7 @@
         "blueprint": "{item_name}: Diagrama",
         "imprint": "{item_name}: Código Genético",
         "key": "{item_name} (Chave)",
-        "veiled_riven": "{item_name} (Oculto)"
+        "veiled_riven": "{item_name} (Oculto)",
+		"crafted": "{item_name} (Crafted)"
     }
 }
