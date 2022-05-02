@@ -126,7 +126,7 @@
     "app.footer.follow": "팔로우",
     "app.footer.changeLang": "언어 변경",
     "app.footer.changeTheme": "테마 변경",
-    "app.footer.disclaimer": "면책 조항",
+    "app.footer.disclaimer.title": "면책 조항",
     "app.footer.lookingFor": "개발자 구인",
     "app.footer.online.total": "전체 접속자",
     "app.footer.online.traders": "거래 가능한 사용자",
