@@ -126,7 +126,7 @@
     "app.footer.follow": "社群鏈接",
     "app.footer.changeLang": "更換語言",
     "app.footer.changeTheme": "更換主題",
-    "app.footer.disclaimer": "聲明",
+    "app.footer.disclaimer.title": "聲明",
     "app.footer.lookingFor": "尋找開發者",
     "app.footer.online.total": "總上線人數",
     "app.footer.online.traders": "交易者上線人數",

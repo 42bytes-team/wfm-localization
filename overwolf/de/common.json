@@ -126,7 +126,7 @@
     "app.footer.follow": "Follow us on",
     "app.footer.changeLang": "Sprache ändern",
     "app.footer.changeTheme": "Change Theme",
-    "app.footer.disclaimer": "Haftungsausschluss",
+    "app.footer.disclaimer.title": "Haftungsausschluss",
     "app.footer.lookingFor": "Looking for developer",
     "app.footer.online.total": "Insgesamt online",
     "app.footer.online.traders": "Händler online",

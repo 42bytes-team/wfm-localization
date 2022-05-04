@@ -126,7 +126,7 @@
     "app.footer.follow": "Follow us on",
     "app.footer.changeLang": "Поменять Язык",
     "app.footer.changeTheme": "Тема оформления",
-    "app.footer.disclaimer": "Отказ от прав",
+    "app.footer.disclaimer.title": "Отказ от прав",
     "app.footer.lookingFor": "Ищем разработчика",
     "app.footer.online.total": "Общий онлайн",
     "app.footer.online.traders": "Торговцев онлайн",

@@ -126,7 +126,7 @@
     "app.footer.follow": "社群链接",
     "app.footer.changeLang": "更换语言",
     "app.footer.changeTheme": "更换主题",
-    "app.footer.disclaimer": "声明",
+    "app.footer.disclaimer.title": "声明",
     "app.footer.lookingFor": "联系开发者",
     "app.footer.online.total": "总在线人数",
     "app.footer.online.traders": "交易者在线人数",

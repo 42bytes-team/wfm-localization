@@ -126,7 +126,7 @@
     "app.footer.follow": "Suivez nous sur",
     "app.footer.changeLang": "Changer de Langue",
     "app.footer.changeTheme": "Changer de Thème",
-    "app.footer.disclaimer": "Avertissement",
+    "app.footer.disclaimer.title": "Avertissement",
     "app.footer.lookingFor": "à la recherche de développpeur",
     "app.footer.online.total": "Total En ligne",
     "app.footer.online.traders": "Vendeurs En ligne",
