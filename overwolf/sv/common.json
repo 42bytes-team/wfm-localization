@@ -126,7 +126,7 @@
     "app.footer.follow": "Follow us on",
     "app.footer.changeLang": "Ändra språk",
     "app.footer.changeTheme": "Change Theme",
-    "app.footer.disclaimer": "Varning",
+    "app.footer.disclaimer.title": "Varning",
     "app.footer.lookingFor": "Looking for developer",
     "app.footer.online.total": "Totala besökare",
     "app.footer.online.traders": "Handlare inloggade",
