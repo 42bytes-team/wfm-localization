@@ -12,6 +12,6 @@
         "imprint": "{item_name}: Código Genético",
         "key": "{item_name} (Chave)",
         "veiled_riven": "{item_name} (Oculto)",
-		"crafted": "{item_name} (Crafted)"
+        "crafted": "{item_name} (Crafted)"
     }
 }

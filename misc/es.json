@@ -12,6 +12,6 @@
         "imprint": "Impronta de {item_name}",
         "key": "{item_name} (Llave)",
         "veiled_riven": "{item_name} (Velado)",
-		"crafted": "{item_name} (Crafted)"
+        "crafted": "{item_name} (Crafted)"
     }
 }

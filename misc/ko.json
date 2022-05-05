@@ -12,6 +12,6 @@
         "imprint": "{item_name} 임프린트",
         "key": "{item_name} (키)",
         "veiled_riven": "{item_name} (미해금)",
-		"crafted": "{item_name} (Crafted)"
+        "crafted": "{item_name} (Crafted)"
     }
 }

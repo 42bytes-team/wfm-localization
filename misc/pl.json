@@ -12,6 +12,6 @@
         "imprint": "{item_name}: Genotyp",
         "key": "{item_name} (Klucz)",
         "veiled_riven": "{item_name} (Ukryty)",
-		"crafted": "{item_name} (Crafted)"
+        "crafted": "{item_name} (Crafted)"
     }
 }
