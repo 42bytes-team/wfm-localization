@@ -11,6 +11,7 @@
         "blueprint": "{item_name} Blueprint",
         "imprint": "{item_name} Imprint",
         "key": "{item_name} (Key)",
-        "veiled_riven": "{item_name} (Veiled)"
+        "veiled_riven": "{item_name} (Veiled)",
+        "crafted": "{item_name} (Crafted)"
     }
 }

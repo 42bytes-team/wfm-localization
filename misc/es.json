@@ -11,6 +11,7 @@
         "blueprint": "Plano de {item_name}",
         "imprint": "Impronta de {item_name}",
         "key": "{item_name} (Llave)",
-        "veiled_riven": "{item_name} (Velado)"
+        "veiled_riven": "{item_name} (Velado)",
+        "crafted": "{item_name} (Crafted)"
     }
 }

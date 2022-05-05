@@ -11,6 +11,7 @@
         "blueprint": "{item_name}: Blaupause",
         "imprint": "{item_name}: Genetischer Abdruck",
         "key": "{item_name} (Key)",
-        "veiled_riven": "{item_name} (Veiled)"
+        "veiled_riven": "{item_name} (Veiled)",
+        "crafted": "{item_name} (Crafted)"
     }
 }

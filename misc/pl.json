@@ -11,6 +11,7 @@
         "blueprint": "{item_name}: Schemat",
         "imprint": "{item_name}: Genotyp",
         "key": "{item_name} (Klucz)",
-        "veiled_riven": "{item_name} (Ukryty)"
+        "veiled_riven": "{item_name} (Ukryty)",
+        "crafted": "{item_name} (Crafted)"
     }
 }

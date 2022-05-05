@@ -11,6 +11,7 @@
         "blueprint": "{item_name} 藍圖",
         "imprint": "{item_name} 基因印記",
         "key": "{item_name} （鑰匙）",
-        "veiled_riven": "{item_name} （尚未揭開）"
+        "veiled_riven": "{item_name} （尚未揭開）",
+        "crafted": "{item_name} (已合成)"
     }
 }
