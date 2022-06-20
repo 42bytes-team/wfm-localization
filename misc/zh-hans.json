@@ -1,11 +1,4 @@
 {
-    "rarity": {
-        "common": "{relic_name} (常见)",
-        "uncommon": "{relic_name} (罕见)",
-        "rare": "{relic_name} (稀有)",
-        "legendary": "{relic_name} (传说)",
-        "peculiar": "{relic_name} (怪奇)"
-    },
     "templates": {
         "set": "{item_name} 一套",
         "blueprint": "{item_name} 蓝图",

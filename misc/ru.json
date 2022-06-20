@@ -1,14 +1,7 @@
 {
-    "rarity": {
-        "common": "{relic_name} (Обычный)",
-        "uncommon": "{relic_name} (Необычный)",
-        "rare": "{relic_name} (Редкий)",
-        "legendary": "{relic_name} (Легендарный)",
-        "peculiar": "{relic_name} (Особенный)"
-    },
     "templates": {
         "set": "{item_name}: Комплект",
-        "blueprint": "{item_name}: Чертеж",
+        "blueprint": "{item_name} (Чертеж)",
         "imprint": "{item_name}: Отпечаток",
         "key": "{item_name} (Ключ)",
         "veiled_riven": "{item_name} (Закрытый)",

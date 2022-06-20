@@ -1,15 +1,8 @@
 {
-    "rarity": {
-        "common": "{relic_name} (Gewöhnlich)",
-        "uncommon": "{relic_name} (Ungewöhnlich)",
-        "rare": "{relic_name} (Selten)",
-        "legendary": "{relic_name} (Legendär)",
-        "peculiar": "{relic_name} (Kurios)"
-    },
     "templates": {
         "set": "{item_name}: Set",
-        "blueprint": "{item_name}: Blaupause",
-        "imprint": "{item_name}: Genetischer Abdruck",
+        "blueprint": "{item_name} Blaupause",
+        "imprint": "{item_name} (Genetischer Abdruck)",
         "key": "{item_name} (Key)",
         "veiled_riven": "{item_name} (Veiled)",
         "crafted": "{item_name} (Crafted)"

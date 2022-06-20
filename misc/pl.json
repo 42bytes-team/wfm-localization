@@ -1,14 +1,7 @@
 {
-    "rarity": {
-        "common": "{relic_name} (Powszechny)",
-        "uncommon": "{relic_name} (Nieprzeciętny)",
-        "rare": "{relic_name} (Rzadki)",
-        "legendary": "{relic_name} (Legendarny)",
-        "peculiar": "{relic_name} (Atypowy)"
-    },
     "templates": {
         "set": "{item_name}: Zestaw",
-        "blueprint": "{item_name}: Schemat",
+        "blueprint": "{item_name} - Schemat",
         "imprint": "{item_name}: Genotyp",
         "key": "{item_name} (Klucz)",
         "veiled_riven": "{item_name} (Ukryty)",
