@@ -1086,5 +1086,7 @@
   "app.subtype.large": "（大）",
   "app.subtype.basic": "（基本级）",
   "app.subtype.adorned": "（装饰级）",
-  "app.subtype.magnificent": "（华丽级）"
+  "app.subtype.magnificent": "（华丽级）",
+  "app.subtype.crafted": "Crafted",
+  "app.subtype.blueprint": "Blueprint"
 }
