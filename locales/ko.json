@@ -1086,5 +1086,7 @@
   "app.subtype.large": "대형",
   "app.subtype.basic": "기본형",
   "app.subtype.adorned": "장식형",
-  "app.subtype.magnificent": "호화형"
+  "app.subtype.magnificent": "호화형",
+  "app.subtype.crafted": "Crafted",
+  "app.subtype.blueprint": "Blueprint"
 }

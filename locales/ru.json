@@ -1086,5 +1086,7 @@
   "app.subtype.large": "Большая",
   "app.subtype.basic": "Базовый",
   "app.subtype.adorned": "Украшенный",
-  "app.subtype.magnificent": "Великолепный"
+  "app.subtype.magnificent": "Великолепный",
+  "app.subtype.crafted": "Crafted",
+  "app.subtype.blueprint": "Blueprint"
 }
