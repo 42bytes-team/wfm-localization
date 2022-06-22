@@ -1086,5 +1086,7 @@
   "app.subtype.large": "（大）",
   "app.subtype.basic": "（B）",
   "app.subtype.adorned": "（A）",
-  "app.subtype.magnificent": "（M）"
+  "app.subtype.magnificent": "（M）",
+  "app.subtype.crafted": "Crafted",
+  "app.subtype.blueprint": "Blueprint"
 }
