@@ -1111,6 +1111,6 @@
   "app.subtype.basic": "（B）",
   "app.subtype.adorned": "（A）",
   "app.subtype.magnificent": "（M）",
-  "app.subtype.crafted": "Crafted",
-  "app.subtype.blueprint": "Blueprint"
+  "app.subtype.crafted": "成品",
+  "app.subtype.blueprint": "藍圖"
 }
