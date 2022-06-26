@@ -659,7 +659,7 @@
   "app.settings.account.email.change.success": "E-Mail geändert",
   "app.settings.account.credentials.change.submit": "Ändern",
   "app.settings.account.remove.header": "Benutzerkonto entfernen",
-  "app.settings.account.remove.info": "Dein Benutzerkonto sowie zugehörige Daten wrden innerhalb von 7 Tagen gelöscht. Das schließt Angebote, Auktionen, Ruf, Chats, Rezensionen sowie ziemlich alles andere mit ein.{br}Dein Benutzerkonto kann anschließend nicht wiederhergestellt werden.{br}Wenn du fortfahren möchtest, klicke den Knopf rechts um deine Anfrage zu bestätigen.",
+  "app.settings.account.remove.info": "Dein Benutzerkonto sowie zugehörige Daten werden innerhalb von 7 Tagen gelöscht. Das schließt Angebote, Auktionen, Ruf, Chats, Rezensionen sowie ziemlich alles andere mit ein.{br}Dein Benutzerkonto kann anschließend nicht wiederhergestellt werden.{br}Wenn du fortfahren möchtest, klicke den Knopf rechts um deine Anfrage zu bestätigen.",
   "app.settings.account.remove.confirm": "Are you sure you won't regret it in the future?",
   "app.settings.account.remove.removedIn": "You account will be removed {relativeTime}",
   "app.settings.account.remove.button.initiate": "Benutzerkonto entfernen",
