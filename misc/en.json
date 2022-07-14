@@ -1,11 +1,4 @@
 {
-    "rarity": {
-        "common": "{relic_name} (Common)",
-        "uncommon": "{relic_name} (Uncommon)",
-        "rare": "{relic_name} (Rare)",
-        "legendary": "{relic_name} (Legendary)",
-        "peculiar": "{relic_name} (Peculiar)"
-    },
     "templates": {
         "set": "{item_name} Set",
         "blueprint": "{item_name} Blueprint",

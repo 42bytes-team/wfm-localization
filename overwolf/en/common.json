@@ -182,12 +182,12 @@
     "app.regions.pl": "Poland",
     "app.regions.zh": "China",
 
-    "app.mods.common": "Common",
-    "app.mods.uncommon": "Uncommon",
-    "app.mods.rare": "Rare",
-    "app.mods.legendary": "Legendary",
-    "app.mods.peculiar": "Peculiar",
-    "app.mods.riven": "Riven",
+    "app.rarity.common": "Common",
+    "app.rarity.uncommon": "Uncommon",
+    "app.rarity.rare": "Rare",
+    "app.rarity.legendary": "Legendary",
+    "app.rarity.peculiar": "Peculiar",
+    "app.rarity.riven": "Riven",
 
     "app.quirk.notSet": "Not Set",
 

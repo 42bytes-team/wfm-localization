@@ -1,11 +1,4 @@
 {
-    "rarity": {
-        "common": "{relic_name} (커먼)",
-        "uncommon": "{relic_name} (언커먼)",
-        "rare": "{relic_name} (레어)",
-        "legendary": "{relic_name} (레전더리)",
-        "peculiar": "{relic_name} (페큘리어)"
-    },
     "templates": {
         "set": "{item_name} 세트",
         "blueprint": "{item_name} 설계도",

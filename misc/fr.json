@@ -1,15 +1,8 @@
 {
-    "rarity": {
-        "common": "{relic_name} (Commun)",
-        "uncommon": "{relic_name} (Inhabituel)",
-        "rare": "{relic_name} (Rare)",
-        "legendary": "{relic_name} (Légendaire)",
-        "peculiar": "{relic_name} (Peculiar)"
-    },
     "templates": {
         "set": "{item_name} - Set",
-        "blueprint": "{item_name} - Schéma",
-        "imprint": "{item_name} - Empreinte",
+        "blueprint": "{item_name} (Schéma)",
+        "imprint": "{item_name} (Empreinte)",
         "key": "{item_name} (Key)",
         "veiled_riven": "{item_name} (Veiled)",
         "crafted": "{item_name} (Crafted)"
