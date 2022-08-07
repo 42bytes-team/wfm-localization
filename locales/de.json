@@ -822,7 +822,7 @@
   "app.tos.trading.contracts": "Contracts",
   "app.tos.trading.contracts.duplicates": "Pro Gegenstand ist nur eine Auktion erlaubt.",
   "app.tos.trading.contracts.stats": "The rank and attribute values of a riven auction should match the rank and values of the riven as it appears in the mod screen, not the cycling or weapon modding screens. Attribute values should also match the values for the entered rank.",
-  "app.tos.trading.contracts.fakeBids": "Gefälschte Preisangebote auf Auktionen sind nicht erlaubt - dies kann zu einer dauerhaften Sperre deines Accounts führen.",
+  "app.tos.trading.contracts.fakeBids": "Making bids you do not intend to honor on auctions is not allowed and will lead to a permanent account suspension.",
   "app.tos.trading.contracts.auctionMade": "Du darfst Auktionen nicht benutzen um Preisschlachten auszutragen.",
   "app.tos.trading.contracts.valid": "Preisangebote auf Auktionen sind für 7 Tage gültig - danach musst du dein Angebot erneuern. Du darfst dich weigern deine Angebote, die älter als 7 Tage sind, anzunehmen.",
   "app.tos.trading.noteText": "Meldungen die im Spiel aufgegeben werden kommen nicht bei uns an, da wir nicht zu Digital Extremes gehören.",
