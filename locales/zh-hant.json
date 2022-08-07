@@ -822,7 +822,7 @@
   "app.tos.trading.contracts": "拍賣",
   "app.tos.trading.contracts.duplicates": "同一物品的重複拍賣並不被允許。",
   "app.tos.trading.contracts.stats": "裂罅的等級和詞條屬性應該相當於MOD界面中所顯示一般，而非循環/武器升級界面。詞條屬性亦應符合所輸入的MOD等級。",
-  "app.tos.trading.contracts.fakeBids": "禁止在拍賣中作出您不打算兌現的競標,這有可能導致您的賬號被永久封禁。",
+  "app.tos.trading.contracts.fakeBids": "Making bids you do not intend to honor on auctions is not allowed and will lead to a permanent account suspension.",
   "app.tos.trading.contracts.auctionMade": "禁止利用拍賣功能進行價格戰或誘拐賣家。",
   "app.tos.trading.contracts.valid": "拍賣的有效期為7天,之後您必須重新出價。您也可以拒絕超過7天的出價。",
   "app.tos.trading.noteText": "我們並不會收到使用遊戲內檢舉系統提交的檢舉報告,因為如同網站上的聲明所示,我們與Digital Extremes沒有關聯。{br}因此，warframe.market管理團隊無法讀取任何遊戲內或網站上的聊天/交易記錄，除非您主動提供。",
@@ -1111,6 +1111,6 @@
   "app.subtype.basic": "（B）",
   "app.subtype.adorned": "（A）",
   "app.subtype.magnificent": "（M）",
-  "app.subtype.crafted": "成品",
-  "app.subtype.blueprint": "藍圖"
+  "app.subtype.crafted": "Crafted",
+  "app.subtype.blueprint": "Blueprint"
 }
