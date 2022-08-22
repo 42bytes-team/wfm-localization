@@ -1059,7 +1059,7 @@
   "app.elements.impact": "Impact",
   "app.elements.electricity": "Electricity",
   "app.elements.magnetic": "Magnetic",
-  "app.elements.radiation": "Radiation",
+  "app.elements.radiation": "",
   "app.elements.toxin": "Toxin",
   "app.elements.cold": "Cold",
   "app.elements.any": "Jakýkoliv",
