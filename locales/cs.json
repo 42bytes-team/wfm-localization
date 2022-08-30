@@ -1006,11 +1006,7 @@
   "app.order.invisible": "Neviditelná",
   "app.order.plusOne": "+1",
   "app.order.visible": "Viditelná",
-<<<<<<< HEAD
   "app.order.platinum": "{platCount, plural, one {# Platinum} other {# Platinum}} za kus",
-=======
-  "app.order.platinum": "{platCount, plural, one {# Platinum} other {# Platinum}} each",
->>>>>>> e2945a0 (v1.0.0 Czech translation)
   "app.order.platinum.row": "{platCount, plural, one {Platinum} other {Platinum}}",
   "app.order.modRank": "Rank",
   "app.order.rankOf": "{rank} of {maxRank}",
