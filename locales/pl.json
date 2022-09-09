@@ -2,7 +2,7 @@
   "app.disclaimer.de": "{warframeMarket} jest stroną stworzoną przez fanów niepowiązanych z {digitalExtremes}",
   "app.general.title": "Warframe Market",
   "app.general.description": "Prowadząca platforma handlowa Warframe dla tenno, gdzie możesz sprzedać i kupić Części, Bronie, Mody, Relikty, Blueprinty, Sceny fotobudki, Riveny i Licze Kuvy.",
-  "app.general.meta.tags": "warframe,market,buy,sell,trade,mod,blueprint,syndicate,relic,order,auction,wts,wtb,sales,worth,platinum,price,checking",
+  "app.general.meta.tags": "warframe,market,kup,sprzedaj,chandel,mod,schemat,syndykat,relikt,zamówienie,aukcja,wts,wtb,sprzedarze,wartość,platina,cena,sprawdź",
   "app.form.field_required": "Pole wymagane",
   "app.form.can_not_be_null": "Nie może być puste",
   "app.form.invalid": "Niewłaściwa wartość",
