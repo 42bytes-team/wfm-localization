@@ -822,7 +822,7 @@
   "app.tos.trading.contracts": "Contracts",
   "app.tos.trading.contracts.duplicates": "Duplicate contracts for the same item are not allowed.",
   "app.tos.trading.contracts.stats": "The rank and attribute values of a riven auction should match the rank and values of the riven as it appears in the mod screen, not the cycling or weapon modding screens. Attribute values should also match the values for the entered rank.",
-  "app.tos.trading.contracts.fakeBids": "Making bids you do not intented to honor on auctions is not allowed and will lead to a permanent account suspension.",
+  "app.tos.trading.contracts.fakeBids": "Making bids you do not intend to honor on auctions is not allowed and will lead to a permanent account suspension.",
   "app.tos.trading.contracts.auctionMade": "You may not use the auction process to start bidding wars, or to bait the seller of the item.",
   "app.tos.trading.contracts.valid": "Contract offers stay valid for 7 days, after which you have to renew your bid. You are allowed to refuse bids you have made that are older than 7 days.",
   "app.tos.trading.noteText": "We will not receive reports submitted using the in-game reporting system because we have no affiliation with Digital Extremes (as mentioned on the site disclaimer as well).{br}The warframe.market moderation team is unable to obtain any chat screenshots, chat or trading logs, either ingame or on site without you providing them.",
