@@ -1121,5 +1121,7 @@
   "app.subtype.adorned": "장식형",
   "app.subtype.magnificent": "호화형",
   "app.subtype.crafted": "제작",
-  "app.subtype.blueprint": "설계도"
+  "app.subtype.blueprint": "설계도",
+  "app.subtype.revealed": "Revealed",
+  "app.subtype.unrevealed": "Unrevealed"
 }

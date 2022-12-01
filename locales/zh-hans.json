@@ -1121,5 +1121,7 @@
   "app.subtype.adorned": "（装饰级）",
   "app.subtype.magnificent": "（华丽级）",
   "app.subtype.crafted": "成品",
-  "app.subtype.blueprint": "蓝图"
+  "app.subtype.blueprint": "蓝图",
+  "app.subtype.revealed": "Revealed",
+  "app.subtype.unrevealed": "Unrevealed"
 }

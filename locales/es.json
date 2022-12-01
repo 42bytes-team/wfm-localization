@@ -1121,5 +1121,7 @@
   "app.subtype.adorned": "Adornado",
   "app.subtype.magnificent": "Magnífico",
   "app.subtype.crafted": "Crafted",
-  "app.subtype.blueprint": "Blueprint"
+  "app.subtype.blueprint": "Blueprint",
+  "app.subtype.revealed": "Revealed",
+  "app.subtype.unrevealed": "Unrevealed"
 }

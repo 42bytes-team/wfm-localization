@@ -447,10 +447,9 @@
   "app.auctions.modal.button.createNew": "Vytvořit novou aukci",
   "app.auctions.modal.button.openCreated": "Otevřít nově vytvořenou aukci",
   "app.auctions.modal.button.update": "Aktualizovat",
-  "app.auctions.modal.label.privacy.order": "Viditelnost",
-  "app.auctions.modal.label.privacy.auction": "Viditelná",
-  "app.auctions.modal.button.privacy.private": "Privátní",
-  "app.auctions.modal.button.privacy.public": "Veřejná",
+  "app.auctions.modal.label.visibility": "Visibility",
+  "app.auctions.modal.button.visibility.invisible": "Invisible",
+  "app.auctions.modal.button.visibility.visible": "Visible",
   "app.auctions.modal.label.description": "Popis",
   "app.auctions.modal.placeholder.description": "Volitelný",
   "app.auctions.modal.label.startingPrice": "Prvotní cena",
@@ -1122,5 +1121,7 @@
   "app.subtype.adorned": "Adorned",
   "app.subtype.magnificent": "Magnificent",
   "app.subtype.crafted": "Crafted",
-  "app.subtype.blueprint": "Blueprint"
+  "app.subtype.blueprint": "Blueprint",
+  "app.subtype.revealed": "Revealed",
+  "app.subtype.unrevealed": "Unrevealed"
 }

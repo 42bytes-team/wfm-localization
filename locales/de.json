@@ -1121,5 +1121,7 @@
   "app.subtype.adorned": "Geschmückt",
   "app.subtype.magnificent": "Prachtvoll",
   "app.subtype.crafted": "Crafted",
-  "app.subtype.blueprint": "Blaupause"
+  "app.subtype.blueprint": "Blaupause",
+  "app.subtype.revealed": "Revealed",
+  "app.subtype.unrevealed": "Unrevealed"
 }
