@@ -1122,6 +1122,6 @@
   "app.subtype.magnificent": "Boska",
   "app.subtype.crafted": "Crafted",
   "app.subtype.blueprint": "Blueprint",
-  "app.subtype.revealed": "Revealed",
-  "app.subtype.unrevealed": "Unrevealed"
+  "app.subtype.revealed": "Odkryty",
+  "app.subtype.unrevealed": "Nieodkryty"
 }
