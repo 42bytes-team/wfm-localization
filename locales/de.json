@@ -195,7 +195,7 @@
   "app.auctions.createAuction.attribute.seconds": "sek",
   "app.auctions.category.title": "Kategorie",
   "app.auctions.category.all": "Alle",
-  "app.auctions.category.unveiledRiven": "Enthüllte Riven Mods",
+  "app.auctions.category.unveiledRiven": "Entschleierte Riven Mods",
   "app.auctions.category.kuvaLich": "Kuva Liches",
   "app.auctions.category.sisterOfParvos": "Schwestern von Parvos",
   "app.auctions.tips.sellOrder": "Verkaufsangebot",
@@ -1120,8 +1120,8 @@
   "app.subtype.basic": "Regulär",
   "app.subtype.adorned": "Geschmückt",
   "app.subtype.magnificent": "Prachtvoll",
-  "app.subtype.crafted": "Crafted",
+  "app.subtype.crafted": "Hergestellt",
   "app.subtype.blueprint": "Blaupause",
-  "app.subtype.revealed": "Revealed",
-  "app.subtype.unrevealed": "Unrevealed"
+  "app.subtype.revealed": "Enthüllt",
+  "app.subtype.unrevealed": "Verhüllt"
 }
