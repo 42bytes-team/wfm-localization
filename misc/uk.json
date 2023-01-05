@@ -1,0 +1,10 @@
+{
+    "templates": {
+        "set": "{item_name} (комплект)",
+        "blueprint": "{item_name} (креслення)",
+        "imprint": "Відбиток: {item_name}",
+        "key": "{item_name} (ключ)",
+        "veiled_riven": "{item_name} (прихований)",
+        "crafted": "{item_name} (виготовлено)"
+    }
+}
