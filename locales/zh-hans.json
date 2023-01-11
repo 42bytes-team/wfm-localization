@@ -1018,7 +1018,7 @@
   "app.order.buy": "买",
   "app.order.sell": "卖",
   "app.order.clipboard.close": "关闭",
-  "app.order.clipboard.template": "/w {ingameName} 你好! 我想以{price}白金{action, select, buy {购买} sell {出售} other {}}: \"{subtype, select, undefined {} other {{subtype} }}{itemName}{modRank, select, undefined {} other { (rank {modRank})}}\"。(warframe.market)",
+  "app.order.clipboard.template": "/w {ingameName} 你好! 我想以{price}白金{action, select, buy {购买} sell {出售} other {}}: \"{itemName}({subtype, select, undefined {} other {{subtype} }}){modRank, select, undefined {} other { (rank {modRank})}}\"。(warframe.market)",
   "app.order.clipboard.template.en": "/w {ingameName} Hi! I want to {action, select, buy {buy} sell {sell} other {}}: \"{subtype, select, undefined {} other {{subtype} }}{itemName}{modRank, select, undefined {} other { (rank {modRank})}}\" for {price} platinum. (warframe.market)",
   "app.placeOrder.bigButton": "下订单",
   "app.placeOrder.header": "下订单",
