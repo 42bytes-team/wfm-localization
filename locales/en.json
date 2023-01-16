@@ -397,7 +397,7 @@
   "app.auction.noBids": "No bids so far",
   "app.auction.topBid": "Top bid:",
   "app.auction.yourBid": "Your Bid:",
-  "app.auction.wasRemoved": "This auction has been marked for deletion by it's owner and you can no longer participate in it, it will be permanently removed",
+  "app.auction.wasRemoved": "This auction has been marked for deletion by its owner and you can no longer participate in it, it will be permanently removed",
   "app.auction.reputationIsTooLow": "You can't participate in this auction.{br}Your reputation on the site is lower than required.",
   "app.auction.active": "The auction is active.{br}You can choose as a winner anyone at any time, this will put auction on pause (to process trade in game).{br}You'll still be able to reconsider your choice, and be able to continue the auction by cancelling the choice of the winner.",
   "app.auction.onPause": "Auction is on pause.",
