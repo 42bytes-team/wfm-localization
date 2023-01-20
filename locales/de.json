@@ -152,22 +152,12 @@
   "app.filters.mod_all": "Alle",
   "app.filters.mod_maxed": "Maximiert",
   "app.filters.subtype": "Subtyp",
-  "app.filters.region": "Region",
   "app.filters.tags": "Schlagwörter",
   "app.filters.search": "Suche nach Namen",
   "app.filters.auction.type": "Typ",
   "app.filters.auction.state": "Status",
   "app.filters.auction.category": "Kategorie",
   "app.filters.placeholder.max": "Max",
-  "app.regions.en": "International (EN)",
-  "app.regions.ru": "Russland",
-  "app.regions.ko": "Korea",
-  "app.regions.fr": "Frankreich",
-  "app.regions.sv": "Schweden",
-  "app.regions.de": "Deutschland",
-  "app.regions.pl": "Polen",
-  "app.regions.zh": "China",
-  "app.regions.uk": "Ukraine",
   "app.rarity.common": "Gewöhnlich",
   "app.rarity.uncommon": "Ungewöhnlich",
   "app.rarity.rare": "Selten",
@@ -1112,5 +1102,4 @@
   "app.subtype.blueprint.en": "Blueprint",
   "app.subtype.revealed.en": "Revealed",
   "app.subtype.unrevealed.en": "Unrevealed"
-  
 }
