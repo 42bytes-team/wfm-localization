@@ -451,7 +451,7 @@
   "app.auctions.modal.button.policy.auction": "Auction",
   "app.auctions.modal.button.policy.directSell": "Direct sale",
   "app.ws.auctions.errors.its_your_own_auction": "You can't participate in your own auction.",
-  "app.ws.auctions.errors.banned_from_auction": "You was banned from this auction.",
+  "app.ws.auctions.errors.banned_from_auction": "You were banned from this auction.",
   "app.ws.auctions.errors.reputation_is_to_low": "Your reputation is too low to participate in this auction.",
   "app.ws.auctions.errors.cant_remove_bid_from_closed_auction": "The auction was closed, you can't delete the bid.",
   "app.ws.auctions.errors.cant_set_bid_in_closed_auction": "You can't bid in a closed auction",
