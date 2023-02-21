@@ -467,7 +467,7 @@
   "app.auctions.errors.top_bid_is_greater_than_buyout": "Величина найбільшої ставки більша за вказану ціну викупу",
   "app.auctions.errors.starting_higher_than_lowet_bid": "Початкова ціна не може бути вищою за мінімальну існуючу ставку на аукціоні",
   "app.itemPage.orders.title": "«{itemName}» — торгівля {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
-  "app.itemPage.orders.meta.description": "Ціна: {price} платини | Обєм продаж: {volume} | Отримайте найкращі торгові пропозиції та ціни на «{itemName}»",
+  "app.itemPage.orders.meta.description": "Ціна: {price} платини | Об’єм пропозиції: {volume} | Отримайте найкращі торгові пропозиції та ціни на «{itemName}»",
   "app.itemPage.orders.meta.description.price.notKnown": "¯\\_(ツ)_/¯",
   "app.itemPage.statistics.title": "{itemName} - Статистика торгівлі {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
   "app.itemPage.statistics.meta.description": "Графік цін і статистика для «{itemName}»",
