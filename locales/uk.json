@@ -18,7 +18,7 @@
   "app.theme.water": "Чиста вода",
   "app.theme.new_war": "Нова війна",
   "app.theme.system": "Системні налаштування",
-  "app.review.error_same_user": "Не можна написати відгук самому собі.",
+  "app.review.error_same_user": "Не можна написати відгук самому собі",
   "app.review.already_exist": "Відгук вже існує.",
   "app.review.not_exist": "Відгук не існує.",
   "app.review.limit_exceeded": "Ви перевищили ліміт щоденних відгуків (15\\день).",
