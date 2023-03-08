@@ -1,5 +1,0 @@
-files:
-  - source: /locales/en.json
-    translation: /locales/%two_letters_code%.json
-  - source: /misc/en.json
-    translation: /misc/%two_letters_code%.json
