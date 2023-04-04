@@ -627,7 +627,7 @@
   "app.settings.subscription.permanentBonuses": "Постоянные награды",
   "app.settings.subscription.permanentBonuses.description": "В зависимости от суммы ваших пожертвований, вы получите один из 4х комплектов наград.{br}Награды постоянные и не зависят от того, активна подписка или нет.",
   "app.settings.subscription.upTo": "до",
-    "app.settings.subscription.andMore": "и более",
+  "app.settings.subscription.andMore": "и более",
   "app.settings.subscription.progressBronze": "Прогресс до Бронзы",
   "app.settings.subscription.progressSilver": "Прогресс до Серебра",
   "app.settings.subscription.progressGold": "Прогресс до Золота",
