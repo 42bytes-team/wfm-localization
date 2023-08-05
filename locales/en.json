@@ -913,7 +913,7 @@
   "app.privacy.accessInfo.title": "Access to Specific Information and Data Portability Rights",
   "app.privacy.collectAndUse.advertising": "We may use third-party advertising companies to serve ads when you visit the Site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,",
   "app.privacy.collectAndUse.title": "Information Collection And Use",
-  "app.privacy.collectAndUse.usingSite": "While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name (“Personal Information“).",
+  "app.privacy.collectAndUse.usingSite": "While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name (“Personal Information“). Our service can upload information about the user's image if the user does it himself and it will be available to other users of Warframe.market.",
   "app.privacy.contactUs.questings": "If you have any questions about this Privacy Policy, please contact us.",
   "app.privacy.contactUs.title": "Contact Us",
   "app.privacy.cookies.title": "Cookies",
