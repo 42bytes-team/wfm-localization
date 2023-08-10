@@ -943,6 +943,7 @@
   "app.privacy.infoCollect.geoData": "G. Geolokační údaje.",
   "app.privacy.infoCollect.identifiers": "A. Identifikátory",
   "app.privacy.infoCollect.inferences": "J. Závěry vyvozené z jiných osobních údajů.",
+  "app.privacy.infoCollect.images": "K. User-uploaded images.",
   "app.privacy.infoCollect.network": "F. Internetové nebo jiné podobné síťové aktivity.",
   "app.privacy.infoCollect.no": "Ne",
   "app.privacy.infoCollect.personalInfo": "B. Kategorie osobních údajů uvedené v kalifornském zákoně o záznamech zákazníků (Cal. Civ. Code § 1798.80(e))",

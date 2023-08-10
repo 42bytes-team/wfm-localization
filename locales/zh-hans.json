@@ -943,6 +943,7 @@
   "app.privacy.infoCollect.geoData": "G.地理位置数据.",
   "app.privacy.infoCollect.identifiers": "A.标识符",
   "app.privacy.infoCollect.inferences": "J.从其他个人信息中得出的推论.",
+  "app.privacy.infoCollect.images": "K. User-uploaded images.",
   "app.privacy.infoCollect.network": "F.互联网或其他类似的网络活动.",
   "app.privacy.infoCollect.no": "否",
   "app.privacy.infoCollect.personalInfo": "B.加利福尼亚客户记录法规(Cal. Civ. Code § 1798.80(e))中列出的个人信息类别",

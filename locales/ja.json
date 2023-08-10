@@ -943,6 +943,7 @@
   "app.privacy.infoCollect.geoData": "G. Geolocation data.",
   "app.privacy.infoCollect.identifiers": "A. Identifiers",
   "app.privacy.infoCollect.inferences": "J. Inferences drawn from other personal information.",
+  "app.privacy.infoCollect.images": "K. User-uploaded images.",
   "app.privacy.infoCollect.network": "F. Internet or other similar network activity.",
   "app.privacy.infoCollect.no": "No",
   "app.privacy.infoCollect.personalInfo": "B. Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))",
