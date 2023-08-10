@@ -12,6 +12,7 @@
   "app.form.not_an_int": "Doit être un entier",
   "app.form.not_a_bool": "Doit être True\\False (Bool)",
   "app.form.too_many_requests": "Vous avez fait trop de tentatives de connexions\\créations de compte. Réessayer dans 1 minute.",
+  "app.form.too_many_connections": "509: Too many connections (>30)",
   "app.theme.light": "Lumineux",
   "app.theme.dark": "Sombre",
   "app.theme.contrast": "High Contrast",

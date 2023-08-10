@@ -12,6 +12,7 @@
   "app.form.not_an_int": "不是整数",
   "app.form.not_a_bool": "应该为 是\\否 (Bool)",
   "app.form.too_many_requests": "您尝试登入\\注册次数过多。请于一分钟后再次尝试。",
+  "app.form.too_many_connections": "509: Too many connections (>30)",
   "app.theme.light": "明亮",
   "app.theme.dark": "深黑",
   "app.theme.contrast": "高对比",

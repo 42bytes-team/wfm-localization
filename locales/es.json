@@ -12,6 +12,7 @@
   "app.form.not_an_int": "No es un valor entero",
   "app.form.not_a_bool": "Debe ser verdadero\\falso (Bool)",
   "app.form.too_many_requests": "Has tenido demasiados intentos de inicios de sesión\registros. Vuelve a intentarlo en 1m.",
+  "app.form.too_many_connections": "509: Too many connections (>30)",
   "app.theme.light": "Luz fresca",
   "app.theme.dark": "Oscuro profundo",
   "app.theme.contrast": "Alto contraste",

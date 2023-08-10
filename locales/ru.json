@@ -12,6 +12,7 @@
   "app.form.not_an_int": "Не целое число",
   "app.form.not_a_bool": "Должно быть в формате Правда\\Ложь (булевое)",
   "app.form.too_many_requests": "Слишком много попыток входа\\регистрации. Попробуйте снова через 1 минуту.",
+  "app.form.too_many_connections": "509: Too many connections (>30)",
   "app.theme.light": "Свежая светлая",
   "app.theme.dark": "Глубокая тёмная",
   "app.theme.contrast": "Высокий Контраст",

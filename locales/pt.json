@@ -12,6 +12,7 @@
   "app.form.not_an_int": "Valor não é um inteiro",
   "app.form.not_a_bool": "Valor deve ser True\\False (Booleano)",
   "app.form.too_many_requests": "Você fez muitas tentativas de registro ou login. Tente novamente em 1 minuto.",
+  "app.form.too_many_connections": "509: Too many connections (>30)",
   "app.theme.light": "Claro",
   "app.theme.dark": "Escuro",
   "app.theme.contrast": "High Contrast",

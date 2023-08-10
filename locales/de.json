@@ -12,6 +12,7 @@
   "app.form.not_an_int": "Keine Ganzzahl",
   "app.form.not_a_bool": "Sollte Wahr\\Falsch sein (Bool)",
   "app.form.too_many_requests": "Zu viele Login-Versuche. Versuche es in 1 Minute nochmal.",
+  "app.form.too_many_connections": "509: Too many connections (>30)",
   "app.theme.light": "Hell",
   "app.theme.dark": "Dunkel",
   "app.theme.contrast": "Hoher Kontrast",
