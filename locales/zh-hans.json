@@ -91,7 +91,7 @@
   "app.user.status.online": "在线",
   "app.user.status.offline": "离线",
   "app.user.status.invisible": "隐身",
-  "app.user.status.connecting": "连线中...",
+  "app.user.status.connecting": "连接中...",
   "app.user.status.lastSeen": "上次在线时间：",
   "app.order.marker.wts": "想要卖",
   "app.order.marker.sold": "已卖出",
