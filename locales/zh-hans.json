@@ -23,7 +23,7 @@
   "app.review.already_exist": "评论已存在",
   "app.review.not_exist": "评论不存在",
   "app.review.limit_exceeded": "您已超过今天的评论上限 (15\\天).",
-  "app.account.passwords_mismatch": "两次输入的密码不匹配",
+  "app.account.passwords_mismatch": "两次输入的密码不一致",
   "app.account.password_too_short": "密码过短",
   "app.account.password_invalid": "无效密码",
   "app.account.email_already_exist": "电子邮箱已注册",
