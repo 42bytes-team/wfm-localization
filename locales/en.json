@@ -596,7 +596,7 @@
   "app.settings.verification.howTo": "How To verify account",
   "app.settings.verification.howTo.1": "Go to {link} and Login.",
   "app.settings.verification.howTo.2": "Then go to Forum.",
-  "app.settings.verification.howTo.3": "Compose new Message for our bot(WarMarketMan), you can use direct link: {link}",
+  "app.settings.verification.howTo.3": "Compose new Message for our bot(KycKyc), you can use direct link: {link}",
   "app.settings.verification.howTo.3.compose": "Click to compose",
   "app.settings.verification.howTo.4": "Fill the fields in this way:",
   "app.settings.verification.howTo.4.message": "Any text.",

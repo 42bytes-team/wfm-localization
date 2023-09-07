@@ -596,7 +596,7 @@
   "app.settings.verification.howTo": "Как подтвердить аккаунт",
   "app.settings.verification.howTo.1": "Перейдите на {link} и войдите в свою учетную запись.",
   "app.settings.verification.howTo.2": "Отправляйтесь на местный форум.",
-  "app.settings.verification.howTo.3": "Создайте сообщение для нашего бота(WarMarketMan), можете перейти по ссылке: {link}",
+  "app.settings.verification.howTo.3": "Создайте сообщение для нашего бота(KycKyc), можете перейти по ссылке: {link}",
   "app.settings.verification.howTo.3.compose": "Написать сообщение",
   "app.settings.verification.howTo.4": "Заполните поля следующим образом:",
   "app.settings.verification.howTo.4.message": "Любой текст.",

@@ -596,7 +596,7 @@
   "app.settings.verification.howTo": "如何驗證帳號",
   "app.settings.verification.howTo.1": "前往 {link} 並登入。",
   "app.settings.verification.howTo.2": "前往討論區(Fourms)。",
-  "app.settings.verification.howTo.3": "傳送一則新訊息給我們的機器人(WarMarketMan), 您可以使用此連結: {link}",
+  "app.settings.verification.howTo.3": "傳送一則新訊息給我們的機器人(KycKyc), 您可以使用此連結: {link}",
   "app.settings.verification.howTo.3.compose": "點擊以撰寫信息",
   "app.settings.verification.howTo.4": "將欄位以下列方式填入:",
   "app.settings.verification.howTo.4.message": "任何內容。",

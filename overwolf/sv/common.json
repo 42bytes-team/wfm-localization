@@ -539,7 +539,7 @@
     "app.settings.verification.howTo": "Hur man verifierar sitt konto",
     "app.settings.verification.howTo.1": "Gå till {link} och Logga in.",
     "app.settings.verification.howTo.2": "Sedan gå till Forum.",
-    "app.settings.verification.howTo.3": "Skriv ett nytt Meddelande till vår bot (WarMarketMan), du kan använda följande direktlänk: {link}",
+    "app.settings.verification.howTo.3": "Skriv ett nytt Meddelande till vår bot (KycKyc), du kan använda följande direktlänk: {link}",
     "app.settings.verification.howTo.3.compose": "Klicka för att skriva",
     "app.settings.verification.howTo.4": "Fyll i fälten på följande sätt:",
     "app.settings.verification.howTo.4.message": "Skriv vad som här.",

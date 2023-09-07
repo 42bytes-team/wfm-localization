@@ -596,7 +596,7 @@
   "app.settings.verification.howTo": "Як підтвердити обліковий запис",
   "app.settings.verification.howTo.1": "Перейдіть за посиланням: {link} та увійдіть.",
   "app.settings.verification.howTo.2": "Потім перейдіть на форум.",
-  "app.settings.verification.howTo.3": "Напишіть повідомлення для нашого бота (WarMarketMan), ви можете скористатися прямим посиланням: {link}",
+  "app.settings.verification.howTo.3": "Напишіть повідомлення для нашого бота (KycKyc), ви можете скористатися прямим посиланням: {link}",
   "app.settings.verification.howTo.3.compose": "Натисніть, щоб написати",
   "app.settings.verification.howTo.4": "Заповніть поля таким чином:",
   "app.settings.verification.howTo.4.message": "Будь-який текст.",

@@ -539,7 +539,7 @@
     "app.settings.verification.howTo": "계정을 인증하는 방법",
     "app.settings.verification.howTo.1": "{link}에 들어가서 로그인을 해주세요.",
     "app.settings.verification.howTo.2": "그 다음에는 포럼에 접속해주세요.",
-    "app.settings.verification.howTo.3": "봇(WarMarketMan)에게 메시지를 직접 작성하거나, 다음 링크를 이용해서 바로 보낼 수도 있습니다: {link}",
+    "app.settings.verification.howTo.3": "봇(KycKyc)에게 메시지를 직접 작성하거나, 다음 링크를 이용해서 바로 보낼 수도 있습니다: {link}",
     "app.settings.verification.howTo.3.compose": "보내기",
     "app.settings.verification.howTo.4": "하단과 같이 작성해주세요:",
     "app.settings.verification.howTo.4.message": "아무거나 입력하셔도 됩니다.",

@@ -596,7 +596,7 @@
   "app.settings.verification.howTo": "Como verificar la cuenta",
   "app.settings.verification.howTo.1": "Diríjase a {link} e inicie sesión.",
   "app.settings.verification.howTo.2": "Vaya al Foro.",
-  "app.settings.verification.howTo.3": "Redacte un nuevo mensaje a nuestro bot (WarMarketMan), puedes usar este enlace directo: {link}",
+  "app.settings.verification.howTo.3": "Redacte un nuevo mensaje a nuestro bot (KycKyc), puedes usar este enlace directo: {link}",
   "app.settings.verification.howTo.3.compose": "Click en redactar",
   "app.settings.verification.howTo.4": "Rellena los campos de esta manera:",
   "app.settings.verification.howTo.4.message": "Cualquier mensaje.",
