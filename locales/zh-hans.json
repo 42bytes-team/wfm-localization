@@ -13,6 +13,8 @@
   "app.form.not_a_bool": "应该为 是\\否 (Bool)",
   "app.form.too_many_requests": "您尝试登入\\注册次数过多。请一分钟后再试",
   "app.form.too_many_connections": "509: 连接过多 (>30)",
+  "app.form.doNotForgetToSetNegative": "Don't forget to set negative attribute",
+  "app.form.moreThanOneNegativeIsNotSupported": "More than one negative attribute is not supported",
   "app.theme.light": "明亮",
   "app.theme.dark": "深黑",
   "app.theme.contrast": "高对比",

@@ -13,6 +13,8 @@
   "app.form.not_a_bool": "Debe ser verdadero\\falso (Bool)",
   "app.form.too_many_requests": "Has tenido demasiados intentos de inicios de sesión\registros. Vuelve a intentarlo en 1m.",
   "app.form.too_many_connections": "509: Too many connections (>30)",
+  "app.form.doNotForgetToSetNegative": "Don't forget to set negative attribute",
+  "app.form.moreThanOneNegativeIsNotSupported": "More than one negative attribute is not supported",
   "app.theme.light": "Luz fresca",
   "app.theme.dark": "Oscuro profundo",
   "app.theme.contrast": "Alto contraste",

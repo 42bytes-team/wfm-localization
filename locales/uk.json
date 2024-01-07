@@ -13,6 +13,8 @@
   "app.form.not_a_bool": "Повинно бути в форматі істина\\хиба (булеве)",
   "app.form.too_many_requests": "Ви зробили занадто багато спроб входу\\реєстрації. Повторіть спробу через 1 хвилину.",
   "app.form.too_many_connections": "509: Too many connections (>30)",
+  "app.form.doNotForgetToSetNegative": "Don't forget to set negative attribute",
+  "app.form.moreThanOneNegativeIsNotSupported": "More than one negative attribute is not supported",
   "app.theme.light": "Свіже світло",
   "app.theme.dark": "Глибока темрява",
   "app.theme.contrast": "Високий контраст",
