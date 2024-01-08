@@ -14,6 +14,7 @@
   "app.form.too_many_requests": "너무 잦은 로그인\\가입 시도입니다. 1분 후에 다시 시도해주세요.",
   "app.form.too_many_connections": "509: Too many connections (>30)",
   "app.form.doNotForgetToSetNegative": "Don't forget to set negative attribute",
+  "app.form.atLeastOneNegativeIsRequired": "At least one negative attribute is required",
   "app.form.moreThanOneNegativeIsNotSupported": "More than one negative attribute is not supported",
   "app.theme.light": "밝은 테마",
   "app.theme.dark": "어두운 테마",

@@ -14,6 +14,7 @@
   "app.form.too_many_requests": "Provedli jste příliš mnoho pokusů o přihlášení\\registrací. Zkuste to znovu za 1 minutu.",
   "app.form.too_many_connections": "509: Too many connections (>30)",
   "app.form.doNotForgetToSetNegative": "Don't forget to set negative attribute",
+  "app.form.atLeastOneNegativeIsRequired": "At least one negative attribute is required",
   "app.form.moreThanOneNegativeIsNotSupported": "More than one negative attribute is not supported",
   "app.theme.light": "Světlý",
   "app.theme.dark": "Tmavý",
