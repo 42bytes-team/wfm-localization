@@ -588,7 +588,7 @@
   "app.settings.verification.title": "Settings | Verification",
   "app.settings.verification.localeAndPlatform": " Language and Platform",
   "app.settings.verification.preferedLocale": "Preferred communication language:",
-  "app.settings.verification.preferedLocale.hint": "*May affect incomming messages from other users",
+  "app.settings.verification.preferedLocale.hint": "*May affect incoming messages from other users",
   "app.settings.verification.changeName.hint": "Q: I changed my name, how to update it?",
   "app.settings.verification.selectPlatform": "Your platform:",
   "app.settings.verification.verification": "Verification",
