@@ -598,7 +598,7 @@
   "app.settings.verification.userNotVerified": "未验证",
   "app.settings.verification.howTo": "如何验证帐号",
   "app.settings.verification.howTo.1": "前往 {link} 并登陆",
-  "app.settings.verification.howTo.2": "前往论坛(Fourms)",
+  "app.settings.verification.howTo.2": "前往论坛(Forums)",
   "app.settings.verification.howTo.3": "发送一则新消息给我们的机器人(WarMarketMan)，您可以使用此链接快速发送：{link}",
   "app.settings.verification.howTo.3.compose": "点击以撰写消息",
   "app.settings.verification.howTo.4": "将代码以下列方式填入:",
