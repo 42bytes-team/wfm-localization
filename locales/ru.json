@@ -534,6 +534,7 @@
   "app.tools.ducanator.sort.position_day": "День",
   "app.tools.ducanator.sort.position_week": "Неделя",
   "app.tools.ducanator.sort.position_month": "Месяц",
+  "app.tools.ducanator.noResults": "No results",
   "app.profile.title": "Профиль - {username} | Заказы",
   "app.profile.statistics.title": "Профиль - {username} | Транзакции",
   "app.profile.achievements.title": "Профиль - {username} | Достижения",

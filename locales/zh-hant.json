@@ -534,6 +534,7 @@
   "app.tools.ducanator.sort.position_day": "天",
   "app.tools.ducanator.sort.position_week": "週",
   "app.tools.ducanator.sort.position_month": "月",
+  "app.tools.ducanator.noResults": "No results",
   "app.profile.title": "個人檔案 - {username}",
   "app.profile.statistics.title": "個人檔案 - {username} | 交易",
   "app.profile.achievements.title": "個人檔案 - {username} | 成就",

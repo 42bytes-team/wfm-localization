@@ -534,6 +534,7 @@
   "app.tools.ducanator.sort.position_day": "День",
   "app.tools.ducanator.sort.position_week": "Тиждень",
   "app.tools.ducanator.sort.position_month": "Місяць",
+  "app.tools.ducanator.noResults": "No results",
   "app.profile.title": "Замовлення користувача {username}",
   "app.profile.statistics.title": "Замовлення користувача {username}",
   "app.profile.achievements.title": "Досягнення користувача {username}",

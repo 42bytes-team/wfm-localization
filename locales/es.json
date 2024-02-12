@@ -534,6 +534,7 @@
   "app.tools.ducanator.sort.position_day": "Día",
   "app.tools.ducanator.sort.position_week": "Semana",
   "app.tools.ducanator.sort.position_month": "Mes",
+  "app.tools.ducanator.noResults": "No results",
   "app.profile.title": "Perfil - {username} | Pedidos",
   "app.profile.statistics.title": "Perfil - {username} | Transacciones",
   "app.profile.achievements.title": "Perfil - {username} | Logros",
