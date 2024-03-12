@@ -439,6 +439,7 @@
   "app.auctions.modal.riven.option.negative": "Negativní",
   "app.auctions.modal.riven.button.addAttribute": "+ Přidat",
   "app.auctions.modal.riven.button.removeAttribute": "X",
+  "app.auctions.modal.riven.placeholder.noNegative": "No negative",
   "app.auctions.modal.success": "Aukce byla úspěšně vytvořena!",
   "app.auctions.modal.button.next": "Další",
   "app.auctions.modal.button.previous": "Předchozí",

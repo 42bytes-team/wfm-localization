@@ -439,6 +439,7 @@
   "app.auctions.modal.riven.option.negative": "부정 옵션",
   "app.auctions.modal.riven.button.addAttribute": "+ 추가",
   "app.auctions.modal.riven.button.removeAttribute": "X",
+  "app.auctions.modal.riven.placeholder.noNegative": "No negative",
   "app.auctions.modal.success": "경매가 성공적으로 생성되었습니다!",
   "app.auctions.modal.button.next": "다음",
   "app.auctions.modal.button.previous": "뒤로",

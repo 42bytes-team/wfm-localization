@@ -439,6 +439,7 @@
   "app.auctions.modal.riven.option.negative": "Negative",
   "app.auctions.modal.riven.button.addAttribute": "+ Add",
   "app.auctions.modal.riven.button.removeAttribute": "X",
+  "app.auctions.modal.riven.placeholder.noNegative": "No negative",
   "app.auctions.modal.success": "Contract was successfully created !",
   "app.auctions.modal.button.next": "Next",
   "app.auctions.modal.button.previous": "Back",

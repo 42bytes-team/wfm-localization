@@ -439,6 +439,7 @@
   "app.auctions.modal.riven.option.negative": "负面属性",
   "app.auctions.modal.riven.button.addAttribute": "+ 增加",
   "app.auctions.modal.riven.button.removeAttribute": "X",
+  "app.auctions.modal.riven.placeholder.noNegative": "No negative",
   "app.auctions.modal.success": "已成功创建拍卖！",
   "app.auctions.modal.button.next": "下一项",
   "app.auctions.modal.button.previous": "前一项",

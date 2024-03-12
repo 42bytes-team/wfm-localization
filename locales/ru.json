@@ -439,6 +439,7 @@
   "app.auctions.modal.riven.option.negative": "Отрицательный",
   "app.auctions.modal.riven.button.addAttribute": "+ Добавить",
   "app.auctions.modal.riven.button.removeAttribute": "X",
+  "app.auctions.modal.riven.placeholder.noNegative": "No negative",
   "app.auctions.modal.success": "Аукцион был успешно создан !",
   "app.auctions.modal.button.next": "Далее",
   "app.auctions.modal.button.previous": "Назад",

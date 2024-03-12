@@ -439,6 +439,7 @@
   "app.auctions.modal.riven.option.negative": "Negativ",
   "app.auctions.modal.riven.button.addAttribute": "+ Hinzufügen",
   "app.auctions.modal.riven.button.removeAttribute": "X",
+  "app.auctions.modal.riven.placeholder.noNegative": "No negative",
   "app.auctions.modal.success": "Auktion wurde erfolgreich erstellt!",
   "app.auctions.modal.button.next": "Weiter",
   "app.auctions.modal.button.previous": "Zurück",
