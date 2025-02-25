@@ -1,0 +1,10 @@
+{
+    "templates": {
+        "set": "{item_name} Set",
+        "blueprint": "{item_name} Kalıp",
+        "imprint": "{item_name} İmprintİ",
+        "key": "{item_name} (Anahtar)",
+        "veiled_riven": "{item_name} (Açıklanmamış)",
+        "crafted": "{item_name} (Oluşturulmuş)"
+    }
+}
