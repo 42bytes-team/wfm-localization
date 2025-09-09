@@ -172,8 +172,6 @@
     "app.filters.auction.state": "Auction state",
     "app.filters.auction.category": "Category",
 
-
-
     "app.rarity.common": "Common",
     "app.rarity.uncommon": "Uncommon",
     "app.rarity.rare": "Rare",
@@ -185,8 +183,8 @@
 
     "app.sort.label": "Sort By",
     "app.sort.itemName": "Name",
-    "app.sort.createDate": "Creation date",
-    "app.sort.updateDate": "Last update",
+    "app.sort.createdAt": "Creation date",
+    "app.sort.updatedAt": "Last update",
     "app.sort.online_status": "Online Status",
     "app.sort.user_reputation": "Reputation",
     "app.sort.price": "Unit price",
