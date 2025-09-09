@@ -432,7 +432,7 @@
     "app.auctions.errors.increment_is_less_than_price_delta": "Valor de incremento mínimo incorrecto",
     "app.auctions.errors.cant_convert_to_order_bids_exists": "No se puede convertir una subasta en una venta, la subasta tiene ofertas.",
     "app.auctions.errors.top_bid_is_greater_than_buyout": "El valor de la oferta mas grande es mayor que el valor de compra especificado",
-    "app.auctions.errors.starting_higher_than_lowet_bid": "El precio inicial no puede ser superior a la oferta mínima existente en la subasta.",
+    "app.auctions.errors.starting_higher_than_lowest_bid": "El precio inicial no puede ser superior a la oferta mínima existente en la subasta.",
     "app.itemPage.orders.title": "{itemName} - Compra y vende pedidos {platform, select, pc {} xbox {| Xbox } ps4 {| Ps4 } switch {| Switch } other {}}| Warframe Market",
     "app.itemPage.orders.meta.description": "Precio: {price} platino | Cantidad a vender: {volume} | Consigue los mejores precios y ofertas para {itemName}",
     "app.itemPage.orders.meta.description.price.notKnown": "¯\\_(ツ)_/¯",
