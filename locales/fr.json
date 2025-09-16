@@ -148,6 +148,7 @@
   "app.footer.privacy": "Vie privée",
   "app.footer.privacy.policy": "Politique de confidentialité",
   "app.footer.privacy.gdpr": "Préférences GDPR",
+  "app.footer.privacy.cmp": "Update cookie preferences",
   "app.footer.contribute": "Contribuer",
   "app.footer.contacts": "Contactez-nous",
   "app.footer.apiDocs": "Documentation API",

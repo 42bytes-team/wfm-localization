@@ -148,6 +148,7 @@
   "app.footer.privacy": "개인정보 처리방침",
   "app.footer.privacy.policy": "개인정보 처리방침",
   "app.footer.privacy.gdpr": "GDPR 설정",
+  "app.footer.privacy.cmp": "Update cookie preferences",
   "app.footer.contribute": "기여 (GitHub)",
   "app.footer.contacts": "문의",
   "app.footer.apiDocs": "API 문서",
