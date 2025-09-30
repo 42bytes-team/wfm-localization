@@ -605,7 +605,7 @@
   "app.profile.statistics.itemsBought": "Предметів купено",
   "app.profile.statistics.historyHeader": "Історія",
   "app.profile.statistics.nothing": "Нічого",
-  "app.profile.ban.title": "Обліковий запис було призупинено з причини:",
+  "app.profile.ban.title": "Обліковий запис заблоковано з причини:",
   "app.profile.ban.titleAlt": "Обліковий запис заблоковано",
   "app.profile.ban.restoreIn": "Обліковий запис буде відновлено",
   "app.profile.ban.contactUs": "Зв’яжіться з модератором",
