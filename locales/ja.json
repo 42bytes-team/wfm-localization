@@ -606,6 +606,7 @@
   "app.profile.statistics.historyHeader": "履歴",
   "app.profile.statistics.nothing": "なし",
   "app.profile.ban.title": "アカウントは以下の理由で停止されました：",
+  "app.profile.ban.titleAlt": "アカウントが停止されました",
   "app.profile.ban.restoreIn": "アカウントは復元されます",
   "app.profile.ban.contactUs": "モデレーターに連絡",
   "app.profile.ban.readTos": "利用規約を読む",

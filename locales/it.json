@@ -606,6 +606,7 @@
   "app.profile.statistics.historyHeader": "Cronologia",
   "app.profile.statistics.nothing": "Niente",
   "app.profile.ban.title": "Account sospeso a causa di:",
+  "app.profile.ban.titleAlt": "Account sospeso",
   "app.profile.ban.restoreIn": "L'account verrà ripristinato",
   "app.profile.ban.contactUs": "Contatta un moderatore",
   "app.profile.ban.readTos": "Leggi i nostri T.O.S.",

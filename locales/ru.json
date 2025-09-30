@@ -606,6 +606,7 @@
   "app.profile.statistics.historyHeader": "История",
   "app.profile.statistics.nothing": "Ничего",
   "app.profile.ban.title": "Аккаунт был приостановлен по причине:",
+  "app.profile.ban.titleAlt": "Аккаунт заблокирован",
   "app.profile.ban.restoreIn": "Аккаунт будет восстановлен",
   "app.profile.ban.contactUs": "Свяжитесь с модератором",
   "app.profile.ban.readTos": "Прочитайте наши Условия использования",

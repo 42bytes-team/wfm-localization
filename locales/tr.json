@@ -606,6 +606,7 @@
   "app.profile.statistics.historyHeader": "Geçmiş",
   "app.profile.statistics.nothing": "Hiçbir şey",
   "app.profile.ban.title": "Account was suspended, due to:",
+  "app.profile.ban.titleAlt": "Hesap askıya alındı",
   "app.profile.ban.restoreIn": "Account will be restored",
   "app.profile.ban.contactUs": "Contact a moderator",
   "app.profile.ban.readTos": "Read our T.O.S.",

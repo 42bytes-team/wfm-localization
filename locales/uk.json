@@ -606,6 +606,7 @@
   "app.profile.statistics.historyHeader": "Історія",
   "app.profile.statistics.nothing": "Нічого",
   "app.profile.ban.title": "Обліковий запис було призупинено з причини:",
+  "app.profile.ban.titleAlt": "Обліковий запис заблоковано",
   "app.profile.ban.restoreIn": "Обліковий запис буде відновлено",
   "app.profile.ban.contactUs": "Зв’яжіться з модератором",
   "app.profile.ban.readTos": "Ознайомтеся з нашими Умовами надання послуг",

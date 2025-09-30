@@ -606,6 +606,7 @@
   "app.profile.statistics.historyHeader": "Histórico",
   "app.profile.statistics.nothing": "Nada",
   "app.profile.ban.title": "A conta foi suspensa por:",
+  "app.profile.ban.titleAlt": "Conta suspensa",
   "app.profile.ban.restoreIn": "A conta será restaurada",
   "app.profile.ban.contactUs": "Contate um moderador",
   "app.profile.ban.readTos": "Leia nossos Termos de Serviço",

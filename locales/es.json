@@ -606,6 +606,7 @@
   "app.profile.statistics.historyHeader": "Historial",
   "app.profile.statistics.nothing": "Nada",
   "app.profile.ban.title": "Account was suspended, due to:",
+  "app.profile.ban.titleAlt": "Cuenta suspendida",
   "app.profile.ban.restoreIn": "Account will be restored",
   "app.profile.ban.contactUs": "Contact a moderator",
   "app.profile.ban.readTos": "Read our T.O.S.",

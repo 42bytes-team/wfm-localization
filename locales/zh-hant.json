@@ -606,6 +606,7 @@
   "app.profile.statistics.historyHeader": "歷史",
   "app.profile.statistics.nothing": "無",
   "app.profile.ban.title": "帳號已被封禁，原因：",
+  "app.profile.ban.titleAlt": "帳號已被封禁",
   "app.profile.ban.restoreIn": "帳號將被恢復",
   "app.profile.ban.contactUs": "聯絡管理員",
   "app.profile.ban.readTos": "閱讀我們的服務條款",

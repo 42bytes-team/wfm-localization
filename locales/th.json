@@ -606,6 +606,7 @@
   "app.profile.statistics.historyHeader": "ประวัติ",
   "app.profile.statistics.nothing": "ไม่พบ",
   "app.profile.ban.title": "Account was suspended, due to:",
+  "app.profile.ban.titleAlt": "บัญชีถูกระงับการใช้งาน",
   "app.profile.ban.restoreIn": "Account will be restored",
   "app.profile.ban.contactUs": "Contact a moderator",
   "app.profile.ban.readTos": "Read our T.O.S.",

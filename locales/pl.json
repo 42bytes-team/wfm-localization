@@ -606,6 +606,7 @@
   "app.profile.statistics.historyHeader": "Historia",
   "app.profile.statistics.nothing": "Nic",
   "app.profile.ban.title": "Konto zostało zawieszone z powodu:",
+  "app.profile.ban.titleAlt": "Konto zawieszone",
   "app.profile.ban.restoreIn": "Konto zostanie przywrócone",
   "app.profile.ban.contactUs": "Skontaktuj się z moderatorem",
   "app.profile.ban.readTos": "Przeczytaj regulamin",

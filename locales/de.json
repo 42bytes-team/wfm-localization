@@ -606,6 +606,7 @@
   "app.profile.statistics.historyHeader": "Verlauf",
   "app.profile.statistics.nothing": "Nichts",
   "app.profile.ban.title": "Benutzerkonto wurde aus folgendem Grund gesperrt:",
+  "app.profile.ban.titleAlt": "Konto wurde gesperrt",
   "app.profile.ban.restoreIn": "Benutzerkonto wird wiederhergestellt",
   "app.profile.ban.contactUs": "Einen Moderator kontaktieren",
   "app.profile.ban.readTos": "Lies unsere Nutzungsbedingungen.",
