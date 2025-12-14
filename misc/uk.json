@@ -5,6 +5,7 @@
         "imprint": "Відбиток: {item_name}",
         "key": "{item_name} (ключ)",
         "veiled_riven": "{item_name} (прихований)",
-        "crafted": "{item_name} (виготовлено)"
+        "crafted": "{item_name} (виготовлено)",
+        "melee": "{item_name} (Melee)"
     }
 }
