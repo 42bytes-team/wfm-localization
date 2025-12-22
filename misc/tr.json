@@ -6,6 +6,6 @@
         "key": "{item_name} (Anahtar)",
         "veiled_riven": "{item_name} (Açıklanmamış)",
         "crafted": "{item_name} (Oluşturulmuş)",
-        "melee": "{item_name} (Melee)"
+        "melee": "{item_name} (Yakın Dövüş)"
     }
 }

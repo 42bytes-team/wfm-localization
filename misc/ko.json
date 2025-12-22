@@ -6,6 +6,6 @@
         "key": "{item_name} (키)",
         "veiled_riven": "{item_name} (미해금)",
         "crafted": "{item_name} (제작)",
-        "melee": "{item_name} (Melee)"
+        "melee": "{item_name} (근접)"
     }
 }

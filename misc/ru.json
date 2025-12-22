@@ -6,6 +6,6 @@
         "key": "{item_name} (Ключ)",
         "veiled_riven": "{item_name} (Закрытый)",
         "crafted": "{item_name} (Создан)",
-        "melee": "{item_name} (Melee)"
+        "melee": "{item_name} (Ближний бой)"
     }
 }

@@ -5,7 +5,7 @@
         "imprint": "{item_name} Imprint",
         "key": "{item_name} (Key)",
         "veiled_riven": "{item_name} (Veiled)",
-        "crafted": "{item_name} (Crafted)",
-        "melee": "{item_name} (Melee)"
+        "crafted": "{item_name} (Fabbricato)",
+        "melee": "{item_name} (Mischia)"
     }
 }

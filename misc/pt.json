@@ -5,7 +5,7 @@
         "imprint": "{item_name} (Código Genético)",
         "key": "{item_name} (Chave)",
         "veiled_riven": "{item_name} (Oculto)",
-        "crafted": "{item_name} (Crafted)",
-        "melee": "{item_name} (Melee)"
+        "crafted": "{item_name} (Fabricado)",
+        "melee": "{item_name} (Corpo a Corpo)"
     }
 }
