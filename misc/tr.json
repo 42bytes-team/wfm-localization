@@ -5,6 +5,7 @@
         "imprint": "{item_name} İmprintİ",
         "key": "{item_name} (Anahtar)",
         "veiled_riven": "{item_name} (Açıklanmamış)",
-        "crafted": "{item_name} (Oluşturulmuş)"
+        "crafted": "{item_name} (Oluşturulmuş)",
+        "melee": "{item_name} (Yakın Dövüş)"
     }
 }
