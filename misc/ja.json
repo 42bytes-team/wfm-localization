@@ -1,0 +1,11 @@
+{
+    "templates": {
+        "set": "{item_name} セット",
+        "blueprint": "{item_name} 設計図",
+        "imprint": "{item_name} インプリント",
+        "key": "{item_name}（鍵）",
+        "veiled_riven": "{item_name}（ベールド）",
+        "crafted": "{item_name}（クラフト済み）",
+        "melee": "{item_name}（近接）"
+    }
+}
