@@ -1202,7 +1202,7 @@
   "app.tos.reporting.proof.online_ingame": "Dla zgłoszeń powiązanych z osobą zamawiającą która ma status \"online w grze\", chat gry musi pokazać liczne próby kontaktu z osobą zamawiającą.{br}Musi minąć 15 miunt od pierwszej próby kontaktu bez odpowiedzi lub 5 minut jeżeli druga strona poszła offline.",
   "app.tos.reporting.proof.other": "Inne informacje które osoba zgłaszająca uważa za konieczne.",
   "app.tos.reporting.proof.profile": "Jeden screenshot profilu osoby zamawiającej, pokazujący ich obecny status i zamówienia.{br}Filtry nad zamówieniami mogą być użyte jeżeli wymagane do pokazania określonych zamówień.",
-  "app.tos.reporting.proof.site_chat": "Screenshots of the Site chat",
+  "app.tos.reporting.proof.site_chat": "Screenshoty chatu strony",
   "app.tos.reporting.proof.site_chat_online": "Dla zgłoszeń powiązanych z osobą zamawiającą która ma status \"online\", chat na stronie musi pokazywać 1 godzinę bez odpowiedzi.",
   "app.tos.reporting.proof.site_indication": "Musi być dokładny dowód, że osoba kontaktująca znalazła osobę zamawiająca poprzez stronę, na przykład poprzez kopiuj/wklej, przed odpowiedzią osoby zamawiającej.",
   "app.tos.reporting.proof.timestamps": "Znaczniki czasu muszą być włązone w opcjach gry.",
