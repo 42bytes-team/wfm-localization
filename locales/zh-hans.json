@@ -436,7 +436,7 @@
   "app.auction.bans.hint": "封禁仅在次拍卖中生效",
   "app.auction.bans.empty": "目前沒有人被封禁",
   "app.auction.bans.button.removeBan": "解除封禁",
-  "app.auction.clipboard.template": "/w {ingameName} 你好!",
+  "app.auction.clipboard.template": "/w {ingameName} Hi!",
   "app.auction.riven.modRank": "Mod 等级",
   "app.auction.riven.mastery": "精通段位",
   "app.auction.riven.reRolls": "循环次数",

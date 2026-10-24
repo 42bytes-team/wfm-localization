@@ -436,7 +436,7 @@
   "app.auction.bans.hint": "I ban si applicano solo a questa specifica asta.",
   "app.auction.bans.empty": "Nessuno è stato bannato, per ora.",
   "app.auction.bans.button.removeBan": "Rimuovi ban",
-  "app.auction.clipboard.template": "/w {ingameName} Ciao!",
+  "app.auction.clipboard.template": "/w {ingameName} Hi!",
   "app.auction.riven.modRank": "Grado Mod",
   "app.auction.riven.mastery": "Maestria",
   "app.auction.riven.reRolls": "Reroll",
