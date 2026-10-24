@@ -436,7 +436,7 @@
   "app.auction.bans.hint": "특정 경매에서는 차단기능만 적용됩니다.",
   "app.auction.bans.empty": "아직 차단된 사용자가 없습니다.",
   "app.auction.bans.button.removeBan": "차단 해제",
-  "app.auction.clipboard.template": "/w {ingameName} 안녕하세요!",
+  "app.auction.clipboard.template": "/w {ingameName} Hi!",
   "app.auction.riven.modRank": "모드 랭크",
   "app.auction.riven.mastery": "마스터리 랭크",
   "app.auction.riven.reRolls": "순환 횟수",

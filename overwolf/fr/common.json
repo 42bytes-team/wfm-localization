@@ -367,7 +367,7 @@
     "app.auction.bans.hint": "Les interdictions ne s'appliquent qu'à cette enchère spécifique.",
     "app.auction.bans.empty": "Personne n'est encore interdit.",
     "app.auction.bans.button.removeBan": "Unban",
-    "app.auction.clipboard.template": "/w {ingameName} Bonjour!",
+    "app.auction.clipboard.template": "/w {ingameName} Hi!",
     "app.auction.riven.modRank": "Rang Mod",
     "app.auction.riven.mastery": "Maîtrise",
     "app.auction.riven.reRolls": "Re-rolls",

@@ -436,7 +436,7 @@
   "app.auction.bans.hint": "Баны распространяются только на этот конкретный Аукцион.",
   "app.auction.bans.empty": "Никто не забанен, пока.",
   "app.auction.bans.button.removeBan": "Разбанить",
-  "app.auction.clipboard.template": "/w {ingameName} Привет!",
+  "app.auction.clipboard.template": "/w {ingameName} Hi!",
   "app.auction.riven.modRank": "Ранг мода",
   "app.auction.riven.mastery": "Ур. мастерства",
   "app.auction.riven.reRolls": "Рероллы",

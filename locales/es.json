@@ -436,7 +436,7 @@
   "app.auction.bans.hint": "Los baneos se aplican solo a esta subasta.",
   "app.auction.bans.empty": "Nadie está baneado aún.",
   "app.auction.bans.button.removeBan": "Quitar ban",
-  "app.auction.clipboard.template": "/w {ingameName} ¡Hola!",
+  "app.auction.clipboard.template": "/w {ingameName} Hi!",
   "app.auction.riven.modRank": "Rango del mod",
   "app.auction.riven.mastery": "Maestría",
   "app.auction.riven.reRolls": "Re-rolls",

@@ -436,7 +436,7 @@
   "app.auction.bans.hint": "禁止はこのオークションにのみ適用されます。",
   "app.auction.bans.empty": "禁止されているユーザーはいません。",
   "app.auction.bans.button.removeBan": "禁止を解除",
-  "app.auction.clipboard.template": "/w {ingameName} こんにちは！",
+  "app.auction.clipboard.template": "/w {ingameName} Hi!",
   "app.auction.riven.modRank": "モッドランク",
   "app.auction.riven.mastery": "マスタリー",
   "app.auction.riven.reRolls": "再ロール回数",

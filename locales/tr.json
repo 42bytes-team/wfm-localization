@@ -436,7 +436,7 @@
   "app.auction.bans.hint": "Yasaklamalar yalnızca bu özel açık artırma için geçerlidir.",
   "app.auction.bans.empty": "Henüz kimse yasaklanmadı.",
   "app.auction.bans.button.removeBan": "Yasaklamayı Kaldır",
-  "app.auction.clipboard.template": "/w {ingameName} Selam!",
+  "app.auction.clipboard.template": "/w {ingameName} Hi!",
   "app.auction.riven.modRank": "Mod Seviyesi",
   "app.auction.riven.mastery": "Ustalık Seviyesi",
   "app.auction.riven.reRolls": "Devir Sayısı",
