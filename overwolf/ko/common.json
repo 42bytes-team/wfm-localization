@@ -406,7 +406,7 @@
     "app.auctions.modal.button.openCreated": "생성된 경매 확인",
     "app.auctions.modal.button.update": "완료",
     "app.auctions.modal.label.visibility": "판매",
-    "app.auctions.modal.button.visibility.invisible": "비공개",
+    "app.auctions.modal.button.visibility.hidden": "비공개",
     "app.auctions.modal.button.visibility.visible": "공개",
     "app.auctions.modal.label.description": "설명",
     "app.auctions.modal.placeholder.description": "선택사항",

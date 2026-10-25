@@ -406,7 +406,7 @@
     "app.auctions.modal.button.openCreated": "Open newly created auction",
     "app.auctions.modal.button.update": "Update",
     "app.auctions.modal.label.visibility": "Order is",
-    "app.auctions.modal.button.visibility.invisible": "Private",
+    "app.auctions.modal.button.visibility.hidden": "Nascosto",
     "app.auctions.modal.button.visibility.visible": "Public",
     "app.auctions.modal.label.description": "Description",
     "app.auctions.modal.placeholder.description": "Optional",
